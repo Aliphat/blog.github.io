@@ -1,12 +1,11 @@
 
-### 👋Ice-Dragon-li👋
+### 👋个人信息👋
 
 
 #### 个人信息
-- 微信：llb26532
-- Mixin：26532
-- 邮箱📮：li_longbin@foxmail.com
-- 擅长语言：python
+- 微信：暂不开放
+- 邮箱📮：ppx@ppx.com
+- 擅长语言：Python,PHP(laravela)
 
 
 #### 可以提供服务
@@ -33,14 +32,18 @@
 > * [加入写作训练营](write-camp/README.md)
 > * [给网站配置 ssl 证书](ssl-ngnix/README.md)
 > * [vscode 免密登陆服务器](vscode-ssh/vscode-ssh.md)
+
+### 临时
+
+> * [介绍](md_test/jie-shao.md)
+> * [搭建免费 Docsify + Pages 个人静态博客](new-blog/README.md)
+
+
+
+
+
+
 -----
-
-
-
-
-
-
-
 
 本文档的版权协议为 [CC-BY-NC-ND license](https://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh)。
 
