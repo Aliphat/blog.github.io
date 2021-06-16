@@ -9,22 +9,25 @@
 
 
 #### 可以提供服务
-- 心理咨询（持有三级心理咨询师证）
-- 我提供教程的解答
+- server0
+- server1
 
 
 #### 摩尔庄园装修公司
 > * [加入BOX定投践行群](jian-xing-qun/README.md)
-> * [搭建免费 Docsify + Pages 个人静态博客](new-blog/README.md)
-> * [利用免费 CDN 加速你的网页](speedup-web/speedup-web.md)
-> * [加入写作训练营](write-camp/README.md)
 
 #### 蚂蚁雅黑
 > * [利用免费 CDN 加速你的网页](speedup-web/speedup-web.md)
-> * [加入写作训练营](write-camp/README.md)
 
 
 ### 教程
+
+#### VOS
+
+> * [安装VOS](markdown_note/md_voip/vos_install.md)
+> * [使用VOS](markdown_note/md_voip/vos_use.md)
+
+#### 其他
 
 > * [加入BOX定投践行群](jian-xing-qun/README.md)
 > * [搭建免费 Docsify + Pages 个人静态博客](new-blog/README.md)
