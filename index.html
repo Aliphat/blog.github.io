@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>a lilongbin's work</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="An effective strategy for everyone...">
+  <meta name="Keywords" content="ETF,BOX,BTC,EOS,XIN,'regular investing','regular investment',blockchain,crypto,currency,比特币,区块链,投资,长期,韭菜,炒币,赚钱,交易,定投，搭建个人博客，docsify,github pages,个人免费博客">
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <!-- 调回原来的主题把两边删掉<link rel="stylesheet" href="/css/vue.css"> -->
+  <link 
+    rel="stylesheet"
+    href="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/style.min.css"
+    title="docsify-darklight-theme"
+    type="text/css"
+  />
+  <link rel="manifest" href="/favicon/manifest.json">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/favicon/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+</head>
+<body>
+  <div id="app"></div>
+  <script>
+    window.$docsify = {
+      name: '',
+      repo: 'https://github.com/unscientific/unscientific.github.io',
+      ga: 'UA-172032840-1',
+      noEmoji: true,
+
+      themeable: {
+        readyTransition: true, //default
+        responsiveTables: true
+      },
+
+      loadNavbar: true,
+      coverpage: false,
+      onlyCover: false,
+
+      search: 'auto',
+
+      // complete configuration parameters
+      search: {
+       
+      maxAge: 86400000, // Expiration time, the default one day
+      paths: [
+        '/',
+        '/jian-xing-qun/',            // => /README.md
+        '/new-web/',      // => /README.md
+        '/blog/', // => /blog/README.md
+      ], // or 'auto'
+
+      // Localization
+      placeholder: {
+        '/': 'Search',
+        '/cn/': '在此输入并搜索',
+        '/en/': 'Type to search'
+      },
+
+      noData: 'No Results!',
+
+      // Localization
+      noData: {
+        '/cn/': '找不到结果',
+        '/en/': 'No Results'
+      },
+
+      // Headline depth, 1 - 6
+      depth: 2,
+
+      hideOtherSidebarContent: false, // whether or not to hide other sidebar content
+
+      // To avoid search index collision
+      // between multiple websites under the same domain
+      namespace: 'website-1',
+      }
+    }
+  </script>
+  <script src="/scripts/docsify.min.js"></script>
+  <script src="/scripts/search.min.js"></script>
+  <script src="/scripts/ga.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js" type="text/javascript"></script>
+  <script>
+    const gitalk = new Gitalk({
+      clientID: 'dc86298554d8331aa969',
+      clientSecret: 'c082fc9059f5016f4380a6229b66db28cfdd330a',
+      repo: 'gitalk',
+      owner: 'unscientific',
+      admin: ['unscientific'],
+      title: location.hash.match(/#(.*?)([?]|$)/)[1],
+      id: location.hash.match(/#(.*?)([?]|$)/)[1],
+      // facebook-like distraction free mode
+      distractionFreeMode: false
+    })
+    window.onhashchange = function(event){
+      if(event.newURL.split('?')[0] !== event.oldURL .split('?')[0]) {
+        location.reload()
+      }
+    }
+  </script>
+  
+</body>
+</html>
+
+
+
