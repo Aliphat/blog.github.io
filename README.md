@@ -31,6 +31,10 @@
 > * [安装VOS](markdown_note/md_voip/vos_install.md)
 > * [使用VOS](markdown_note/md_voip/vos_use.md)
 
+#### 记录
+
+> * [安装VOS](markdown_note/md_weihu/user1.md)
+
 #### 其他
 
 > * [加入BOX定投践行群](jian-xing-qun/README.md)
