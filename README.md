@@ -24,6 +24,8 @@
 
 ### 教程
 
+> * [PHP入坑指南](markdown_note/md_php/index.md)
+
 #### VOS
 
 > * [安装VOS](markdown_note/md_voip/vos_install.md)
