@@ -33,7 +33,7 @@
 
 #### 记录
 
-> * [安装VOS](markdown_note/md_weihu/user1.md)
+> * [第一次远程维护桌面](markdown_note/md_weihu/user1.md)
 
 #### 其他
 
