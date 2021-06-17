@@ -2,40 +2,40 @@
 ### 👋个人信息👋
 
 
-#### Introduction
+#### 我是谁呀
 - 微信：暂不开放
 - 邮箱📮：ppx@ppx.com
 - 擅长语言：Python,PHP(laravela)
 
 
-#### 可以提供服务
+#### 我可以为你做点什么？
 - server0
 - server1
 
 
-#### 摩尔庄园开发有限公司
-> * [加入BOX定投践行群](jian-xing-qun/README.md)
+#### 摩尔庄园手游交流，我是大地主
+> * [随便测试一下](jian-xing-qun/README.md)
 
-#### 蚂蚁雅黑业务服务部
+#### 蚂蚁牙嘿逗比娱乐中心
 > * [利用免费 CDN 加速你的网页](speedup-web/speedup-web.md)
 
-#### 远程维护方案组
+#### 远程维护：帮你电脑加加速
 > * [教你如何使用远程工具](markdown_note/md_teach/yuan-cheng.md)
 
-### 教程
+### 教程：PHP程序猿的艰难历程
 
 > * [PHP入坑指南](markdown_note/md_php/index.md)
 
-#### VOS
+#### VOS：一个探索中的东东
 
 > * [安装VOS](markdown_note/md_voip/vos_install.md)
 > * [使用VOS](markdown_note/md_voip/vos_use.md)
 
-#### 记录
+#### 记录：大概是日常的工作流咯
 
 > * [第一次远程维护桌面](markdown_note/md_weihu/user1.md)
 
-#### 其他
+#### 其他：来自此博客老博主的
 
 > * [加入BOX定投践行群](jian-xing-qun/README.md)
 > * [搭建免费 Docsify + Pages 个人静态博客](new-blog/README.md)
