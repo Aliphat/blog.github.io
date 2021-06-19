@@ -1,8 +1,9 @@
 # 虚拟机克隆之后网卡不能用的解决方法
+
 > 环境：centos6.5
 
 
-## 方法一
+## 第一种方法
 ```Shell
 在克隆后的虚拟机中编辑
 #vim /etc/udev/rules.d/70-persistent-net.rules
