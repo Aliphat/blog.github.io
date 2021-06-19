@@ -25,6 +25,7 @@
 ### 教程：PHP程序猿的艰难历程
 
 > * [PHP入坑指南](markdown_note/md_php/index.md)
+> * [虚拟机克隆之后网卡不能用](markdown_note/md_jishu/note1.md)
 
 #### VOS：一个探索中的东东
 
