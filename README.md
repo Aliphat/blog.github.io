@@ -51,10 +51,6 @@
 > * [搭建免费 Docsify + Pages 个人静态博客](new-blog/README.md)
 
 
-
-
-
-
 -----
 
 本文档的版权协议为 [CC-BY-NC-ND license](https://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh)。
