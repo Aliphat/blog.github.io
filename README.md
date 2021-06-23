@@ -14,7 +14,7 @@
 
 
 #### 摩尔庄园手游交流，我是大地主
-> * [随便测试一下](jian-xing-qun/README.md)
+
 
 #### 蚂蚁牙嘿逗比娱乐中心
 > * [利用免费 CDN 加速你的网页](speedup-web/speedup-web.md)
@@ -38,7 +38,6 @@
 
 #### 其他：来自此博客老博主的
 
-> * [加入BOX定投践行群](jian-xing-qun/README.md)
 > * [搭建免费 Docsify + Pages 个人静态博客](new-blog/README.md)
 > * [利用免费 CDN 加速你的网页](speedup-web/speedup-web.md)
 > * [加入写作训练营](write-camp/README.md)
