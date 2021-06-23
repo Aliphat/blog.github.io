@@ -1,5 +1,5 @@
-[](#)破解https的SSL Pinning
-========================
+# 破解https的SSL Pinning
+
 
 如果有些https，在之前设置了好各种证书和配置后，看到的：
 
@@ -7,11 +7,9 @@
 *   要么是：加密的乱码
 *   要么是：报错无法抓包
 
-而无法看到我们希望的明文数据，则：
+而无法看到我们希望的明文数据，则：最大可能是，对方用了https的`SSL pinning`
 
-最大可能是，对方用了https的`SSL pinning`
-
-[](#)什么是SSL pinning
+## 什么是SSL pinning
 -------------------
 
 `SSL pinning`\=`证书绑定`\=`SSL证书绑定`
@@ -24,7 +22,7 @@
 
 尤其是：
 
-### [](#)Android 7.0之后系统如何破解https的ssl pinning
+## Android 7.0之后系统如何破解https的ssl pinning
 
 对于Android 7.0 (API 24) 之后，做了些改动，使得系统安全性增加了，导致：
 
@@ -47,7 +45,7 @@
 
 下面详细介绍每一种方案和具体如何操作：
 
-### [](#)自己修改app去增加配置，允许https抓包
+### 自己修改app去增加配置，允许https抓包
 
 通过修改app的配置，使得允许https抓包
 
