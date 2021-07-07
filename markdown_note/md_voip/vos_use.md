@@ -35,3 +35,24 @@
 #### 2.新添加SIP账户
 
 出现问题，就直接添加新企业账户。
+
+
+### 4.vos数据操作
+```Shell
+# 虚拟机本地主机
+GRANT ALL PRIVILEGES ON *.* TO 'root'@'192.168.101.%' IDENTIFIED BY '' WITH GRANT OPTION;
+flush privileges;
+
+REVOKE ALL PRIVILEGES ON *.*  'root'@'192.168.101.%';
+flush privileges;
+
+
+# 远程本地远程
+GRANT ALL PRIVILEGES ON *.* TO 'root'@'112.240.14.183' IDENTIFIED BY '' WITH GRANT OPTION;
+flush privileges;
+
+REVOKE ALL ON *.*  'root'@'112.240.14.183';
+flush privileges;
+
+```
+
