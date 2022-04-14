@@ -12,6 +12,10 @@
 - server0
 - server1
 
+### 👋体系tx👋
+#### 关于公司的组织架构
+> * [一图看懂企业权利结构 CEO、CFO、CTO、COO是什么职位](markdown_note/tx_company/compay_jiagou.md)
+
 
 #### 抓包相关
 
@@ -33,6 +37,7 @@
 
 > * [安装VOS](markdown_note/md_voip/vos_install.md)
 > * [使用VOS](markdown_note/md_voip/vos_use.md)
+> * [呼叫中心设备](markdown_note/callcenter/ipgateway.md)
 
 #### 记录：大概是日常的工作流咯
 
