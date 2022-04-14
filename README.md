@@ -12,6 +12,8 @@
 - server0
 - server1
 
+> * [首页](markdown_note/index/index.md)
+
 ### 👋体系tx👋
 #### 关于公司的组织架构
 > * [一图看懂企业权利结构 CEO、CFO、CTO、COO是什么职位](markdown_note/tx_company/compay_jiagou.md)
