@@ -12,12 +12,10 @@
 - 邮箱📮：ppx@ppx.com
 - 擅长语言：Python,PHP(laravela)
 
-
-
 #### 公司组织架构
 > * [一图看懂企业权利结构 CEO、CFO、CTO、COO是什么职位](markdown_note/tx_company/compay_jiagou.md)
 
-### 教程：PHP程序猿的艰难历程
+#### 一些简单的教程
 
 > * [PHP入坑指南](markdown_note/md_php/index.md)
 > * [虚拟机克隆之后网卡不能用](markdown_note/md_jishu/note1.md)
