@@ -2,7 +2,9 @@
 
 [个人导航中心](markdown_note/index/index.md)
 
-[关于本博客的介绍](md_test/jie-shao.md)
+[收集的小工具](markdown_note/index/tools.md)
+
+[关于本博客的介绍](markdown_note/index/jie-shao.md)
 
 
 #### 博主介绍
@@ -12,7 +14,6 @@
 
 
 
-### 👋体系tx👋
 #### 公司组织架构
 > * [一图看懂企业权利结构 CEO、CFO、CTO、COO是什么职位](markdown_note/tx_company/compay_jiagou.md)
 
