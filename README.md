@@ -18,15 +18,15 @@
 #### 一些简单的教程
 
 > * [PHP入坑指南](markdown_note/md_php/index.md)
-> * [虚拟机克隆之后网卡不能用](markdown_note/md_jishu/note1.md)
-> * [抓包SSL Pinning](markdown_note/md_zhuabao/ssl_Pinning.md)
-> * [教你如何使用远程工具](markdown_note/md_teach/yuan-cheng.md)
-> * [第一次远程维护桌面](markdown_note/md_weihu/user1.md)
+> * [虚拟机克隆之后网卡不能用](markdown_note/Doc/VMware_Network.md)
+> * [抓包SSL Pinning](markdown_note/Doc/ssl_Pinning.md)
+> * [教你如何使用远程工具](markdown_note/Doc/yuan-cheng.md)
+> * [第一次远程维护桌面](markdown_note/Service/user1.md)
 
 #### 关于呼叫中心
 
-> * [安装VOS](markdown_note/md_voip/vos_install.md)
-> * [使用VOS](markdown_note/md_voip/vos_use.md)
+> * [安装VOS](markdown_note/callcenter/vos_install.md)
+> * [使用VOS](markdown_note/callcenter/vos_use.md)
 > * [呼叫中心设备](markdown_note/callcenter/ipgateway.md)
 
 
