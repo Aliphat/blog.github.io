@@ -1,10 +1,10 @@
 ### 👋个人信息👋
 
-[个人导航中心](markdown_note/index/index.md)
+[个人导航中心](Note/index/index.md)
 
-[收集的小工具](markdown_note/index/tools.md)
+[收集的小工具](Note/index/tools.md)
 
-[关于本博客的介绍](markdown_note/index/jie-shao.md)
+[关于本博客的介绍](Note/index/jie-shao.md)
 
 
 #### 博主介绍
@@ -13,21 +13,21 @@
 - 擅长语言：Python,PHP(laravela)
 
 #### 公司组织架构
-> * [一图看懂企业权利结构 CEO、CFO、CTO、COO是什么职位](markdown_note/tx_company/compay_jiagou.md)
+> * [一图看懂企业权利结构 CEO、CFO、CTO、COO是什么职位](Note/tx_company/compay_jiagou.md)
 
 #### 一些简单的教程
 
-> * [PHP入坑指南](markdown_note/md_php/index.md)
-> * [虚拟机克隆之后网卡不能用](markdown_note/Doc/VMware_Network.md)
-> * [抓包SSL Pinning](markdown_note/Doc/ssl_Pinning.md)
-> * [教你如何使用远程工具](markdown_note/Doc/yuan-cheng.md)
-> * [第一次远程维护桌面](markdown_note/Service/user1.md)
+> * [PHP入坑指南](Note/md_php/index.md)
+> * [虚拟机克隆之后网卡不能用](Note/Doc/VMware_Network.md)
+> * [抓包SSL Pinning](Note/Doc/ssl_Pinning.md)
+> * [教你如何使用远程工具](Note/Doc/yuan-cheng.md)
+> * [第一次远程维护桌面](Note/Service/user1.md)
 
 #### 关于呼叫中心
 
-> * [安装VOS](markdown_note/callcenter/vos_install.md)
-> * [使用VOS](markdown_note/callcenter/vos_use.md)
-> * [呼叫中心设备](markdown_note/callcenter/ipgateway.md)
+> * [安装VOS](Note/callcenter/vos_install.md)
+> * [使用VOS](Note/callcenter/vos_use.md)
+> * [呼叫中心设备](Note/callcenter/ipgateway.md)
 
 
 
