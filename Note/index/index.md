@@ -1,6 +1,11 @@
 # 首页
 
-## ddd
+## 资源  
+
+- 技术线报  [hackernews](https://mailchi.mp/hackernewsletter/599) 
+- 线报导航： [DVA导航](http://www.dva520.com/)  [技术导航](https://www.daohangtx.com/)  
+- 线报网： [678辅助网](https://www.678ccs.com/)   [678辅助网](https://www.xkwo.com/)
+- 资源大全：  [编程导航](https://www.code-nav.cn/resources)   [dmz社区](https://www.dmzshequ.com/)    [IT营](https://www.dmzshequ.com/)   [IT视频](https://www.97yrbl.com/) 
 
 - 学习路线：[阿里路线](https://developer.aliyun.com/learning)   [腾讯路线](https://cloud.tencent.com/edu/learning)  [Sec-Wiki安全路线](https://www.sec-wiki.com/skill)   
 - 产品大佬：[方糖](http://ftqq.com/)  
@@ -12,14 +17,6 @@
 - 开发类：[入学网](https://www.wldeer.com/)    [狂神Java](https://www.kuangstudy.com/)  
 - 运维类：[腾讯实验课](https://cloud.tencent.com/lab/labslist)
 - 安全类：[黑客街](https://www.hackjie.com/)    [漏洞银行](https://skills.bugbank.cn/)   [合天网安](https://www.hetianlab.com/)    [小迪web](https://www.bilibili.com/video/av374994720/)    [飘云阁](https://www.chinapyg.com/)
-
-## 资源  
-
-- 线报导航： [DVA导航](http://www.dva520.com/)  [技术导航](https://www.daohangtx.com/)  
-- 线报网： [678辅助网](https://www.678ccs.com/)   [678辅助网](https://www.xkwo.com/)
-- 资源大全：  [编程导航](https://www.code-nav.cn/resources)   [dmz社区](https://www.dmzshequ.com/)    [IT营](https://www.dmzshequ.com/)   [IT视频](https://www.97yrbl.com/) 
-
-
 
 ## 临时待整理
 
