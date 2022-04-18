@@ -8,7 +8,6 @@
 
 
 #### 博主介绍
-- 微信：暂不开放
 - 邮箱📮：ppx@ppx.com
 - 擅长语言：Python,PHP(laravela)
 
@@ -25,10 +24,10 @@
 
 #### 关于呼叫中心
 
+> * [呼叫中心的知识库](Note/callcenter/knowledge.md)
+> * [呼叫中心设备](Note/callcenter/ipgateway.md)
 > * [安装VOS](Note/callcenter/vos_install.md)
 > * [使用VOS](Note/callcenter/vos_use.md)
-> * [呼叫中心设备](Note/callcenter/ipgateway.md)
-> * [呼叫中心的知识库](Note/callcenter/knowledge.md)
 
 
 
