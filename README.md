@@ -28,6 +28,7 @@
 > * [安装VOS](Note/callcenter/vos_install.md)
 > * [使用VOS](Note/callcenter/vos_use.md)
 > * [呼叫中心设备](Note/callcenter/ipgateway.md)
+> * [呼叫中心的知识库](Note/callcenter/knowledge.md)
 
 
 
