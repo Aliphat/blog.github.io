@@ -13,9 +13,9 @@
 
 #### 关于技术栈
 
-> * [PHP方向](Note/TechNote/php.md)
-> * [Python方向](Note/TechNote/python.md)
-> * [Network](Note/TechNote/network.md)
+> * [PHP方向](Note/TechN/php.md)
+> * [Python方向](Note/TechN/python.md)
+> * [Network](Note/TechN/network.md)
 
 腾讯云开发 https://webify.cloudbase.net/
 
