@@ -6,7 +6,11 @@
 
  [腾讯视频斗罗大陆地址](https://m.v.qq.com/search.html?keyWord=%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86) ：从这里找到想要的最新章节的连接
 
+### 系统重装维护工具
 
+ [rufus轻松创建启动盘](http://rufus.ie/zh/) ： Rufus此工具也是用于SD或U盘烧写，通常用于制作***\*windows、Ubuntu、Centos\****的U盘系统安装盘，以及制作PE启动的U盘等等，具体情况看你选择刷入的ISO（此软件为github开源软件）。
+
+[Win32DiskImager](https://win32diskimager.org/) ：此实用工具的主要功能是来写img文件到SD和U盘中，只要运行Win32DiskImager工具，填入自己的img，然后选择移动设备写入即可，通常用于烧写嵌入式linux U盘启动的bin或img（软件为绿色版已经被我打包为单文件版本）
 
 ### 视频剪辑，配音等
 
