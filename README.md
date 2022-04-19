@@ -11,12 +11,18 @@
 - 邮箱📮：ppx@ppx.com
 - 擅长语言：Python,PHP(laravela)
 
+#### 关于技术栈
+
+> * [PHP方向](Note/TechNote/php.md)
+> * [Python方向](Note/TechNote/python.md)
+
+
+
 #### 公司组织架构
 > * [一图看懂企业权利结构 CEO、CFO、CTO、COO是什么职位](Note/tx_company/compay_jiagou.md)
 
-#### 一些简单的教程
+#### 一些简单未归纳教程
 
-> * [PHP入坑指南](Note/md_php/index.md)
 > * [虚拟机克隆之后网卡不能用](Note/Doc/VMware_Network.md)
 > * [抓包SSL Pinning](Note/Doc/ssl_Pinning.md)
 > * [教你如何使用远程工具](Note/Doc/yuan-cheng.md)
@@ -28,8 +34,6 @@
 > * [呼叫中心设备](Note/callcenter/ipgateway.md)
 > * [安装VOS](Note/callcenter/vos_install.md)
 > * [使用VOS](Note/callcenter/vos_use.md)
-
-
 
 
 
