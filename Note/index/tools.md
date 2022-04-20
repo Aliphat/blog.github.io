@@ -2,6 +2,10 @@
 
  [在线爬站工具](https://bazhan.wang/history) ：下载html前段页面用的。
 
+ [W3c高强度密码生成器](https://www.w3cschool.cn/tools/index?name=CreateStrongPassword) ：高强度密码生成器
+
+
+
 ## 看电影的小工具
 
  [iem视频解析工具](https://www.iembuy.com/) ：免费看斗罗大陆用的。
