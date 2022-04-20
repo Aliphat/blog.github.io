@@ -31,7 +31,7 @@
 > * [虚拟机克隆之后网卡不能用](Note/Doc/VMware_Network.md)
 > * [抓包SSL Pinning](Note/Doc/ssl_Pinning.md)
 > * [教你如何使用远程工具](Note/Doc/yuan-cheng.md)
-> * [第一次远程维护桌面](Note/Service/user1.md)
+> * [电脑问题解决方案](Note/Service/s1.md)
 
 #### 关于呼叫中心
 
