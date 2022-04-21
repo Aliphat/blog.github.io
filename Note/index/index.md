@@ -20,7 +20,11 @@
 
 ## 临时待整理
 
+ [精易论坛](https://bbs.125.la/)
 
+ [officetools软件安装神器](https://otp.landian.vip/zh-cn/)
+
+ [ico图标下载](https://sc.chinaz.com/tubiao/)
 
 
 

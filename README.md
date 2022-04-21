@@ -6,16 +6,17 @@
 
 [关于本博客的介绍](Note/index/jie-shao.md)
 
-
-#### 博主介绍
-- 邮箱📮：ppx@ppx.com
-- 擅长语言：Python,PHP(laravela)
+[值得探索的记录](Note/index/jie-shao.md)
 
 #### 关于技术栈
 
 > * [PHP方向](Note/TechN/php.md)
 > * [Python方向](Note/TechN/python.md)
+> * Golang
 > * [Network](Note/TechN/network.md)
+> * Java
+> * Nodejs以及Uniapp大前端
+> * 易语言、C++
 
 腾讯云开发 https://webify.cloudbase.net/
 
@@ -23,7 +24,7 @@
 
 
 
-#### 公司组织架构
+#### 商业知识
 > * [一图看懂企业权利结构 CEO、CFO、CTO、COO是什么职位](Note/tx_company/compay_jiagou.md)
 
 #### 一些简单未归纳教程
