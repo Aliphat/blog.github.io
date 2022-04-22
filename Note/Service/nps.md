@@ -9,6 +9,8 @@
 1. 服务端开通账号
 2. 客户端安装进程。后期可以在虚拟化中心部署。
 3. 开发人员服务器软件(Nginx或者Apache、iis)的网站添加，服务端的域名。
+   1. PHPenv，在网站里面添加一个服务端的ip地址
+   2. IIS，设置默认网站的路径  https://jingyan.baidu.com/article/5225f26ba505fde6fa09080c.html
 
 ## 客户端配置
 
