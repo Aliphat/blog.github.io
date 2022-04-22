@@ -33,6 +33,7 @@
 > * [抓包SSL Pinning](Note/Doc/ssl_Pinning.md)
 > * [教你如何使用远程工具](Note/Doc/yuan-cheng.md)
 > * [电脑问题解决方案](Note/Service/s1.md)
+> * [Nps远程映射以及本地开发环境搭建方案](Note/Service/nps.md)
 
 #### 关于呼叫中心
 
