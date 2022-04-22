@@ -31,6 +31,7 @@
 
 > * [虚拟机克隆之后网卡不能用](Note/Doc/VMware_Network.md)
 > * [抓包SSL Pinning](Note/Doc/ssl_Pinning.md)
+> * [国内下载的资源，以及相关的加速器](Note/Doc/download.md)
 > * [教你如何使用远程工具](Note/Doc/yuan-cheng.md)
 > * [电脑问题解决方案](Note/Service/s1.md)
 > * [Nps远程映射以及本地开发环境搭建方案](Note/Service/nps.md)

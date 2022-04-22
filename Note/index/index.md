@@ -28,15 +28,3 @@
 
 
 
-## Web开发成长路线
-
-1. PHP
-2. Python/Golang
-   1. Python快速开发web
-3. Java
-4. 易语言、C++
-5. Nodejs
-6. Uniapp大前端
-
-
-
