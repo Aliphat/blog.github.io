@@ -10,19 +10,19 @@
 
 #### 关于技术栈
 
+[在书栈网构建和构全技术栈体系](https://www.bookstack.cn/)
+
 > * [PHP方向](Note/TechN/php.md)
 > * [Python方向](Note/TechN/python.md)
 > * Golang
 > * [Network](Note/TechN/network.md)
-> * Java
+> * [Java](Note/TechN/Java.md)
 > * [Nodejs以及Uniapp大前端](Note/TechN/Nodejs.md)
 > * 易语言、C++
+> * [运维工程师](Note/TechN/yw.md)
+> * [大数据与人工智能](Note/TechN/BigData.md)
 
 腾讯云开发 https://webify.cloudbase.net/
-
-
-
-
 
 #### 商业知识
 > * [一图看懂企业权利结构 CEO、CFO、CTO、COO是什么职位](Note/tx_company/compay_jiagou.md)

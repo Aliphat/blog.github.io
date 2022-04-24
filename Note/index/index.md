@@ -2,9 +2,9 @@
 
 ## 资源  
 
+- 线报导航： [DVA导航](http://www.dva520.com/)  [技术导航](https://www.daohangtx.com/)  
 - 经济线报  [36氪](https://36kr.com/)  
 - 技术线报  [hackernews](https://mailchi.mp/hackernewsletter/599)  [凯迪日报](http://djapi.02hk.com/hello)  
-- 线报导航： [DVA导航](http://www.dva520.com/)  [技术导航](https://www.daohangtx.com/)  
 - 线报网： [678辅助网](https://www.678ccs.com/)   [小K资源网](https://www.xkwo.com/)
 - 资源大全：  [编程导航](https://www.code-nav.cn/resources)   [dmz社区](https://www.dmzshequ.com/)    [IT营](https://www.dmzshequ.com/)   [IT视频](https://www.97yrbl.com/) 
 - 学习路线：[阿里路线](https://developer.aliyun.com/learning)   [腾讯路线](https://cloud.tencent.com/edu/learning)  [Sec-Wiki安全路线](https://www.sec-wiki.com/skill)   
