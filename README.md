@@ -15,14 +15,20 @@
 > * [PHP方向](Note/TechN/php.md)
 > * [Python方向](Note/TechN/python.md)
 > * Golang
-> * [Network](Note/TechN/network.md)
+> * [运维、网络、物联网、docker、k8s、devpos](Note/TechN/network.md)
 > * [Java](Note/TechN/Java.md)
 > * [Nodejs以及Uniapp大前端](Note/TechN/Nodejs.md)
-> * 易语言、C++
-> * [运维工程师](Note/TechN/yw.md)
+> * [易语言、C++](Note/TechN/Epl.md)
 > * [大数据与人工智能](Note/TechN/BigData.md)
+> * [短视频能力](Note/TechN/Video.md)
+> * [呼叫中心系统](Note/TechN/CallCenter.md)
+> * [数据库能力](Note/TechN/Databases.md)
+>
+> 
 
 腾讯云开发 https://webify.cloudbase.net/
+
+
 
 #### 商业知识
 > * [一图看懂企业权利结构 CEO、CFO、CTO、COO是什么职位](Note/tx_company/compay_jiagou.md)
