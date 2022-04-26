@@ -27,3 +27,37 @@ laveral
 ## Laytp
 
 生成curd的时候，浏览器点开禁用缓存。
+
+
+
+
+
+## PHP技术博客
+
+```php
+TP6框架导出text文本，数组转文本，分批分量导出。
+public function download(){
+        $text = "";
+        $data = array();
+
+        $nums = 15000; //每次导出数量
+        $step = V2::count() / $nums; //循环次数
+        $url = "http://" . $_SERVER['SERVER_NAME'] . "/ver2?voucherCode=";
+        if (!is_int($step)) {
+            $step = intval($step) + 1;
+        }
+        for ($i = 0; $i < $step; $i++) {
+            $start = $i * $nums;
+            $result =  V2::field(['productcode','code'])
+                ->limit($start, $nums)->select();
+            foreach ($result as $item) {
+                array_push($data,$url . $item['productcode'] . "    " . $item['code'] . PHP_EOL);
+            }
+
+        }
+        $text=implode($data);
+
+        return download($text,"123.txt", true);
+    }
+```
+

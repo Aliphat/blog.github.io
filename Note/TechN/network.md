@@ -44,6 +44,12 @@ https://developer.aliyun.com/adc/?spm=a2c6h.26020838.J_5404914170.24.10d12d294gN
 
 https://developer.aliyun.com/adc/scenario/5e1aca8e9cd14965a6e84ca5cf2fefd0
 
+# linux压缩文件夹命令 tar_每天一个Linux系统命令｜tar
+
+https://blog.csdn.net/weixin_39900286/article/details/110813299?spm=1001.2101.3001.6650.3&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-3.pc_relevant_default&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-3.pc_relevant_default&utm_relevant_index=6
+
+
+
 
 
 
