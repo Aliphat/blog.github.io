@@ -56,7 +56,6 @@ public function download(){
 
         }
         $text=implode($data);
-
         return download($text,"123.txt", true);
     }
 ```

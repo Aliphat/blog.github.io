@@ -1,6 +1,6 @@
 ### 👋个人信息👋
 
-[个人导航中心](Note/index/index.md)
+[🔭视野望远镜](Note/index/index.md)
 
 [收集的小工具](Note/index/tools.md)
 

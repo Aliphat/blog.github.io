@@ -6,6 +6,8 @@
 
  [Json在线解析下小工具](https://www.sojson.com/) ： Json在线工具箱
 
+ [🤣 Emoji表情大全，颜文字百科 💌 - EmojiXD](https://emojixd.com/) ： Json在线工具箱
+
 
 
 ## 看电影的小工具
