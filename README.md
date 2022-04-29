@@ -12,19 +12,29 @@
 
 [在书栈网构建和构全技术栈体系](https://www.bookstack.cn/)
 
-> * [PHP方向](Note/TechN/php.md)
-> * [Python方向](Note/TechN/python.md)
-> * Golang
-> * [运维、网络、物联网、docker、k8s、devpos](Note/TechN/network.md)
-> * [Java](Note/TechN/Java.md)
-> * [Nodejs以及Uniapp大前端](Note/TechN/Nodejs.md)
-> * [易语言、C++](Note/TechN/Epl.md)
-> * [大数据与人工智能](Note/TechN/BigData.md)
-> * [短视频能力](Note/TechN/Video.md)
-> * [呼叫中心系统](Note/TechN/CallCenter.md)
-> * [数据库能力](Note/TechN/Databases.md)
+> * [数据分析能力：大数据及数据分析与人工智能](Note/TechN/BigData.md)
 >
-> 
+> * [桌面端能力：易语言、C++、C#](Note/TechN/Epl.md)
+>
+> * [全栈能力：Nodejs以及Uniapp大前端](Note/TechN/Nodejs.md)
+>
+> * [全栈能力：数据库](Note/TechN/Databases.md)
+>
+> * [后端能力：PHP快速开发网站](Note/TechN/php.md)
+>
+> * [后端能力：Python多功能整合以及网站呈现](Note/TechN/python.md)
+>
+> * [后端能力：Java高并发、跨平台能力](Note/TechN/Java.md)
+>
+> * [后端能力：Golang开发分布式网站](Note/TechN/Golang.md)
+>
+> * [运维能力：网络、物联网、docker、k8s、devpos](Note/TechN/network.md)
+>
+> * [短视频能力](Note/TechN/Video.md)
+>
+> * [呼叫中心系统](Note/TechN/CallCenter.md)
+>
+>   
 
 腾讯云开发 https://webify.cloudbase.net/
 

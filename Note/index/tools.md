@@ -2,6 +2,10 @@
 
  [在线爬站工具](https://bazhan.wang/history) ：下载html前段页面用的。
 
+ [在线端口扫描工具、图片压缩，各种工具集合](https://www.qtool.net/port) ：
+
+
+
  [W3c高强度密码生成器](https://www.w3cschool.cn/tools/index?name=CreateStrongPassword) ：高强度密码生成器
 
  [Json在线解析下小工具](https://www.sojson.com/) ： Json在线工具箱
