@@ -12,6 +12,10 @@
 
 [在书栈网构建和构全技术栈体系](https://www.bookstack.cn/)
 
+[腾讯公众号、小程序、云开发](Note/TechN/Tencent.md)
+
+> * [呼叫中心能力](Note/TechN/CallCenter.md)
+>
 > * [数据分析能力：大数据及数据分析与人工智能](Note/TechN/BigData.md)
 >
 > * [桌面端能力：易语言、C++、C#](Note/TechN/Epl.md)
@@ -32,11 +36,9 @@
 >
 > * [短视频能力](Note/TechN/Video.md)
 >
-> * [呼叫中心系统](Note/TechN/CallCenter.md)
->
 >   
 
-腾讯云开发 https://webify.cloudbase.net/
+
 
 
 

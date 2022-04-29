@@ -1,22 +1,26 @@
 # 首页
 
- [在线爬站工具](https://bazhan.wang/history) ：下载html前段页面用的。
-
- [在线端口扫描工具、图片压缩，各种工具集合](https://www.qtool.net/port) ：
-
 
 
  [W3c高强度密码生成器](https://www.w3cschool.cn/tools/index?name=CreateStrongPassword) ：高强度密码生成器
-
- [Json在线解析下小工具](https://www.sojson.com/) ： Json在线工具箱
 
  [🤣 Emoji表情大全，颜文字百科 💌 - EmojiXD](https://emojixd.com/) ： Json在线工具箱
 
 
 
+## 开发用的小工具
+
+ [在线爬站工具](https://bazhan.wang/history) ：下载html前段页面用的。
+
+ [Json在线解析下小工具](https://www.sojson.com/) ： Json在线工具箱
+
+## 运维用的小工具
+
+ [在线端口扫描工具、图片压缩，各种工具集合](https://www.qtool.net/port) ：
+
 ## 看电影的小工具
 
- [iem视频解析工具](https://www.iembuy.com/) ：免费看斗罗大陆用的。
+免费看斗罗大陆用在线解析网站： [解析站1iem](https://www.iembuy.com/)   [解析站2](https://v.ctrlqq.com/)   [解析站3](http://tv.hzwdd.cn/)  [解析站4](http://www.cjw123.com/jx/)
 
  [腾讯视频斗罗大陆地址](https://m.v.qq.com/search.html?keyWord=%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86) ：从这里找到想要的最新章节的连接
 
