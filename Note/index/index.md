@@ -20,6 +20,8 @@
 
 ## 临时待整理
 
+[综合开发运维教程下载论坛](http://www.52download.cn/wpcourse/)
+
  [精易论坛](https://bbs.125.la/)
 
  [officetools软件安装神器](https://otp.landian.vip/zh-cn/)
