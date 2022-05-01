@@ -6,7 +6,11 @@
 
 [关于本博客的介绍](Note/index/jie-shao.md)
 
-[值得探索的记录](Note/index/jie-shao.md)
+[值得探索的记录](Note/index/Explorer.md)
+
+[惊喜呀](Note/index/Surprise.md)
+
+
 
 #### 关于技术栈
 
