@@ -2,6 +2,21 @@
 
 > 环境：centos6.5
 
+## 第0️⃣种方法：待整理
+
+虚拟机克隆之后网卡不能用的解决方法
+https://blog.csdn.net/ljf10010/article/details/80331372
+使用方法3，直接删掉mac地址，和一个文件，然后重启电脑，就可以
+ [https://blog.csdn.net/ljf10010/article/details/80331372](https://blog.csdn.net/ljf10010/article/details/80331372) 
+
+
+{dotted startColor="#ff6c6c" endColor="#1989fa"/}
+
+linux路由配置问题
+https://blog.csdn.net/qq_34595352/article/details/82218515 [https://blog.csdn.net/qq_34595352/article/details/82218515](https://blog.csdn.net/qq_34595352/article/details/82218515) 
+
+
+
 ## 第一种方法
 ```Shell
 在克隆后的虚拟机中编辑
