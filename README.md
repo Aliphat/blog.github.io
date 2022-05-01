@@ -19,35 +19,34 @@
 [腾讯公众号、小程序、云开发](Note/TechN/Tencent.md)
 
 > * [呼叫中心能力](Note/TechN/CallCenter.md)
->
-> * [数据分析能力：大数据及数据分析与人工智能](Note/TechN/BigData.md)
->
+>* [数据分析能力：大数据及数据分析与人工智能](Note/TechN/BigData.md)
 > * [桌面端能力：易语言、C++、C#](Note/TechN/Epl.md)
->
-> * [全栈能力：Nodejs以及Uniapp大前端](Note/TechN/Nodejs.md)
->
+>* [全栈能力：Nodejs以及Uniapp大前端](Note/TechN/Nodejs.md)
 > * [全栈能力：数据库](Note/TechN/Databases.md)
->
-> * [后端能力：PHP快速开发网站](Note/TechN/php.md)
->
+>* [后端能力：PHP快速开发网站](Note/TechN/php.md)
 > * [后端能力：Python多功能整合以及网站呈现](Note/TechN/python.md)
->
-> * [后端能力：Java高并发、跨平台能力](Note/TechN/Java.md)
->
+>* [后端能力：Java高并发、跨平台能力](Note/TechN/Java.md)
 > * [后端能力：Golang开发分布式网站](Note/TechN/Golang.md)
+>* [运维能力：网络、docker、k8s、devpos](Note/TechN/network.md)
+> * [硬件能力：物联网、垃圾佬](Note/TechN/Hardware.md)
+>* [短视频能力](Note/TechN/Video.md)
+> 
 >
-> * [运维能力：网络、物联网、docker、k8s、devpos](Note/TechN/network.md)
->
-> * [短视频能力](Note/TechN/Video.md)
->
->   
-
-
 
 
 
 #### 商业知识
 > * [一图看懂企业权利结构 CEO、CFO、CTO、COO是什么职位](Note/tx_company/compay_jiagou.md)
+
+
+
+> * 
+
+
+
+
+
+
 
 #### 一些简单未归纳教程
 
@@ -68,3 +67,17 @@
 > * [呼叫中心设备](Note/callcenter/ipgateway.md)
 > * [安装VOS](Note/callcenter/vos_install.md)
 > * [使用VOS](Note/callcenter/vos_use.md)
+
+
+
+
+
+
+
+
+
+
+
+
+
+blog.1112233.xyz

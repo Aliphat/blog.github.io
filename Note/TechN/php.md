@@ -1,4 +1,15 @@
 # 基础学习
+
+## 笔记
+
+[基础笔记](php/base.md)
+
+[Composer教程](php/composer.md)
+
+
+
+## 教程
+
 1.PHP基础小白，https://www.bilibili.com/video/BV1A4411M7iA?p=6，从P10开始看
 2.学框架，thinkphp6，https://space.bilibili.com/14978379/search/video?keyword=thinkphp
 3.laravel 高级教程，找群主要。
