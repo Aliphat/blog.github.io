@@ -1,4 +1,4 @@
-# 网络及云计算相关
+# 网络、云计算、物联网、系统维护相关
 
 ## 笔记
 
@@ -14,13 +14,17 @@
 
 [各种型号的光猫获取后台账户信息](Network/Guangmao.md)
 
-[内网穿透](Network/CitouNetwork.md)
+[内网穿透、映射、方案](Network/CitouNetwork.md)
 
-[网络抓包](Network/CitouNetwork.md)
+[网络抓包](Network/Zhuabao.md)
 
-[校园网伪造MAC上网](Network/CitouNetwork.md)
+[校园网伪造MAC上网](Network/RouteMac.md)
 
+[路由器：Pandavan固件](Network/Pandavan.md)
 
+[校园网伪造MAC上网](Network/RouteMac.md)
+
+[校园网伪造MAC上网](Network/RouteMac.md)
 
 
 
@@ -28,7 +32,7 @@
 
 https://www.winos.vip/439.html
 
-# 物联网
+## 物联网
 
 mqtt物联网平台
 
@@ -36,7 +40,44 @@ http://www.ranye-iot.net/
 
 
 
-# 运维工程师
+## 系统维护
+
+#### 双系统：黑苹果window时间不同步
+
+文章概述:
+> 双系统中windows经常出现时间不准确：通过每次开机自动从网络获取时间地址 来解决这个问题。
+
+
+cmd执行
+```Cmd
+Reg add HKLM\SYSTEM\CurrentControlSet\Control\TimeZoneInformation /v RealTimeIsUniversal /t REG_DWORD /d 1
+```
+
+
+
+#### 如何在mac上安装md5校验文件
+
+1、更新brew
+
+```Shell
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
+
+2、安装md5
+```Shell
+brew install md5sha1sum
+```
+
+3、命令行md5校验
+```Shell
+md5sum 文件名
+```
+
+
+
+
+
+## 运维工程师
 
 阿里云的云教程
 
@@ -48,7 +89,7 @@ https://developer.aliyun.com/adc/?spm=a2c6h.26020838.J_5404914170.24.10d12d294gN
 
 https://developer.aliyun.com/adc/scenario/5e1aca8e9cd14965a6e84ca5cf2fefd0
 
-# linux压缩文件夹命令 tar_每天一个Linux系统命令｜tar
+linux压缩文件夹命令 tar_每天一个Linux系统命令｜tar
 
 https://blog.csdn.net/weixin_39900286/article/details/110813299?spm=1001.2101.3001.6650.3&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-3.pc_relevant_default&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-3.pc_relevant_default&utm_relevant_index=6
 
