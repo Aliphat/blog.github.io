@@ -4,9 +4,9 @@
 
 [收集的小工具](Note/index/tools.md)
 
-[关于本博客的介绍](Note/index/jie-shao.md)
+[技术大佬的博客](Note/index/jie-shao.md)
 
-[值得探索的记录](Note/index/Explorer.md)
+[值得探索的记录](Note/index/explorer.md)
 
 [惊喜呀](Note/index/Surprise.md)
 
