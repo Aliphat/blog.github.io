@@ -53,6 +53,10 @@
 > * [教你如何使用远程工具](Note/Doc/yuan-cheng.md)
 > * [电脑问题解决方案](Note/Service/s1.md)
 > * [Nps远程映射以及本地开发环境搭建方案](Note/Service/nps.md)
+> * [搭建免费 Docsify + Pages 个人静态博客](new-blog/README.md)
+> * [利用免费 CDN 加速你的网页](speedup-web/speedup-web.md)
+> * [给网站配置 ssl 证书](ssl-ngnix/README.md)
+> * [vscode 免密登陆服务器](vscode-ssh/vscode-ssh.md)
 
 #### 关于呼叫中心
 
@@ -60,13 +64,3 @@
 > * [呼叫中心设备](Note/callcenter/ipgateway.md)
 > * [安装VOS](Note/callcenter/vos_install.md)
 > * [使用VOS](Note/callcenter/vos_use.md)
-
-
-
-#### 其他：来自此博客老博主的
-
-> * [搭建免费 Docsify + Pages 个人静态博客](new-blog/README.md)
-> * [利用免费 CDN 加速你的网页](speedup-web/speedup-web.md)
-> * [加入写作训练营](write-camp/README.md)
-> * [给网站配置 ssl 证书](ssl-ngnix/README.md)
-> * [vscode 免密登陆服务器](vscode-ssh/vscode-ssh.md)
