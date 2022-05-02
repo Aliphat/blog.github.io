@@ -1,16 +1,17 @@
-### 👋个人信息👋
+### 👋杰克·斯坦森的blog👋
 
-[🔭视野望远镜](Note/index/index.md)
+#### Zero
 
-[收集的小工具](Note/index/tools.md)
+> * [🔭视野望远镜](Note/index/index.md)
+> * [收集的小工具](Note/index/tools.md)
+> * [技术大佬的博客](Note/index/jie-shao.md)
+> * [值得探索的记录](Note/index/explorer.md)
+> * [惊喜呀](Note/index/Surprise.md)
+> * [人生的一些感悟](Note/index/Think.md)
 
-[技术大佬的博客](Note/index/jie-shao.md)
 
-[值得探索的记录](Note/index/explorer.md)
 
-[惊喜呀](Note/index/Surprise.md)
 
-[人生的一些感悟](Note/index/Think.md)
 
 #### 关于技术栈
 
@@ -56,21 +57,6 @@
 > * [利用免费 CDN 加速你的网页](speedup-web/speedup-web.md)
 > * [给网站配置 ssl 证书](ssl-ngnix/README.md)
 > * [vscode 免密登陆服务器](vscode-ssh/vscode-ssh.md)
-
-#### 关于呼叫中心
-
-> * [呼叫中心的知识库](Note/callcenter/knowledge.md)
-> * [呼叫中心设备](Note/callcenter/ipgateway.md)
-> * [安装VOS](Note/callcenter/vos_install.md)
-> * [使用VOS](Note/callcenter/vos_use.md)
-
-
-
-
-
-
-
-
 
 
 
