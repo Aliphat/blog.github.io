@@ -21,8 +21,8 @@
 
 [开发文档大全](https://www.wenjiangs.com/doc)
 
-> * [呼叫中心能力：具备具有语音视频的能力](Note/TechN/Callcenter/index.md)
-> * [腾讯视野：公众号、小程序、云开发、QQ接口](Note/TechN/Tencent.md)
+> * [呼叫中心能力：具备具有语音视频的能力](Note/TechN/callcenter/index.md)
+> * [腾讯全家桶：公众号、小程序、云开发、QQ接口](Note/TechN/Tencent.md)
 > * [桌面端能力：易语言、C++、C#](Note/TechN/Epl.md)
 > * [硬件能力：物联网、垃圾佬](Note/TechN/Hardware.md)
 
