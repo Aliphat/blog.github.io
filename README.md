@@ -19,7 +19,7 @@
 
 > * [视频编辑运营能力](Note/TechN/Video.md)
 > * [设计师能力：ps](Note/TechN/design.md)
-> * [呼叫中心能力：具备具有语音视频的能力](Note/TechN/CallCenter.md)
+> * [呼叫中心能力：具备具有语音视频的能力](Note/TechN/callcenter/CallCenter.md)
 > * [腾讯能力：公众号、小程序、云开发、QQ接口](Note/TechN/Tencent.md)
 > * [数据分析能力：大数据及数据分析与人工智能](Note/TechN/BigData.md)
 > * [桌面端能力：易语言、C++、C#](Note/TechN/Epl.md)
