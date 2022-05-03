@@ -29,6 +29,12 @@ https://www.bilibili.com/video/BV1kf4y1877w?from=search&seid=7513740192011812637
 
 https://codeigniter.org.cn/
 
+可以聊天的PHP框架
+
+http://wiki.linyiyuan.top/#/
+
+https://learnku.com/articles/65044
+
 tp
 
 laveral

@@ -23,35 +23,55 @@
 
 
 
-> * [视频编辑运营能力](Note/TechN/Video.md)
-> * [设计师能力：ps](Note/TechN/design.md)
 > * [呼叫中心能力：具备具有语音视频的能力](Note/TechN/Callcenter/index.md)
 > * [腾讯视野：公众号、小程序、云开发、QQ接口](Note/TechN/Tencent.md)
-> * [数据分析能力：大数据及数据分析与人工智能](Note/TechN/BigData.md)
 > * [桌面端能力：易语言、C++、C#](Note/TechN/Epl.md)
-> * [全栈能力：Nodejs以及Uniapp大前端](Note/TechN/Nodejs.md)
-> * [全栈能力：数据库](Note/TechN/Databases.md)
-> * [测试能力：测试网站漏洞](Note/TechN/Test.md)
-> * [运维能力：网络、docker、k8s、devpos](Note/TechN/network.md)
-> * [运维能力：安全](Note/TechN/Safe.md)
 > * [硬件能力：物联网、垃圾佬](Note/TechN/Hardware.md)
 
 
 
-### 后端能力
-
-> * [后端能力：PHP快速开发网站](Note/TechN/php/index.md)
-> * [后端能力：Python多功能整合以及网站呈现](Note/TechN/python/index.md)
-> * [后端能力：Java高并发、跨平台能力](Note/TechN/Java/index.md)
-> * [后端能力：Golang开发分布式网站](Note/TechN/Golang/index.md)
 
 
+### 产品能力
 
-
-
-## 商业知识
+> * [设计师能力：ps](Note/TechN/design/ndex.md)
+> * [视频编辑运营能力](Note/TechN/Video.md)
+> * [数据分析能力：大数据及数据分析与人工智能](Note/TechN/BigData/index.md)
 > * [一图看懂企业权利结构 CEO、CFO、CTO、COO是什么职位](Note/tx_company/compay_jiagou.md)
 > * [产品经理](Note/tx_company/product.md)
+
+
+
+### 开发能力
+
+> * [Nodejs以及Uniapp大前端](Note/TechN/Nodejs/index.md)
+>
+>   
+>
+> * [数据库](Note/TechN/Databases/index.md)
+>
+>   
+>
+> * [PHP快速开发网站](Note/TechN/php/index.md)
+>
+> * [Python多功能整合以及网站呈现](Note/TechN/python/index.md)
+>
+> * [Java高并发、跨平台能力](Note/TechN/Java/index.md)
+>
+> * [Golang开发分布式网站](Note/TechN/Golang/index.md)
+
+
+
+### 运维能力
+
+> * [运维能力：网络、docker、k8s、devpos](Note/TechN/network.md)
+> * [运维能力：安全](Note/TechN/Safe.md)
+
+
+
+### 测试能力
+
+> * [测试能力：测试网站漏洞](Note/TechN/Test.md)
 
 
 
