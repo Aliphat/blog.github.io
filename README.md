@@ -46,15 +46,11 @@
 
 > * [Nodejs以及Uniapp大前端](Note/TechN/Nodejs/index.md)
 >
->   
->
-> * [数据库](Note/TechN/Databases/index.md)
->
->   
+>   * [数据库](Note/TechN/Databases/index.md)
 >
 > * [PHP快速开发网站](Note/TechN/php/index.md)
 >
-> * [Python多功能整合以及网站呈现](Note/TechN/python/index.md)
+>   * [Python多功能整合以及网站呈现](Note/TechN/python/index.md)
 >
 > * [Java高并发、跨平台能力](Note/TechN/Java/index.md)
 >
@@ -65,7 +61,9 @@
 ### 运维能力
 
 > * [运维能力：网络、docker、k8s、devpos](Note/TechN/network.md)
-> * [运维能力：安全](Note/TechN/Safe.md)
+> * [运维能力：安全](Note/TechN/Safe/index.md)
+> * [linux](Note/TechN/Linux/index.md)
+> * [Git相关操作](Note/TechN/Git/index.md)
 
 
 
@@ -89,6 +87,9 @@
 > * [利用免费 CDN 加速你的网页](speedup-web/speedup-web.md)
 > * [给网站配置 ssl 证书](ssl-ngnix/README.md)
 > * [vscode 免密登陆服务器](vscode-ssh/vscode-ssh.md)
+> * [蓝奏云链接失效](Note/other/lanzou.md)
+> * [如何禁止搜索引擎收录抓取](Note/other/seo.md)
+> * [如何迁移typecho博客](Note/other/typecho.md)
 
 
 

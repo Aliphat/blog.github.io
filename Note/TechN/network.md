@@ -124,14 +124,3 @@ https://zhuanlan.zhihu.com/p/265646097
 
 
 
-## Git
-
-Git删除本地任意提交记录的方法
-
-https://blog.csdn.net/weixin_46267445/article/details/122328025
-
-
-
-## [Git命令——提交、查看、后退、前进](https://www.cnblogs.com/jiqianqian/p/7027572.html)
-
-https://www.cnblogs.com/jiqianqian/p/7027572.html
