@@ -1,6 +1,6 @@
 ### 👋杰克·斯坦森的blog👋
 
-#### Zero
+## Zero
 
 > * [🔭视野望远镜](Note/index/index.md)
 > * [收集的小工具](Note/index/tools.md)
@@ -13,24 +13,24 @@
 
 
 
-#### 关于技术栈
+## 关于技术栈
+
+
 
 [在书栈网构建和构全技术栈体系](https://www.bookstack.cn/)
 
 [开发文档大全](https://www.wenjiangs.com/doc)
 
+
+
 > * [视频编辑运营能力](Note/TechN/Video.md)
 > * [设计师能力：ps](Note/TechN/design.md)
-> * [呼叫中心能力：具备具有语音视频的能力](Note/TechN/callcenter/index.md)
-> * [腾讯能力：公众号、小程序、云开发、QQ接口](Note/TechN/Tencent.md)
+> * [呼叫中心能力：具备具有语音视频的能力](Note/TechN/Callcenter/index.md)
+> * [腾讯视野：公众号、小程序、云开发、QQ接口](Note/TechN/Tencent.md)
 > * [数据分析能力：大数据及数据分析与人工智能](Note/TechN/BigData.md)
 > * [桌面端能力：易语言、C++、C#](Note/TechN/Epl.md)
 > * [全栈能力：Nodejs以及Uniapp大前端](Note/TechN/Nodejs.md)
 > * [全栈能力：数据库](Note/TechN/Databases.md)
-> * [后端能力：PHP快速开发网站](Note/TechN/php.md)
-> * [后端能力：Python多功能整合以及网站呈现](Note/TechN/python.md)
-> * [后端能力：Java高并发、跨平台能力](Note/TechN/Java.md)
-> * [后端能力：Golang开发分布式网站](Note/TechN/Golang.md)
 > * [测试能力：测试网站漏洞](Note/TechN/Test.md)
 > * [运维能力：网络、docker、k8s、devpos](Note/TechN/network.md)
 > * [运维能力：安全](Note/TechN/Safe.md)
@@ -38,7 +38,18 @@
 
 
 
-#### 商业知识
+### 后端能力
+
+> * [后端能力：PHP快速开发网站](Note/TechN/php/index.md)
+> * [后端能力：Python多功能整合以及网站呈现](Note/TechN/python/index.md)
+> * [后端能力：Java高并发、跨平台能力](Note/TechN/Java/index.md)
+> * [后端能力：Golang开发分布式网站](Note/TechN/Golang/index.md)
+
+
+
+
+
+## 商业知识
 > * [一图看懂企业权利结构 CEO、CFO、CTO、COO是什么职位](Note/tx_company/compay_jiagou.md)
 > * [产品经理](Note/tx_company/product.md)
 
@@ -46,7 +57,7 @@
 
 
 
-#### 一些简单未归纳教程
+## 一些简单未归纳教程
 
 > * [虚拟机克隆之后网卡不能用](Note/Doc/VMware_Network.md)
 > * [抓包SSL Pinning](Note/Doc/ssl_Pinning.md)
@@ -61,7 +72,7 @@
 
 
 
-#### 关于本博客最强的指导文档：
+## 关于本博客最强的指导文档：
 
 [讲解如何设置文档的相对目录篇](https://www.wenjiangs.com/doc/docsifyjs-configuration)
 
