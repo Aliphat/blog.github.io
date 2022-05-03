@@ -38,7 +38,7 @@
 > * [一图看懂企业权利结构 CEO、CFO、CTO、COO是什么职位](Note/tx_company/compay_jiagou.md)
 > * [产品经理](Note/tx_company/product.md)
 
-
+ 
 
 ### 开发能力
 
@@ -48,7 +48,7 @@
 >* [PHP快速开发网站](Note/TechN/php/index.md)
 > * [Python多功能整合以及网站呈现](Note/TechN/python/index.md)
 >* [Java高并发、跨平台能力](Note/TechN/Java/index.md)
->   * [Golang开发分布式网站](Note/TechN/Golang/index.md)
+> * [Golang开发分布式网站](Note/TechN/Golang/index.md)
 
 
 

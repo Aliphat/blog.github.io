@@ -39,6 +39,10 @@ tp
 
 laveral
 
+1. 小型项目:Codelngiter
+2. 中型项目:CakePHP、Zend Framework、Laravel、Thinkphp
+3. 大型重量级项目:Yii、Symfony、Laravel
+
 
 
 ## Laytp
