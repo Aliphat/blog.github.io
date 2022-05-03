@@ -52,7 +52,3 @@ http://dreamcast2.ysepan.com/
 ## 2.量子计算架构  https://www.dwavesys.com/
 
 
-
-## VC++微软全家桶
-
-http://dreamcast2.ysepan.com/

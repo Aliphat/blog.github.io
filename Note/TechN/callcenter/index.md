@@ -3,7 +3,7 @@
 #### 关于呼叫中心
 
 > * [呼叫中心的知识库](knowledge.md)
-> * [呼叫中心设备](./ipgateway.md)
+> * [呼叫中心设备](ipgateway.md)
 > * [安装VOS](callcenter/vos_install.md)
 > * [使用VOS](callcenter/vos_use.md)
 

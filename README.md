@@ -17,9 +17,11 @@
 
 [在书栈网构建和构全技术栈体系](https://www.bookstack.cn/)
 
+[开发文档大全](https://www.wenjiangs.com/doc)
+
 > * [视频编辑运营能力](Note/TechN/Video.md)
 > * [设计师能力：ps](Note/TechN/design.md)
-> * [呼叫中心能力：具备具有语音视频的能力](Note/TechN/callcenter/CallCenter.md)
+> * [呼叫中心能力：具备具有语音视频的能力](Note/TechN/callcenter/index.md)
 > * [腾讯能力：公众号、小程序、云开发、QQ接口](Note/TechN/Tencent.md)
 > * [数据分析能力：大数据及数据分析与人工智能](Note/TechN/BigData.md)
 > * [桌面端能力：易语言、C++、C#](Note/TechN/Epl.md)
@@ -58,6 +60,10 @@
 > * [vscode 免密登陆服务器](vscode-ssh/vscode-ssh.md)
 
 
+
+#### 关于本博客最强的指导文档：
+
+[讲解如何设置文档的相对目录篇](https://www.wenjiangs.com/doc/docsifyjs-configuration)
 
 
 
