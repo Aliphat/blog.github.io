@@ -261,6 +261,12 @@ reboot重启即可
 ntpdate  182.92.12.11
 ```
 
+> 更新时区
+
+```Shell
+cp /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
+```
+
 > 其他可用服务器
 
 182.92.12.11
