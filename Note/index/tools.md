@@ -26,7 +26,7 @@
 
  [腾讯视频斗罗大陆地址](https://m.v.qq.com/search.html?keyWord=%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86) ：从这里找到想要的最新章节的连接
 
-### 系统重装维护工具
+系统重装维护工具
 
  [系统激活下载网站](http://www.aichunjing.com/jhgj1/) ：批处理激活脚本 KMS_VL_ALL_AIO v46 中文版、 KMS激活工具 HEU KMS Activator v24.6.1、激活工具合集 KMS Tools Portable 20220201  等等。
 
@@ -92,7 +92,7 @@ NetInstall版        网络安装镜像。
 
 
 
-### 视频剪辑，配音等
+## 视频剪辑，配音等
 
  [智影跳转](https://zenvideo.qq.com/home) ：智影是一个集素材搜集、视频剪辑、后期包装、渲染导出和发布于一体的免费在线剪辑平台，能够为用户提供从端到端的一站式视频剪辑及制作服务。
 
@@ -106,7 +106,20 @@ NetInstall版        网络安装镜像。
 
 
 
-### 好用的油猴脚本
+## 好用的油猴脚本
+
+> 大家为什么来到这里，一定是有愿意的吧，然后给大家分享东西。
+
+收集的网站
+
+https://greasyfork.org/zh-CN/
+https://www.v2fy.com/p/readme-chromeappheroes/
+
+https://github.com/zhaoolee/OnlineToolsBook
+
+
+
+
 
  [星号密码显示助手](https://www.baiduyun.wiki/tool/install-starpassword.html#) 
 
@@ -115,4 +128,6 @@ NetInstall版        网络安装镜像。
  [AC-baidu-重定向优化百度搜狗谷歌必应搜索_favicon_双列](https://greasyfork.org/zh-CN/scripts/14178-ac-baidu-%E9%87%8D%E5%AE%9A%E5%90%91%E4%BC%98%E5%8C%96%E7%99%BE%E5%BA%A6%E6%90%9C%E7%8B%97%E8%B0%B7%E6%AD%8C%E5%BF%85%E5%BA%94%E6%90%9C%E7%B4%A2-favicon-%E5%8F%8C%E5%88%97) 
 
 1.繞過百度、搜狗、谷歌、好搜搜索結果中的自己的跳轉鏈接，直接訪問原始網頁-反正都能看懂 2.新增自定义网站拦截功能 3添加Favicon显示 4.页面CSS 5.添加计数 6.开关选择以上功能 7.自动翻页功能
+
+
 

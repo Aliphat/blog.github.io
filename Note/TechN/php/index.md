@@ -6,6 +6,47 @@
 
 [Composer教程](php/composer.md)
 
+[PHP实现保留两位小数](https://www.php.cn/php-weizijiaocheng-389366.html)
+
+### PHP日期时间的时间戳转换
+```php
+1.获取当前日期时间的时间戳   //1649637176
+echo time();
+获取当前日期时间
+echo date("Y/m/d H:i:s");   //2022/04/11 00:32:56
+
+2.日期转换为时间戳
+echo strtotime(date("Y/m/d"));  //1649635200
+时间戳转换为日期
+echo date('Y-m-d',time());  //2022-04-11
+
+3.打印明天此时的时间戳
+echo strtotime("+1 day");   //1649723576
+当前时间：
+echo date("Y-m-d H:i:s",time()) ;   //2022-04-11 00:32:56
+指定时间：
+echo date("Y-m-d H:i:s",strtotime("+1 day")) ;    //2022-04-12 00:32:56
+
+4.打印下个星期此时的时间戳
+echo strtotime("+1 week");   //1650241976
+
+
+5.打印指定下星期几的PHP时间戳
+echo strtotime("next Thursday");  //1649894400
+当前时间：
+echo date("Y-m-d H:i:s",time());  //1649637176
+指定时间： 
+echo date("Y-m-d H:i:s",strtotime("next Thursday"));   //2022-04-14 00:00:00
+
+6.打印指定上星期几的时间戳
+echo strtotime("last Thursday");   //1649289600
+当前时间：
+echo date("Y-m-d H:i:s",time());   //2022-04-11 00:45:07
+指定时间：
+echo date("Y-m-d H:i:s",strtotime("last Thursday"));  //2022-04-07 00:00:00
+
+```
+
 
 
 ## 教程
