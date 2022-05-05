@@ -6,7 +6,6 @@
 > * [收集的工具](Note/index/tools.md)
 > * [可调用资源：服务器，CDN](Note/index/res.md)
 > * [技术大佬的博客](Note/index/jie-shao.md)
-> * [值得探索的记录](Note/index/explorer.md)
 > * [人生的一些感悟](Note/index/Think.md)
 
 
@@ -15,11 +14,11 @@
 
 ## 关于技术栈
 
-
-
 [在书栈网构建和构全技术栈体系](https://www.bookstack.cn/)
 
 [开发文档大全](https://www.wenjiangs.com/doc)
+
+### 未分类
 
 > * [呼叫中心能力：具备具有语音视频的能力](Note/TechN/callcenter/index.md)
 > * [腾讯全家桶：公众号、小程序、云开发、QQ接口](Note/TechN/Tencent.md)
@@ -42,8 +41,6 @@
 
 ### 开发能力
 
-
-
 > * [Nodejs以及Uniapp大前端](Note/TechN/Nodejs/index.md)
 > * [数据库](Note/TechN/Databases/index.md)
 > * [PHP快速开发网站](Note/TechN/php/index.md)
@@ -55,10 +52,12 @@
 
 ### 运维能力
 
-> * [运维能力：网络、docker、k8s、devpos](Note/TechN/network.md)
+> * [运维能力：网络](Note/TechN/Network/index.md)
+> * [运维能力：docker、k8s、devpos](Note/TechN/Cloudcomputing/index.md)
 > * [运维能力：安全](Note/TechN/Safe/index.md)
-> * [linux](Note/TechN/Linux/index.md)
+> * [运维能力：Windows、linux、mac黑苹果](Note/TechN/Server/index.md)
 > * [Git相关操作](Note/TechN/Git/index.md)
+> * [CMD命令符如何使用](Note/other/cmd.md)
 
 
 
@@ -85,6 +84,7 @@
 > * [蓝奏云链接失效](Note/other/lanzou.md)
 > * [如何禁止搜索引擎收录抓取](Note/other/seo.md)
 > * [如何迁移typecho博客](Note/other/typecho.md)
+> * [短链系统的私有化部署与开发](Note/other/short-link.md)
 
 
 

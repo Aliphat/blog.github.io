@@ -4,6 +4,17 @@
 
 
 
+### 搭建lamp，lnmp环境
+
+centos系统搭建lamp，搭建php与python 的api
+
+服务器关闭安全组策略中的防火墙。
+https://lnmp.org/  使用一键搭建助手，就是太慢了，2h2g得半个小时。
+搭建完成后，php删除 禁止执行的system函数
+python脚本安装  pip库文件，设置py文件的权限为777 。
+
+
+
 ### VMware中Ubuntu 无法进行SSH连接，开启22端口
 
 3、 进入Ubuntu 查看22 端口的情况，发现22端口并未开启

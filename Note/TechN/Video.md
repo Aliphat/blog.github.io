@@ -1,6 +1,8 @@
 # 短视频能力
 
-## 制作
+## 编程制作视频
+
+[使用FFMPEG进行视频编辑](https://ffmpeg.org/)
 
 ffmpeg技术图片图片生成短视频 https://www.bilibili.com/video/av594101825
 
@@ -9,4 +11,6 @@ ffmpeg技术图片图片生成短视频 https://www.bilibili.com/video/av5941018
 剪辑软件的使用
 
 ## 运营投放
+
+
 
