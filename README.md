@@ -3,10 +3,10 @@
 ## Zero
 
 > * [🔭视野望远镜](Note/index/index.md)
-> * [收集的小工具](Note/index/tools.md)
+> * [收集的工具](Note/index/tools.md)
+> * [可调用资源：服务器，CDN](Note/index/res.md)
 > * [技术大佬的博客](Note/index/jie-shao.md)
 > * [值得探索的记录](Note/index/explorer.md)
-> * [惊喜呀](Note/index/Surprise.md)
 > * [人生的一些感悟](Note/index/Think.md)
 
 
