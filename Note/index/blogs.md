@@ -47,3 +47,7 @@ https://www.kancloud.cn/lengyueguang/linux/561517
 [群辉、frp、生活、折腾家用路由器：思有云](https://www.ioiox.com/)
 
 [linux文档、有趣的生活：沉冰浮水](https://www.wdssmq.com/)
+
+[猫饭：偏向运维，青龙面板](https://maofun.com/)
+
+![image-20220506115203412](blogs.assets/image-20220506115203412.png)

@@ -4,7 +4,7 @@
 
 > * [🔭每日精进](Note/index/index.md)
 > * [小工具们](Note/index/tools.md)
-> * [可调用资源：服务器，CDN](Note/index/res.md)
+> * [资源：服务器，CDN，图床](Note/index/res.md)
 > * [大佬云集博客丛](Note/index/blogs.md)
 > * [人生的一些感悟](Note/index/Think.md)
 
@@ -27,12 +27,15 @@
 
 ### 开发能力
 
-> * [Nodejs以及Uniapp大前端](Note/TechN/Nodejs/index.md)
-> * [数据库](Note/TechN/Databases/index.md)
-> * [PHP快速开发网站](Note/TechN/php/index.md)
-> * [Python多功能整合以及网站呈现](Note/TechN/python/index.md)
-> * [Java高并发、跨平台能力](Note/TechN/Java/index.md)
-> * [Golang开发分布式网站](Note/TechN/Golang/index.md)
+1. 如果想验证商业模式就选用PHP、Python和Nodejs；
+2. 如果想稳定运行，就选用Java或者Go。
+
+> * [Nodejs以及Uniapp大前端：快速开发，验证商业模式](Note/TechN/Nodejs/index.md)
+> * [数据库：结构设计，支撑](Note/TechN/Databases/index.md)
+> * [PHP：快速开发，验证商业模式](Note/TechN/php/index.md)
+> * [Python：快速开发，人工智能，多功能整合以及网站呈现](Note/TechN/python/index.md)
+> * [Java：稳定运营，高并发、跨平台能力](Note/TechN/Java/index.md)
+> * [Golang：稳定运营，开发分布式网站](Note/TechN/Golang/index.md)
 
 ### 运维能力
 

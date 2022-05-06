@@ -6,6 +6,8 @@ FreeSwitch软电话服务
 
 磐石云以及二开接口。vue大屏
 
+[VOS官方指导文档](https://www.linknat.com/#/support/download)
+
 [FreeSWITCH中文网,电话机器人开发网](http://www.freeswitch.net.cn/index.html)
 
 [如何从零搭建外呼系统](http://www.woshipm.com/pmd/1210429.html)
@@ -13,6 +15,8 @@ FreeSwitch软电话服务
 [WebRTC + JsSIP + freeSWITCH一对一语音聊天](https://www.cnblogs.com/gxp69/articles/12028002.html)
 
 [jssip中文开发文档（完整版） ](https://www.cnblogs.com/benmumu/p/8316670.html)
+
+[三汇语音网关产品介绍说明图](https://www.dsliu.com/products/synway/)
 
 
 
