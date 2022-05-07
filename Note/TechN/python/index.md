@@ -2,7 +2,9 @@
 
 Python快速开发web
 
+## 2.Python国内源
 
+[目前参考这篇文章](https://www.cnblogs.com/sunnydou/p/5801760.html)
 
 # 免费的分布式的自动化测试工具
 

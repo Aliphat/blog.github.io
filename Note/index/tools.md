@@ -12,6 +12,8 @@
 
  [ico图标下载](https://sc.chinaz.com/tubiao/)
 
+[设计师设计logo](https://www.uugai.com/)
+
 [抖音短视频解析](http://www.cainiaojiexi.com/)
 
 ## 开发用的小工具

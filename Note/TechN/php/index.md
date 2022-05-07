@@ -1,5 +1,9 @@
 # 基础学习
 
+[教程原生PHP+MySql实现后台数据的读取](https://www.cnblogs.com/cherishli/p/7077787.html)
+
+[PHP简单获取数据库查询结果并返回JSON](https://www.cnblogs.com/xj76149095/p/5472333.html)
+
 ## 笔记
 
 [基础笔记](php/base.md)

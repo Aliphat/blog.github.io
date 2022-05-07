@@ -4,6 +4,9 @@
 
 http://isoredirect.centos.org/centos/7/isos/x86_64/
 
+[mirror.nsc.liu.se镜像源](http://mirror.nsc.liu.se/CentOS/)
+[阿里镜像源](http://mirrors.aliyun.com/centos/7.9.2009/isos/x86_64/)
+
  [Windows我告诉你，系统激活镜像站](https://msdn.itellyou.cn/) 
 
  [系统激活下载网站](http://www.aichunjing.com/jhgj1/) ：批处理激活脚本 KMS_VL_ALL_AIO v46 中文版、 KMS激活工具 HEU KMS Activator v24.6.1、激活工具合集 KMS Tools Portable 20220201  等等。
@@ -14,10 +17,10 @@ http://isoredirect.centos.org/centos/7/isos/x86_64/
 
 [Win32DiskImager](https://win32diskimager.org/) ：此实用工具的主要功能是来写img文件到SD和U盘中，只要运行Win32DiskImager工具，填入自己的img，然后选择移动设备写入即可，通常用于烧写嵌入式linux U盘启动的bin或img（软件为绿色版已经被我打包为单文件版本）
 
+
+
 ```tex
 Centos 6系列全版本下载
-
-网上搜的话，很多不能下载，国内镜像也没有低版本系统。
 
 下面是下载网址进入后选择版本号，选择系统目录文件夹isos，在选择X86_64（就是64位）或者i386（就是32位），进入后就看到了，复制到迅雷下载即可。
 
