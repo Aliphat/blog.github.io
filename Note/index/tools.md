@@ -6,11 +6,17 @@
 
  [🤣 Emoji表情大全，颜文字百科 💌 - EmojiXD](https://emojixd.com/) ： Json在线工具箱
 
+[阿里巴巴矢量图](https://www.iconfont.cn/)
+
  [officetools软件安装神器](https://otp.landian.vip/zh-cn/)
 
  [ico图标下载](https://sc.chinaz.com/tubiao/)
 
+[抖音短视频解析](http://www.cainiaojiexi.com/)
+
 ## 开发用的小工具
+
+[intellij idea注册码,idea激活码,idea破解,idea破解插件,idea注册码在线生成](http://idea.javatiku.cn/)：支持Java、Python、Goland、JavaScript等工具。
 
  [在线爬站工具](https://bazhan.wang/history) ：下载html前段页面用的。
 
@@ -22,11 +28,35 @@
 
  [在线端口扫描工具、图片压缩，各种工具集合](https://www.qtool.net/port) ：
 
-## 看电影的小工具
+## 看电影以及下载音视频
 
 免费看斗罗大陆用在线解析网站： [解析站1iem](https://www.iembuy.com/)   [解析站2](https://v.ctrlqq.com/)   [解析站3](http://tv.hzwdd.cn/)  [解析站4](http://www.cjw123.com/jx/)
 
  [腾讯视频斗罗大陆地址](https://m.v.qq.com/search.html?keyWord=%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86) ：从这里找到想要的最新章节的连接
+
+[小州音乐在线播放器（可搜索音乐）](http://y.webzcz.cn/)
+
+### 全网音乐免费下载工具
+
+公告说明:提供多站合一 音乐试听 音乐下载 音乐搜索解决方案，接口基本全部修复，由于版权因素有些音乐不可下载，谢谢配合！
+
+下载地址：（以下三个为同一个站的镜像站）
+
+https://music.sonimei.cn/
+
+https://www.769sc.com/
+
+https://music.liuzhijin.cn/
+
+### **简单易用的**m3u8下载器：
+
+支持下载m3u8链接或文件为`mp4`或`ts`格式，并提供丰富的命令行选项。
+
+下载地址：
+
+https://github.com/nilaoda/N_m3u8DL-CLI
+
+https://www.hzg0.com/pcrj/10105.html
 
 
 

@@ -71,6 +71,8 @@
 > * [给网站配置 ssl 证书](ssl-ngnix/README.md)
 > * [本博客文档相对路径](https://www.wenjiangs.com/doc/docsifyjs-configuration)
 
+## 简易操作命令
 
+​	本地启动预览：docsify serve .
 
 blog.1112233.xyz
