@@ -44,8 +44,9 @@
 
 > * [运维成品小方案](Note/TechN/ywshow/index.md)
 > * [运维能力：网络](Note/TechN/Network/index.md)
-> * [运维能力：docker、k8s、devpos](Note/TechN/Cloudcomputing/index.md)
+> * [运维能力：k8s、devpos](Note/TechN/Cloudcomputing/index.md)
 > * [运维能力：Windows、linux、mac黑苹果](Note/TechN/Server/index.md)
+> * [运维能力：docker](Note/TechN/Server/docker.md)
 > * [运维能力：安全](Note/TechN/Safe/index.md)
 > * [Git相关操作](Note/TechN/Git/index.md)
 > * [CMD命令符如何使用](Note/other/cmd.md)
