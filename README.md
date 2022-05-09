@@ -21,7 +21,7 @@
 
 > * [产品经理](Note/tx_company/product.md)
 > * [设计师能力：ps](Note/TechN/design/ndex.md)
-> * [视频编辑运营能力](Note/TechN/Video.md)
+> * [视频编辑能力](Note/TechN/Video.md)
 > * [数据分析能力：大数据及数据分析与人工智能](Note/TechN/BigData/index.md)
 > * [一图看懂企业权利结构 CEO、CFO、CTO、COO是什么职位](Note/tx_company/compay_jiagou.md)
 
@@ -39,10 +39,14 @@
 
 ### 运维能力
 
+1. 一个公司的网络应该如何建设？软硬路由、集成方案
+2. 
+
+> * [运维成品小方案](Note/TechN/ywshow/index.md)
 > * [运维能力：网络](Note/TechN/Network/index.md)
 > * [运维能力：docker、k8s、devpos](Note/TechN/Cloudcomputing/index.md)
-> * [运维能力：安全](Note/TechN/Safe/index.md)
 > * [运维能力：Windows、linux、mac黑苹果](Note/TechN/Server/index.md)
+> * [运维能力：安全](Note/TechN/Safe/index.md)
 > * [Git相关操作](Note/TechN/Git/index.md)
 > * [CMD命令符如何使用](Note/other/cmd.md)
 

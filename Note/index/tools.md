@@ -20,7 +20,7 @@
 
 [intellij idea注册码,idea激活码,idea破解,idea破解插件,idea注册码在线生成](http://idea.javatiku.cn/)：支持Java、Python、Goland、JavaScript等工具。
 
- [在线爬站工具](https://bazhan.wang/history) ：下载html前段页面用的。
+
 
  [Json在线解析下小工具](https://www.sojson.com/) ： Json在线工具箱
 
@@ -49,16 +49,6 @@ https://music.sonimei.cn/
 https://www.769sc.com/
 
 https://music.liuzhijin.cn/
-
-### **简单易用的**m3u8下载器：
-
-支持下载m3u8链接或文件为`mp4`或`ts`格式，并提供丰富的命令行选项。
-
-下载地址：
-
-https://github.com/nilaoda/N_m3u8DL-CLI
-
-https://www.hzg0.com/pcrj/10105.html
 
 
 

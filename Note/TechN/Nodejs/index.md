@@ -12,6 +12,12 @@ JavaScript教程，线上化.
 
 
 
+前端开发的时候，快速扒站：
+
+ [在线爬站工具](https://bazhan.wang/history) ：下载html前段页面用的。
+
+
+
 ## 1.NPM包管理器提速
 
 ### 通过命令配置

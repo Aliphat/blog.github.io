@@ -8,7 +8,11 @@
 
 
 
+## 结果
 
+如何用闲置的带宽赚钱？https://www.1nth.com/post/pcdn/
+
+自己建设CDN的方案：https://shimo.im/docs/6CRrv8dcph6rYHJD/read
 
 ## 教程
 
