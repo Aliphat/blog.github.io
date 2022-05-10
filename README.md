@@ -8,15 +8,6 @@
 > * [大佬云集博客丛](Note/index/blogs.md)
 > * [人生的一些感悟](Note/index/Think.md)
 
-## 关于技术栈
-
-> * [在书栈网构建和构全技术栈体系](https://www.bookstack.cn/)
-> * [开发文档大全](https://www.wenjiangs.com/doc)
-> * [呼叫中心能力：具备具有语音视频的能力](Note/TechN/callcenter/index.md)
-> * [腾讯全家桶：公众号、小程序、云开发、QQ接口](Note/TechN/Tencent.md)
-> * [桌面端能力：易语言、C++、C#](Note/TechN/Epl.md)
-> * [硬件能力：物联网、垃圾佬](Note/TechN/Hardware.md)
-
 ### 产品能力
 
 > * [产品经理](Note/tx_company/product.md)
@@ -31,6 +22,7 @@
 2. 如果想稳定运行，就选用Java或者Go。
 2. 学习语言：先学习基础，然后再开发项目进行实践。
 
+> * [开发文档大全](https://www.wenjiangs.com/doc)
 > * [Nodejs以及Uniapp大前端：快速开发，验证商业模式](Note/TechN/Nodejs/index.md)
 > * [数据库：结构设计，支撑](Note/TechN/Databases/index.md)
 > * [PHP：快速开发，验证商业模式](Note/TechN/php/index.md)
@@ -44,6 +36,12 @@
 2. 
 
 > * [运维成品小方案](Note/TechN/ywshow/index.md)
+>
+> * [在书栈网构建和构全技术栈体系](https://www.bookstack.cn/)
+> * [呼叫中心能力：具备具有语音视频的能力](Note/TechN/callcenter/index.md)
+> * [腾讯全家桶：公众号、小程序、云开发、QQ接口](Note/TechN/Tencent.md)
+> * [桌面端能力：易语言、C++、C#](Note/TechN/Epl.md)
+>
 > * [运维能力：网络](Note/TechN/Network/index.md)
 > * [运维能力：k8s、devpos](Note/TechN/Cloudcomputing/index.md)
 > * [运维能力：Windows、linux、mac黑苹果](Note/TechN/Server/index.md)
@@ -51,7 +49,7 @@
 > * [运维能力：安全](Note/TechN/Safe/index.md)
 > * [Git相关操作](Note/TechN/Git/index.md)
 > * [CMD命令符如何使用](Note/other/cmd.md)
-> * [计算机硬件相关](Note/TechN/Hardware/index.md)
+> * [硬件能力：物联网、垃圾佬](Note/TechN/Hardware/index.md)
 
 ### 测试能力
 
