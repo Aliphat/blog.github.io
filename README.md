@@ -29,6 +29,7 @@
 
 1. 如果想验证商业模式就选用PHP、Python和Nodejs；
 2. 如果想稳定运行，就选用Java或者Go。
+2. 学习语言：先学习基础，然后再开发项目进行实践。
 
 > * [Nodejs以及Uniapp大前端：快速开发，验证商业模式](Note/TechN/Nodejs/index.md)
 > * [数据库：结构设计，支撑](Note/TechN/Databases/index.md)
@@ -50,6 +51,7 @@
 > * [运维能力：安全](Note/TechN/Safe/index.md)
 > * [Git相关操作](Note/TechN/Git/index.md)
 > * [CMD命令符如何使用](Note/other/cmd.md)
+> * [计算机硬件相关](Note/TechN/Hardware/index.md)
 
 ### 测试能力
 
