@@ -36,17 +36,16 @@
 2. 
 
 > * [运维成品小方案](Note/TechN/ywshow/index.md)
->
-> * [在书栈网构建和构全技术栈体系](https://www.bookstack.cn/)
+>* [在书栈网构建和构全技术栈体系](https://www.bookstack.cn/)
 > * [呼叫中心能力：具备具有语音视频的能力](Note/TechN/callcenter/index.md)
 > * [腾讯全家桶：公众号、小程序、云开发、QQ接口](Note/TechN/Tencent.md)
 > * [桌面端能力：易语言、C++、C#](Note/TechN/Epl.md)
->
 > * [运维能力：网络](Note/TechN/Network/index.md)
-> * [运维能力：k8s、devpos](Note/TechN/Cloudcomputing/index.md)
+>* [运维能力：k8s、devpos](Note/TechN/Cloudcomputing/index.md)
 > * [运维能力：Windows、linux、mac黑苹果](Note/TechN/Server/index.md)
 > * [运维能力：docker](Note/TechN/Server/docker.md)
 > * [运维能力：安全](Note/TechN/Safe/index.md)
+> * [运维能力：VMware相关技术](Note/TechN/VMware/index.md)
 > * [Git相关操作](Note/TechN/Git/index.md)
 > * [CMD命令符如何使用](Note/other/cmd.md)
 > * [硬件能力：物联网、垃圾佬](Note/TechN/Hardware/index.md)
@@ -57,7 +56,6 @@
 
 ## 一些简单未归纳教程
 
-> * [虚拟机克隆之后网卡不能用](Note/Doc/VMware_Network.md)
 > * [抓包SSL Pinning](Note/Doc/ssl_Pinning.md)
 > * [国内下载的资源，以及相关的加速器](Note/Doc/download.md)
 > * [教你如何使用远程工具](Note/Doc/yuan-cheng.md)
