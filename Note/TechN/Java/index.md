@@ -11,3 +11,7 @@ Java快速开发web
 【好程序员】JavaEE分布式开发课程大纲
 
 http://wap.mobiletrain.org/dg/goodJavaEE.html
+
+
+
+[java环境变量设置](https://zhuanlan.zhihu.com/p/368873695)

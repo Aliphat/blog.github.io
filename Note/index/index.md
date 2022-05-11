@@ -4,6 +4,8 @@
 
 > - 线报： [DVA导航](http://www.dva520.com/)  [技术导航](https://www.daohangtx.com/)   [678辅助网](https://www.678ccs.com/)   [小K资源网](https://www.xkwo.com/)
 
+[极客导航，很多开发相关的网站](https://tool.zmki.cn/)
+
 ## 学习
 
 >- 综合类：[蓝桥实验楼](https://www.lanqiao.cn/)    [腾讯云课程](https://cloud.tencent.com/edu/learning)    [头歌教育](https://www.educoder.net/)    [阿里实验室](https://developer.aliyun.com/adc/labs/?spm=a2c6h.13858375.0.0.468f3cf2DLkhsf)    [猿人部落](https://www.97yrbl.com/)    [云之梦￥](http://www.yzmedu.com/)    [小滴课堂￥](https://xdclass.net/)    [Echo Blog](https://houbb.github.io/)  
