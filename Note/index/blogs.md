@@ -24,6 +24,10 @@ https://www.kancloud.cn/lengyueguang/linux/561517
 
 [王娇的php中文网博客](https://www.php.cn/blog/wangjiao.html)
 
+## 偏向后端Go、java
+
+[Java大佬Echo Blog](https://houbb.github.io/)  
+
 ## 偏向物联网
 
 [esp8266、3D可视化：生子当如哈士奇的个人博客](https://www.scaugreen.cn/posts/44755/)

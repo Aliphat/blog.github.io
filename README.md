@@ -4,9 +4,9 @@
 
 > * [🔭每日精进](Note/index/index.md)
 > * [小工具们](Note/index/tools.md)
-> * [资源：服务器，CDN，图床](Note/index/res.md)
 > * [大佬云集博客丛](Note/index/blogs.md)
-> * [人生的一些感悟](Note/index/Think.md)
+> * [资源：服务器，CDN，图床](Note/index/res.md)
+> * [开放的APi接口](Note/other/apis.md)
 
 ### 产品能力
 
@@ -23,6 +23,7 @@
 2. 学习语言：先学习基础，然后再开发项目进行实践。
 
 > * [开发文档大全](https://www.wenjiangs.com/doc)
+> * [云开发相关](Note/TechN/CloudCode/index.md)
 > * [Nodejs以及Uniapp大前端：快速开发，验证商业模式](Note/TechN/Nodejs/index.md)
 > * [数据库：结构设计，支撑](Note/TechN/Databases/index.md)
 > * [PHP：快速开发，验证商业模式](Note/TechN/php/index.md)
@@ -66,6 +67,7 @@
 > * [如何禁止搜索引擎收录抓取](Note/other/seo.md)
 > * [如何迁移typecho博客](Note/other/typecho.md)
 > * [短链系统的私有化部署与开发](Note/other/short-link.md)
+> * [人生的一些感悟](Note/index/Think.md)
 
 ## 如何建设一份本博客：
 
@@ -73,6 +75,7 @@
 > * [利用免费 CDN 加速你的网页](speedup-web/speedup-web.md)
 > * [给网站配置 ssl 证书](ssl-ngnix/README.md)
 > * [本博客文档相对路径](https://www.wenjiangs.com/doc/docsifyjs-configuration)
+> * [Typecho的图床管理插件：PicGo](https://molunerfinn.com/PicGo/)
 
 ## 简易操作命令
 

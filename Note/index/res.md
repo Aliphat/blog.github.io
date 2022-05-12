@@ -19,21 +19,9 @@
 来源：简书
 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 
-
-
 ## 2.量子计算架构  https://www.dwavesys.com/
 
 [又拍云 + WordPress + 图床 – 技术松鼠](https://www.jishusongshu.com/wordpress-site/upyun-figure-bed/)
-
-##  图床
-
-[站长啦图床](http://top.cnzzla.com/tuchuang/qq.html)：免费CDN图床，支持阿里、搜狐、侠聚、京东、头条、网易、腾讯等多家图床。
-
-[映画の图床-极速CDN](https://imgs.top/)：免费CDN图床，需要登录。支持百度、联想、携程、苏宁、易车。
-
-[又拍云CDN](https://www.upyun.com/)
-
-[七牛云CDN](https://www.qiniu.com/)
 
 
 
@@ -43,11 +31,9 @@
 
 一站式视频云点播平台，轻量级的用户能够无需了解任何技术就轻而易举地展示和播放视频，而以视频为主要产品的用户能通过强大的 API 和 SDK 完成对视频的高级处理。
 
+[又拍云CDN](https://www.upyun.com/)
 
-
-
-
-
+[七牛云CDN](https://www.qiniu.com/)
 
 ## 西部数码虚拟空间安装Thinkphp
 linux转win，之后，再转回去，就要付30元的服务费。联系技术专家免费更换。
@@ -65,10 +51,6 @@ linux转win，之后，再转回去，就要付30元的服务费。联系技术�
 [Enhancer,enhancer,无远开发平台,PAAS,Paas,开发平台,快速开发平台,Dev Platform,Cloud Development,低代码,lowcode](https://wuyuan.io/)
 
 Enhancer 是专业的一站式信息系统开发云平台。绝大多数情况下，您只需编写 SQL，无需编写代码，即可快速完成各类系统的开发，并且获得可直接部署在您私有环境的应用程序。极大降低您的开发、运维、迭代成本。
-
-### 2.果创云：YesApi.cn | API接口低代码开发平台
-
-[果创云开发平台](http://open.yesapi.cn/)
 
 
 
