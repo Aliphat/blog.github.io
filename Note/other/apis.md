@@ -39,7 +39,7 @@
 ## 图床API
 
 > * [遇见图床](https://www.hualigs.cn/)
-> * 站长啦图床](http://top.cnzzla.com/tuchuang/qq.html)：免费CDN图床，支持阿里、搜狐、侠聚、京东、头条、网易、腾讯等多家图床。
+> * [站长啦图床](http://top.cnzzla.com/tuchuang/qq.html)：免费CDN图床，支持阿里、搜狐、侠聚、京东、头条、网易、腾讯等多家图床。
 > * [映画の图床-极速CDN](https://imgs.top/)：免费CDN图床，需要登录。支持百度、联想、携程、苏宁、易车。
 > * [图片一键上传到图床返回链接](https://gitee.com/xiebruce/PicUploader)
 

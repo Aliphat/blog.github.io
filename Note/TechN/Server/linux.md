@@ -405,6 +405,10 @@ tracert ip地址
 
 
 
+## tar 打包压缩命令
+
+https://blog.csdn.net/MssGuo/article/details/117387213
+
 
 
 ### FinalShell SSH工具,服务器管理,远程桌面加速软件,支持Windows,macOS,Linux,版本3.9,更新时间2021.5.17
