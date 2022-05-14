@@ -16,17 +16,19 @@
 > * [数据分析能力：大数据及数据分析与人工智能](Note/TechN/BigData/index.md)
 > * [一图看懂企业权利结构 CEO、CFO、CTO、COO是什么职位](Note/tx_company/compay_jiagou.md)
 
-### 开发能力
+### 开发能力：先学习基础，然后再开发项目进行实践。
 
-1. 如果想验证商业模式就选用PHP、Python和Nodejs；
-2. 如果想稳定运行，就选用Java或者Go。
-2. 学习语言：先学习基础，然后再开发项目进行实践。
+1. 验证商业模式优先选用：PHP、Nodejs、Python；
+2. 项目稳定后：用Java、Go等语言进行重构。
 
 > * [开发文档大全](https://www.wenjiangs.com/doc)
 > * [云开发相关](Note/TechN/CloudCode/index.md)
 > * [Nodejs以及Uniapp大前端：快速开发，验证商业模式](Note/TechN/Nodejs/index.md)
 > * [数据库：结构设计，支撑](Note/TechN/Databases/index.md)
 > * [PHP：快速开发，验证商业模式](Note/TechN/php/index.md)
+>
+> 
+>
 > * [Python：快速开发，人工智能，多功能整合以及网站呈现](Note/TechN/python/index.md)
 > * [Java：稳定运营，高并发、跨平台能力](Note/TechN/Java/index.md)
 > * [Golang：稳定运营，开发分布式网站](Note/TechN/Golang/index.md)
