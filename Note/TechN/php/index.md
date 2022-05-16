@@ -4,8 +4,6 @@
 
 [PHP简单获取数据库查询结果并返回JSON](https://www.cnblogs.com/xj76149095/p/5472333.html)
 
-
-
 ## 教程
 
 1.PHP基础小白，https://www.bilibili.com/video/BV1A4411M7iA?p=6，从P10开始看
@@ -21,13 +19,9 @@ https://www.bilibili.com/video/BV1HA411M7ZW?from=search&seid=3862886655798130840
 https://www.bilibili.com/video/BV19p4y1D7S9?from=search&seid=3862886655798130840&spm_id_from=333.337.0.0
 https://www.bilibili.com/video/BV1kf4y1877w?from=search&seid=7513740192011812637&spm_id_from=333.337.0.0
 
-
-
 ## 中后台管理的PHP框架
 
 > 收藏一些中后台的管理开发框架，供以后的开发使用
-
-https://codeigniter.org.cn/
 
 可以聊天的PHP框架
 
@@ -35,76 +29,50 @@ http://wiki.linyiyuan.top/#/
 
 https://learnku.com/articles/65044
 
-laveral
+中型项目:CakePHP、Zend Framework、Laravel、Thinkphp
 
-1. 小型项目:Codelngiter
-2. 中型项目:CakePHP、Zend Framework、Laravel、Thinkphp
-3. 大型重量级项目:Yii、Symfony、Laravel
+大型重量级项目:Yii、Symfony、Laravel
 
-
-
-### 二、codeigniter框架，成熟的小框架。
-https://codeigniter.org.cn/
 ### 一、Thinkphp框架
-#### pearadmin框架
-http://www.pearadmin.com/
-#### FunAdmin框架
+#### [pearadmin框架](http://www.pearadmin.com/)
+
+#### [FunAdmin框架](https://www.funadmin.com/)
 > 为梦想而创作：支持PHP8.0的系统
 > FunAdmin 基于thinkphp6.X +Layui2.6.X + requirejs开发权限(RBAC)管理框架，框架中集成了权限管理、模块管理、插件管理、后台支持多主题切换、配置管理、会员管理等常用功能模块，以方便开发者快速构建自己的应用。框架专注于为中小企业提供最佳的行业基础后台框架解决方案，执行效率、扩展性、稳定性值得信赖，操作体验流畅，使用非常优化，欢迎大家使用及进行二次开发。
-
-此框架功能强大，并且支持微信的功能。
-
-https://www.funadmin.com/
+>
+> 此框架功能强大，并且支持微信的功能。
 
 
-
-
-#### 颜值在线的laytp框架
+#### [颜值在线的laytp框架](https://www.laytp.com/)
 > 基于ThinkPHP6+LayUI的极速后台开发框架
+>
+> 目前在使用CURD插件生成表的时候遇到了一个问题，不知道有没有大佬能给解答一下，生成curd的时候，浏览器点开禁用缓存。
 
-![主页](index.assets/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5Y2a57yU,size_20,color_FFFFFF,t_70,g_se,x_16.png)
-[点我跳转](https://www.laytp.com/)
-
-目前在使用CURD插件生成表的时候遇到了一个问题，不知道有没有大佬能给解答一下
-
-![报错呈现这个样子](index.assets/ca8ff0ca4a1e410fae7fa07119cc5386.png)
-
-### EasyAdmin
+#### [EasyAdmin](http://easyadmin.99php.cn/)
 
 > 基于ThinkPHP6.0和Layui的快速开发的后台管理系统
 
+#### [Easywechat](https://www.easywechat.com/)
 
-![图片](index.assets/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5Y2a57yU,size_20,color_FFFFFF,t_70,g_se,x_16-16517363347691.png)
+#### [ex-admin](https://www.ex-admin.com/)
 
-[跳转链接](http://easyadmin.99php.cn/)
+> 满足不同搭配开发人员场景
+>
+> 后端：php对象组件化代码开发
+>
+> 全栈：php对象组件化代码开发 + 自定义vue页面组件
+>
+> 前后端分离：php对象组件化代码开发 + 前端使用vue编译打包编写复杂页面
 
-### 其他的
+#### 更多框架
+
 [这里面有很多框架](https://www.oschina.net/project/tag/464/backend)
 
-### 二、Laravel框架
-### 三、微信框架
-### 1. Easywechat
-https://www.easywechat.com/
+### 二、[codeigniter框架：成熟的小框架](https://codeigniter.org.cn/)
+
+小型项目开发推荐使用:Codelngiter
 
 
-
-### Laytp
-
-生成curd的时候，浏览器点开禁用缓存。
-
-
-
-### ex-admin
-
-满足不同搭配开发人员场景
-
-后端：php对象组件化代码开发
-
-全栈：php对象组件化代码开发 + 自定义vue页面组件
-
-前后端分离：php对象组件化代码开发 + 前端使用vue编译打包编写复杂页面
-
-https://www.ex-admin.com/
 
 ## 笔记
 
