@@ -4,53 +4,6 @@
 
 [PHP简单获取数据库查询结果并返回JSON](https://www.cnblogs.com/xj76149095/p/5472333.html)
 
-## 笔记
-
-[基础笔记](php/base.md)
-
-[Composer教程](php/composer.md)
-
-[PHP实现保留两位小数](https://www.php.cn/php-weizijiaocheng-389366.html)
-
-### PHP日期时间的时间戳转换
-```php
-1.获取当前日期时间的时间戳   //1649637176
-echo time();
-获取当前日期时间
-echo date("Y/m/d H:i:s");   //2022/04/11 00:32:56
-
-2.日期转换为时间戳
-echo strtotime(date("Y/m/d"));  //1649635200
-时间戳转换为日期
-echo date('Y-m-d',time());  //2022-04-11
-
-3.打印明天此时的时间戳
-echo strtotime("+1 day");   //1649723576
-当前时间：
-echo date("Y-m-d H:i:s",time()) ;   //2022-04-11 00:32:56
-指定时间：
-echo date("Y-m-d H:i:s",strtotime("+1 day")) ;    //2022-04-12 00:32:56
-
-4.打印下个星期此时的时间戳
-echo strtotime("+1 week");   //1650241976
-
-
-5.打印指定下星期几的PHP时间戳
-echo strtotime("next Thursday");  //1649894400
-当前时间：
-echo date("Y-m-d H:i:s",time());  //1649637176
-指定时间： 
-echo date("Y-m-d H:i:s",strtotime("next Thursday"));   //2022-04-14 00:00:00
-
-6.打印指定上星期几的时间戳
-echo strtotime("last Thursday");   //1649289600
-当前时间：
-echo date("Y-m-d H:i:s",time());   //2022-04-11 00:45:07
-指定时间：
-echo date("Y-m-d H:i:s",strtotime("last Thursday"));  //2022-04-07 00:00:00
-
-```
-
 
 
 ## 教程
@@ -81,8 +34,6 @@ https://codeigniter.org.cn/
 http://wiki.linyiyuan.top/#/
 
 https://learnku.com/articles/65044
-
-tp
 
 laveral
 
@@ -130,25 +81,83 @@ https://www.funadmin.com/
 ### 其他的
 [这里面有很多框架](https://www.oschina.net/project/tag/464/backend)
 
-## 二、Laravel框架
-## 三、微信框架
+### 二、Laravel框架
+### 三、微信框架
 ### 1. Easywechat
 https://www.easywechat.com/
 
 
 
-## Laytp
+### Laytp
 
 生成curd的时候，浏览器点开禁用缓存。
 
 
 
+### ex-admin
 
+满足不同搭配开发人员场景
 
-## PHP技术博客
+后端：php对象组件化代码开发
+
+全栈：php对象组件化代码开发 + 自定义vue页面组件
+
+前后端分离：php对象组件化代码开发 + 前端使用vue编译打包编写复杂页面
+
+https://www.ex-admin.com/
+
+## 笔记
+
+[基础笔记](base.md)
+
+[Composer教程](composer.md)
+
+[PHP实现保留两位小数](https://www.php.cn/php-weizijiaocheng-389366.html)
+
+### PHP日期时间的时间戳转换
 
 ```php
-TP6框架导出text文本，数组转文本，分批分量导出。
+1.获取当前日期时间的时间戳   //1649637176
+echo time();
+获取当前日期时间
+echo date("Y/m/d H:i:s");   //2022/04/11 00:32:56
+
+2.日期转换为时间戳
+echo strtotime(date("Y/m/d"));  //1649635200
+时间戳转换为日期
+echo date('Y-m-d',time());  //2022-04-11
+
+3.打印明天此时的时间戳
+echo strtotime("+1 day");   //1649723576
+当前时间：
+echo date("Y-m-d H:i:s",time()) ;   //2022-04-11 00:32:56
+指定时间：
+echo date("Y-m-d H:i:s",strtotime("+1 day")) ;    //2022-04-12 00:32:56
+
+4.打印下个星期此时的时间戳
+echo strtotime("+1 week");   //1650241976
+
+
+5.打印指定下星期几的PHP时间戳
+echo strtotime("next Thursday");  //1649894400
+当前时间：
+echo date("Y-m-d H:i:s",time());  //1649637176
+指定时间： 
+echo date("Y-m-d H:i:s",strtotime("next Thursday"));   //2022-04-14 00:00:00
+
+6.打印指定上星期几的时间戳
+echo strtotime("last Thursday");   //1649289600
+当前时间：
+echo date("Y-m-d H:i:s",time());   //2022-04-11 00:45:07
+指定时间：
+echo date("Y-m-d H:i:s",strtotime("last Thursday"));  //2022-04-07 00:00:00
+
+```
+
+### TP6框架导出text文本，数组转文本，分批分量导出。
+
+```php
+
 public function download(){
         $text = "";
         $data = array();
