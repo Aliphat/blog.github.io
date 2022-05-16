@@ -5,8 +5,8 @@
 > * [🔭每日精进](Note/index/index.md)
 > * [小工具们](Note/index/tools.md)
 > * [大佬云集博客丛](Note/index/blogs.md)
-> * [资源：服务器，CDN，图床](Note/index/res.md)
-> * [开放的APi接口](Note/other/apis.md)
+> * [资源：服务器，CDN](Note/index/res.md)
+> * [开放的APi接口：也有图床](Note/other/apis.md)
 
 ### 产品能力
 
@@ -20,6 +20,7 @@
 
 1. 验证商业模式优先选用：PHP、Nodejs、Python；
 2. 项目稳定后：用Java、Go等语言进行重构。
+
 > * [开发文档大全](https://www.wenjiangs.com/doc)
 > * [云开发相关](Note/TechN/CloudCode/index.md)
 > * [Nodejs以及Uniapp大前端：快速开发，验证商业模式](Note/TechN/Nodejs/index.md)
