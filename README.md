@@ -27,9 +27,14 @@
 > * [数据库：结构设计，支撑](Note/TechN/Databases/index.md)
 > * [PHP：快速开发，验证商业模式](Note/TechN/php/index.md)
 >
-> 
->
-> * [Python：快速开发，人工智能，多功能整合以及网站呈现](Note/TechN/python/index.md)
+> * [Python：人工智能、爬虫](Note/TechN/python/index.md)
+
+
+
+> * [网络抓包](Note/Doc/ssl_Pinning.md)
+
+
+
 > * [Java：稳定运营，高并发、跨平台能力](Note/TechN/Java/index.md)
 > * [Golang：稳定运营，开发分布式网站](Note/TechN/Golang/index.md)
 
@@ -59,7 +64,6 @@
 
 ## 一些简单未归纳教程
 
-> * [抓包SSL Pinning](Note/Doc/ssl_Pinning.md)
 > * [国内下载的资源，以及相关的加速器](Note/Doc/download.md)
 > * [教你如何使用远程工具](Note/Doc/yuan-cheng.md)
 > * [电脑问题解决方案](Note/Service/s1.md)
