@@ -31,7 +31,17 @@ https://learnku.com/articles/65044
 
 中型项目:CakePHP、Zend Framework、Laravel、Thinkphp
 
-大型重量级项目:Yii、Symfony、Laravel
+大型重量级项目:Yii、Symfony、
+
+
+
+### 零、Laravel
+
+大型重量级项使用的框架
+
+[乌鸦嘴新手社区](https://wyz.xyz/)，为互联网行业新手提供服务
+
+
 
 ### 一、Thinkphp框架
 #### [pearadmin框架](http://www.pearadmin.com/)
