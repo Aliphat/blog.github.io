@@ -21,12 +21,11 @@
 1. 验证商业模式优先选用：PHP、Nodejs、Python；
 2. 项目稳定后：用Java、Go等语言进行重构。
 
-> * [开发文档大全](https://www.wenjiangs.com/doc)
+> *[开发文档大全](https://www.wenjiangs.com/doc)
 > * [云开发相关](Note/TechN/CloudCode/index.md)
 > * [Nodejs以及Uniapp大前端：快速开发，验证商业模式](Note/TechN/Nodejs/index.md)
 > * [数据库：结构设计，支撑](Note/TechN/Databases/index.md)
 > * [PHP：快速开发，验证商业模式](Note/TechN/php/index.md)
->
 > * [Python：人工智能、爬虫](Note/TechN/python/index.md)
 > * [爬虫：网络抓包](Note/Doc/ssl_Pinning.md)
 > * [Java：稳定运营，高并发、跨平台能力](Note/TechN/Java/index.md)
@@ -36,7 +35,7 @@
 
 1. 一个公司的网络应该如何建设？软硬路由、集成方案
 
-> * [运维成品小方案](Note/TechN/ywshow/index.md)
+> *[运维成品小方案](Note/TechN/ywshow/index.md)
 > * [在书栈网构建和构全技术栈体系](https://www.bookstack.cn/)
 > * [呼叫中心能力：具备具有语音视频的能力](Note/TechN/callcenter/index.md)
 > * [腾讯全家桶：公众号、小程序、云开发、QQ接口](Note/TechN/Tencent.md)
