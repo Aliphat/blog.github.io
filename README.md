@@ -20,6 +20,7 @@
 
 1. 验证商业模式优先选用：PHP、Nodejs、Python；
 2. 项目稳定后：用Java、Go等语言进行重构。
+3. 
 
 > *[开发文档大全](https://www.wenjiangs.com/doc)
 > * [云开发相关](Note/TechN/CloudCode/index.md)
