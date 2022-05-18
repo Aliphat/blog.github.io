@@ -33,7 +33,56 @@ https://learnku.com/articles/65044
 
 大型重量级项目:Yii、Symfony、
 
+[workerman:开源高性能PHP应用容器](https://www.workerman.net/)
 
+> workerman是一款开源高性能PHP应用容器，它大大突破了传统PHP应用范围，被广泛的用于互联网、即时通讯、APP开发、硬件通讯、智能家居、物联网等领域的开发。
+
+[Swoole：PHP 协程框架](https://www.swoole.com/)
+
+> Swoole 使 PHP 开发人员可以编写高性能高并发的 TCP、UDP、Unix Socket、HTTP、 WebSocket 等服务，让 PHP 不再局限于 Web 领域。Swoole4 协程的成熟将 PHP 带入了前所未有的时期， 为性能的提升提供了独一无二的可能性。Swoole 可以广泛应用于互联网、移动通信、云计算、 网络游戏、物联网（IOT）、车联网、智能家居等领域。使用 PHP + Swoole 可以使企业 IT 研发团队的效率大大提升，更加专注于开发创新产品。
+
+
+
+[phpGrace - 轻快的实力派！](http://www.phpgrace.com/)
+
+> 兼顾运行效率与开发效率
+
+[迅睿CMS建站程序](https://www.xunruicms.com/)
+
+[HYPHP框架](http://www.hyphp.cn/api.html)
+
+>HYPHP是一款支持中文语法的PHP MVC开发框架. 它可以帮助你快速开发PHP应用. HYPHP基于Apache2开源协议发布 由 和悦网络科技团队进行维护
+>
+>框架为了快速开发PHP应用而诞生的.
+>
+>框架版本请跟随GIT GIT 地址 https://github.com/hyyyp/HYPHP2 https://github.com/hyyyp/HYPHP2.git
+>
+>HYPHP 是OOP面向对象框架, 所以需要PHP 5.3+环境 (包括5.3) 同时也支持PHP7.0+ HYPHP 数据库操作采用了国外Medoo开源框架. 需要PDO支持! 仅支持PDO!
+
+[hcWeChat 开发框架](http://www.hcoder.net/hcwt/docs323.html)
+
+> **告别复杂、回归极简**
+>
+> hcWeChat 封装了微信公众号开发过程中所需的全部接口，您无需再去查阅复杂的公众号开发API，调试“隐形”的数据bug！只需一句代码就可以简单的完成这些复杂的开发！
+>
+> 
+>
+> **hcWeChat 介绍**
+>
+> hcWeChat php微信公众号开发框架，功能全、体积小、运行快！轻松实现微信公众号快速开发！
+> hcWeChat 拥有更全的微信公众号开发组件，从接入到开发封装了所有常用功能的接口！
+>
+> hcWeChat 内置安全、超便捷的数据库操作，采用自动加载机制，可以方便的集成到各类项目中！
+>
+> hcWeChat 不是免费的！只需很少的费用即可获取完整视频教程、源码包！希望获得您的理解和支持（收费是为了做的更好）！
+>
+> 自2013年以来 hcoder 曾为 “中国电信，北京上方，陕国投” 等近百家企业提供微信公众号开发服务，hcWeChat 正是这些开发过程的经验总结！我们作为一线开发者更了解开发者的需求！
+
+
+
+[MoChat —— 让企业微信开发更简单](https://github.com/mochat-cloud/mochat)
+
+> MoChat 是开源的企业微信应用开发框架&引擎，是一套通用的企业微信多租户SaaS管理系统，得益于 `Swoole` 和 `Hyperf` 框架的优秀，MoChat 可提供超高性能的同时，也保持着极其灵活的可扩展性。
 
 ### 零、Laravel
 
@@ -44,6 +93,19 @@ https://learnku.com/articles/65044
 
 
 ### 一、Thinkphp框架
+
+#### [YFCMF-TP6框架](https://www.iuok.cn/)
+
+> 基于ThinkPHP6和YFCMF的极速后台开发框架
+
+[OneKeyAdmin 开源免费商用](http://www.onekeyadmin.com/)
+
+> OneKeyAdmin是基于Thinkphp6+Element编写的一套后台管理系统。安装包只有5MB大小，却拥有一键生成代码功能、无需写页面快速增删改查、资源管理、权限管理、通用的会员模块、系统分类、多语言配置、基础配置、系统日志、钩子事件、应用插件扩展功能，在线安装卸载升级应用插件。目前插件有cms系统、博客论坛系统、swoole客服系统、丰富的采集爬虫插件、竞价系统、流量统计、tinymce编辑器、表单可视化管理、电子画册、SEO网站优化、支付等等。用户可上传插件免费或付费给予TA人使用，互帮互助，建立一个友好的社区环境。还有多套主题模板随时安装切换且全部免费使用哦~
+
+#### [DolphinPHP V1.5.0正式版](http://www.dolphinphp.com/)
+
+> DolphinPHP（海豚PHP）是一个基于ThinkPHP5.1.41LTS开发的一套开源PHP快速开发框架，DolphinPHP秉承极简、极速、极致的开发理念，为开发集成了基于数据-角色的权限管理机制，集成多种灵活快速构建工具，可方便快速扩展的模块、插件、钩子、数据包。统一了模块、插件、钩子、数据包之间的版本和依赖关系，进一步降低了代码和数据的冗余，以方便开发者快速构建自己的应用。
+
 #### [pearadmin框架](http://www.pearadmin.com/)
 
 #### [FunAdmin框架](https://www.funadmin.com/)
