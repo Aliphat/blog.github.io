@@ -133,3 +133,47 @@ https://win2mac.top/eeb1bf86.html
 安装cask软件：brew install --cask firefox 把firefox换成你要安装的
     
  重启终端 或者 运行 source /Users/jacky/.zprofile   否则可能无法使用
+
+
+
+## 系统维护
+
+#### 双系统：黑苹果window时间不同步
+
+文章概述:
+
+> 双系统中windows经常出现时间不准确：通过每次开机自动从网络获取时间地址 来解决这个问题。
+
+
+cmd执行
+
+```Cmd
+Reg add HKLM\SYSTEM\CurrentControlSet\Control\TimeZoneInformation /v RealTimeIsUniversal /t REG_DWORD /d 1
+```
+
+
+
+#### 如何在mac上安装md5校验文件
+
+1、更新brew
+
+```Shell
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
+
+2、安装md5
+
+```Shell
+brew install md5sha1sum
+```
+
+3、命令行md5校验
+
+```Shell
+md5sum 文件名
+```
+
+
+
+
+

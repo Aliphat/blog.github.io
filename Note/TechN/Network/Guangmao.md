@@ -38,3 +38,10 @@ https://jingyan.baidu.com/article/a681b0de09fe0d3b19434644.html
 
 http://www.chinadsl.net/thread-131171-1-1.html
 
+
+
+### 中兴光猫ZXHN-F650不拆机获取超级密码【老家使用】
+
+https://www.52pojie.cn/thread-999381-1-1.html
+
+https://www.52pojie.cn/thread-1069751-1-1.html

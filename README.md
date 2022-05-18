@@ -41,7 +41,7 @@
 > * [呼叫中心能力：具备具有语音视频的能力](Note/TechN/callcenter/index.md)
 > * [腾讯全家桶：公众号、小程序、云开发、QQ接口](Note/TechN/Tencent.md)
 > * [桌面端能力：易语言、C++、C#](Note/TechN/Epl.md)
-> * [运维能力：网络](Note/TechN/Network/index.md)
+> * [运维能力：网络(目前主要是家庭光猫、家庭网络)](Note/TechN/Network/index.md)
 > * [运维能力：k8s、devpos](Note/TechN/Cloudcomputing/index.md)
 > * [运维能力：Windows、linux、mac黑苹果](Note/TechN/Server/index.md)
 > * [运维能力：docker](Note/TechN/Server/docker.md)

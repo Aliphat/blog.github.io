@@ -1,12 +1,10 @@
-# 网络、云计算、物联网、系统维护相关
+# 网络
 
 ## 笔记
 
 [Nginx的配置和使用](Nginx.md)
 
 [CMD命令在网络下的应用](CMDtoNetwork.md)
-
-
 
 ## 结果
 
@@ -20,7 +18,7 @@
 
 [内网穿透、映射、方案](CitouNetwork.md)
 
-[网络抓包](Zhuabao.md)
+
 
 [校园网伪造MAC上网](RouteMac.md)
 
@@ -30,52 +28,40 @@
 
 
 
-斐讯K1/K2/K3最新华硕固件老毛子固件3.4.3.9-099  2022.03.30更新
+斐讯K1/K2/K3 相关的
 
 https://www.winos.vip/439.html
 
-## 物联网
-
-mqtt物联网平台
-
-http://www.ranye-iot.net/
+https://www.right.com.cn/forum/thread-252394-1-1.html
 
 
 
-## 系统维护
+优酷路由宝的固件
 
-#### 双系统：黑苹果window时间不同步
-
-文章概述:
-> 双系统中windows经常出现时间不准确：通过每次开机自动从网络获取时间地址 来解决这个问题。
-
-
-cmd执行
-```Cmd
-Reg add HKLM\SYSTEM\CurrentControlSet\Control\TimeZoneInformation /v RealTimeIsUniversal /t REG_DWORD /d 1
-```
+https://www.right.com.cn/FORUM/thread-762862-1-1.html
 
 
 
-#### 如何在mac上安装md5校验文件
+新三路由器固件
 
-1、更新brew
+https://www.right.com.cn/forum/thread-6447898-1-5.html
 
-```Shell
-ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-```
+lean大神，K2P Newifi3 路由器固件 ( OpenWRT 潘多拉 老毛子 高恪魔改 )
 
-2、安装md5
-```Shell
-brew install md5sha1sum
-```
+http://lean.ysepan.com/
 
-3、命令行md5校验
-```Shell
-md5sum 文件名
-```
+斐讯N1电视盒子
+
+https://cyhour.com/1311/
 
 
 
+我家云
 
+写的比较好：	https://powersee.github.io/2020/03/wojiayun/  
 
+https://www.right.com.cn/forum/thread-923092-1-1.html
+
+https://www.right.com.cn/forum/thread-976714-1-1.html
+
+https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=1491735&ordertype=1

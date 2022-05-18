@@ -2,6 +2,12 @@
 
 # 内网穿透、映射种种方案
 
+## Zerotier穿透方案
+
+https://www.zerotier.com/
+
+
+
 ## 钉钉免费内网穿透：实现内网主机上线
 
 ## 第一步： clone  git仓库
