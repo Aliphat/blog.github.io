@@ -29,6 +29,7 @@
 > * [大米云API：支持18个接口](https://api.qqsuu.cn/)
 > * [小忆API接口：64个接口](http://api.weijieyue.cn/#)
 > * [freeapi接口](https://www.free-api.com/)
+> * [随缘API接口：36个接口](https://www.sybapi.cc/)
 
 ## 工具类型API
 
