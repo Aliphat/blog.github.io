@@ -27,3 +27,16 @@ http://d.erbot.cn/1965087
 ### [VLWAI微信机器人](http://a.vlwai.cn/)
 
 开发文档：http://help.vlmai.cn/web/#/13?page_id=112
+
+
+
+
+
+## 微信QQ机器人
+
+https://www.yuque.com/httpapi/rcn8f4
+
+http://a.vlmai.cn/
+
+http://www.vlqai.cn/
+

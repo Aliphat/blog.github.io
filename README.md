@@ -43,15 +43,17 @@
 > * [桌面端能力：易语言、C++、C#](Note/TechN/Epl.md)
 > * [运维能力：web服务器（nginx、apache、Caddy2）](Note/TechN/ywshow/webserver.md)
 > * [运维能力：网络(目前主要是家庭光猫、家庭网络)](Note/TechN/Network/index.md)
+> * [运维能力：Nps远程映射](Note/Service/nps.md)
 > * [运维能力：k8s、devpos](Note/TechN/Cloudcomputing/index.md)
 > * [运维能力：Windows、linux、mac黑苹果](Note/TechN/Server/index.md)
 > * [运维能力：docker](Note/TechN/Server/docker.md)
 > * [运维能力：安全](Note/TechN/Safe/index.md)
-> * [运维能力：云主机虚拟化pve/vmwareFusion](Note/TechN/VMware/index.md)
-> * [Git相关操作](Note/TechN/Git/index.md)
 > * [CMD命令符如何使用](Note/other/cmd.md)
 > * [硬件能力：物联网、垃圾佬](Note/TechN/Hardware/index.md)
+> * [运维能力：云主机虚拟化pve/vmwareFusion](Note/TechN/VMware/index.md)
 > * [运维能力：推送到手机的能力](Note/TechN/Push/index.md)
+> * [开发运维工具：Git相关操作](Note/TechN/Git/index.md)
+> * [运维能力：远程桌面工具](Note/Doc/yuan-cheng.md)
 
 ### 测试能力
 
@@ -60,9 +62,7 @@
 ## 一些简单未归纳教程
 
 > * [国内下载的资源，以及相关的加速器](Note/Doc/download.md)
-> * [教你如何使用远程工具](Note/Doc/yuan-cheng.md)
 > * [电脑问题解决方案](Note/Service/s1.md)
-> * [Nps远程映射以及本地开发环境搭建方案](Note/Service/nps.md)
 > * [vscode 免密登陆服务器](vscode-ssh/vscode-ssh.md)
 > * [蓝奏云链接失效](Note/other/lanzou.md)
 > * [如何禁止搜索引擎收录抓取](Note/other/seo.md)
