@@ -47,7 +47,7 @@
 > * [运维能力：Windows、linux、mac黑苹果](Note/TechN/Server/index.md)
 > * [运维能力：docker](Note/TechN/Server/docker.md)
 > * [运维能力：安全](Note/TechN/Safe/index.md)
-> * [运维能力：VMware相关技术](Note/TechN/VMware/index.md)
+> * [运维能力：云主机虚拟化pve/vmwareFusion](Note/TechN/VMware/index.md)
 > * [Git相关操作](Note/TechN/Git/index.md)
 > * [CMD命令符如何使用](Note/other/cmd.md)
 > * [硬件能力：物联网、垃圾佬](Note/TechN/Hardware/index.md)
