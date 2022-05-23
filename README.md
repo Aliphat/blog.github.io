@@ -31,6 +31,7 @@
 > * [爬虫：网络抓包](Note/Doc/ssl_Pinning.md)
 > * [Java：稳定运营，高并发、跨平台能力](Note/TechN/Java/index.md)
 > * [Golang：稳定运营，开发分布式网站](Note/TechN/Golang/index.md)
+> * [桌面端能力：易语言、C++、C#](Note/TechN/Epl.md)
 
 ### 运维能力
 
@@ -39,21 +40,18 @@
 > * [运维成品小方案](Note/TechN/ywshow/index.md)
 > * [在书栈网构建和构全技术栈体系](https://www.bookstack.cn/)
 > * [呼叫中心能力：具备具有语音视频的能力](Note/TechN/callcenter/index.md)
+> * [运维能力：推送到手机的能力](Note/TechN/Push/index.md)
 > * [腾讯全家桶：公众号、小程序、云开发、QQ接口](Note/TechN/Tencent.md)
-> * [桌面端能力：易语言、C++、C#](Note/TechN/Epl.md)
-> * [运维能力：web服务器（nginx、apache、Caddy2）](Note/TechN/ywshow/webserver.md)
-> * [运维能力：网络(目前主要是家庭光猫、家庭网络)](Note/TechN/Network/index.md)
 > * [运维能力：Nps远程映射](Note/Service/nps.md)
-> * [运维能力：k8s、devpos](Note/TechN/Cloudcomputing/index.md)
-> * [运维能力：Windows、linux、mac黑苹果](Note/TechN/Server/index.md)
-> * [运维能力：docker](Note/TechN/Server/docker.md)
+> * [运维能力：远程桌面工具](Note/Doc/yuan-cheng.md)
+> * [运维能力：网络(目前主要是家庭光猫、家庭网络)](Note/TechN/Network/index.md)
 > * [运维能力：安全](Note/TechN/Safe/index.md)
-> * [CMD命令符如何使用](Note/other/cmd.md)
 > * [硬件能力：物联网、垃圾佬](Note/TechN/Hardware/index.md)
 > * [运维能力：云主机虚拟化pve/vmwareFusion](Note/TechN/VMware/index.md)
-> * [运维能力：推送到手机的能力](Note/TechN/Push/index.md)
 > * [开发运维工具：Git相关操作](Note/TechN/Git/index.md)
-> * [运维能力：远程桌面工具](Note/Doc/yuan-cheng.md)
+> * [运维能力：docker](Note/TechN/Server/docker.md)
+> * [运维能力：k8s、devpos](Note/TechN/Cloudcomputing/index.md)
+> * [运维能力：Windows、linux、mac黑苹果](Note/TechN/Server/index.md)
 
 ### 测试能力
 

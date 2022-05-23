@@ -1,4 +1,14 @@
-# Server服务器
+# Windows、linux、mac黑苹果
+
+## 服务器可以搭建的服务
+
+[运维能力：web服务器（nginx、apache、Caddy2）](Note/TechN/ywshow/webserver.md)
+
+
+
+## Windows桌面系统
+
+[CMD命令符如何使用](Note/other/cmd.md)
 
 ## 各个桌面、服务器系统镜像下载地址
 
