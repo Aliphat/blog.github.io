@@ -48,7 +48,7 @@
 > * [运维能力：安全](Note/TechN/Safe/index.md)
 > * [硬件能力：物联网、垃圾佬](Note/TechN/Hardware/index.md)
 > * [运维能力：云主机虚拟化pve/vmwareFusion](Note/TechN/VMware/index.md)
-> * [开发运维工具：Git相关操作](Note/TechN/Git/index.md)
+> * [开发运维：Git](Note/TechN/Git/index.md)
 > * [运维能力：docker](Note/TechN/Server/docker.md)
 > * [运维能力：k8s、devpos](Note/TechN/Cloudcomputing/index.md)
 > * [运维能力：Windows、linux、mac黑苹果](Note/TechN/Server/index.md)
@@ -59,7 +59,6 @@
 
 ## 一些简单未归纳教程
 
-> * [国内下载的资源，以及相关的加速器](Note/Doc/download.md)
 > * [电脑问题解决方案](Note/Service/s1.md)
 > * [vscode 免密登陆服务器](vscode-ssh/vscode-ssh.md)
 > * [蓝奏云链接失效](Note/other/lanzou.md)
