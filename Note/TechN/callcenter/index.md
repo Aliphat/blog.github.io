@@ -1,7 +1,5 @@
 # 呼叫中心系统
 
-关于呼叫中心的基本常识
-
 FreeSwitch软电话服务
 
 磐石云以及二开接口。vue大屏
@@ -22,11 +20,22 @@ FreeSwitch软电话服务
 > * [呼叫中心设备](ipgateway.md)
 > * [安装VOS](vos_install.md)
 > * [使用VOS](vos_use.md)
-> * [磐石云的操作](PSCC.md)
+
+[磐石云呼叫中心添加O口网关](PSCC.md)
+
+[光猫开通反极信号](Fanjixinhao.md)
+
+
 
 [VOS6最新很详细的安装](vos6install.md)
 
 [Vos安全防护相关的内容](vosSafe.md)
+
+
+
+
+
+
 
 ## 电话座机上云方案
 ### 方案一:运营商为模拟线路
@@ -72,4 +81,8 @@ FreeSwitch软电话服务
 ### 4.JeecgBoot
 
 大体上粗略一看，还没有研究明白
+
+
+
+
 
