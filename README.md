@@ -22,8 +22,9 @@
 1. 验证商业模式优先选用：PHP、Nodejs、Python；
 2. 项目稳定后：用Java、Go等语言进行重构。
 
-> * [开发文档大全](https://www.wenjiangs.com/doc)
+> * [开发导航文档网站1](https://www.wenjiangs.com/doc)  [构全技术栈体系2](https://www.bookstack.cn/)
 > * [云开发相关](Note/TechN/CloudCode/index.md)
+> * [腾讯全家桶：公众号、小程序、云开发、QQ接口](Note/TechN/Tencent.md)
 > * [Nodejs以及Uniapp大前端：快速开发，验证商业模式](Note/TechN/Nodejs/index.md)
 > * [数据库：结构设计，支撑](Note/TechN/Databases/index.md)
 > * [PHP：快速开发，验证商业模式](Note/TechN/php/index.md)
@@ -38,19 +39,31 @@
 1. 一个公司的网络应该如何建设？软硬路由、集成方案
 
 > * [运维成品小方案](Note/TechN/ywshow/index.md)
-> * [在书栈网构建和构全技术栈体系](https://www.bookstack.cn/)
+>
 > * [呼叫中心能力：具备具有语音视频的能力](Note/TechN/callcenter/index.md)
+>
 > * [运维能力：推送到手机的能力](Note/TechN/Push/index.md)
-> * [腾讯全家桶：公众号、小程序、云开发、QQ接口](Note/TechN/Tencent.md)
+>
 > * [运维能力：Nps远程映射](Note/Service/nps.md)
+>
 > * [运维能力：远程桌面工具](Note/Doc/yuan-cheng.md)
+>
 > * [运维能力：网络(目前主要是家庭光猫、家庭网络)](Note/TechN/Network/index.md)
+>
 > * [运维能力：安全](Note/TechN/Safe/index.md)
-> * [硬件能力：物联网、垃圾佬](Note/TechN/Hardware/index.md)
+>
+> * [硬件能力：垃圾佬、物联网](Note/TechN/Hardware/index.md)
+>
 > * [运维能力：云主机虚拟化pve/vmwareFusion](Note/TechN/VMware/index.md)
+>
+>   
+>
 > * [开发运维：Git](Note/TechN/Git/index.md)
+>
 > * [运维能力：docker](Note/TechN/Server/docker.md)
+>
 > * [运维能力：k8s、devpos](Note/TechN/Cloudcomputing/index.md)
+>
 > * [运维能力：Windows、linux、mac黑苹果](Note/TechN/Server/index.md)
 
 ### 测试能力

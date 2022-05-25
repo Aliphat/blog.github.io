@@ -1,14 +1,6 @@
 # 呼叫中心系统
 
-FreeSwitch软电话服务
-
-磐石云以及二开接口。vue大屏
-
-[VOS官方指导文档](https://www.linknat.com/#/support/download)
-
-[FreeSWITCH中文网,电话机器人开发网](http://www.freeswitch.net.cn/index.html)
-
-[如何从零搭建外呼系统](http://www.woshipm.com/pmd/1210429.html)
+## 对接线路，部署呼叫中心
 
 [WebRTC + JsSIP + freeSWITCH一对一语音聊天](https://www.cnblogs.com/gxp69/articles/12028002.html)
 
@@ -16,16 +8,37 @@ FreeSwitch软电话服务
 
 [三汇语音网关产品介绍说明图](https://www.dsliu.com/products/synway/)
 
-> * [呼叫中心的知识库](knowledge.md)
-> * [呼叫中心设备](ipgateway.md)
-> * [安装VOS](vos_install.md)
-> * [使用VOS](vos_use.md)
-
 [磐石云呼叫中心添加O口网关](PSCC.md)
 
 [光猫开通反极信号](Fanjixinhao.md)
 
 
+
+### 呼叫中心运维
+
+[呼叫中心的知识库](knowledge.md)
+
+[呼叫中心设备](ipgateway.md)
+
+[FreeSWITCH中文网,电话机器人开发网](http://www.freeswitch.net.cn/index.html)
+
+[如何从零搭建外呼系统](http://www.woshipm.com/pmd/1210429.html)
+
+FreeSwitch软电话服务
+
+磐石云以及二开接口。vue大屏
+
+
+
+
+
+### VOS相关
+
+[安装VOS](vos_install.md)
+
+[使用VOS](vos_use.md)
+
+[VOS官方指导文档](https://www.linknat.com/#/support/download)
 
 [VOS6最新很详细的安装](vos6install.md)
 
@@ -33,11 +46,7 @@ FreeSwitch软电话服务
 
 
 
-
-
-
-
-## 电话座机上云方案
+## 本地线路上云方案
 ### 方案一:运营商为模拟线路
 线路要求:运营商根据客户需求通过小交连选等方式实现多条模拟线对应同一个联通接入号，实现多人同时拨打该号码能依次给多条电话线振铃。
 设备要求:用户侧提供O口模拟网关与联通模拟线对接，且模拟网关接入任何能访问云主机的互联网网线。
@@ -60,9 +69,7 @@ FreeSwitch软电话服务
 
 
 
-## 售后服务呼叫中心系统
-
-急用，工单系统 
+## 工单系统
 
 ### 1.[联傲云工单系统](http://www.chainall.com/)  大几十万
 
@@ -73,12 +80,8 @@ FreeSwitch软电话服务
 来自psc老哥，目前正在咨询中
 据说，预算至少5w
 
-### 3. 钉钉宜搭
 
-搭建很方便，但是呢，不能私有化部署，同时也是免费的。
-
-
-### 4.JeecgBoot
+### 3.JeecgBoot
 
 大体上粗略一看，还没有研究明白
 
