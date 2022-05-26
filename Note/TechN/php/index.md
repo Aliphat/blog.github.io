@@ -6,6 +6,16 @@
 
 ## 教程
 
+### 自学网站
+
+[自学php网—php学习_php视频教程_php开发学习](https://www.zixuephp.com/?)：自学PHP网专注php学习，php视频教程，php手册等学习资料的汇总，为广大PHP自学爱好者讲解什么是php编程语言,php入门知识,以及php实战教程等,是你学习php编程网站开发的好去处。
+
+### PHP的博客 
+
+[万能Web开发文档笔记](https://www.kancloud.cn/logoove/we7/833970)
+
+
+
 1.PHP基础小白，https://www.bilibili.com/video/BV1A4411M7iA?p=6，从P10开始看
 2.学框架，thinkphp6，https://space.bilibili.com/14978379/search/video?keyword=thinkphp
 3.laravel 高级教程，找群主要。

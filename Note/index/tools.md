@@ -16,6 +16,8 @@
 
 [抖音短视频解析](http://www.cainiaojiexi.com/)
 
+[腾讯视频号下载工具](https://shipinhao.iiilab.com/)
+
 ## 开发用的小工具
 
 [intellij idea注册码,idea激活码,idea破解,idea破解插件,idea注册码在线生成](http://idea.javatiku.cn/)：支持Java、Python、Goland、JavaScript等工具。

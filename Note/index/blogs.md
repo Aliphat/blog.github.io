@@ -16,6 +16,8 @@
 
 [django、生活、运维、小程序：龙猫](https://totoro.site/)
 
+[自由仁网络技术开发工作室：重前端、工具分享](https://www.cxyax.com/)
+
 ## 偏向php
 
 https://www.kancloud.cn/lengyueguang/linux/561517
@@ -45,6 +47,10 @@ https://www.kancloud.cn/lengyueguang/linux/561517
 [爬虫、软件测试：玩客E族](https://www.playezu.com/)
 
 
+
+## 重生活
+
+[禾令奇 - 记录生活，细说爱情](https://www.helingqi.com/)：禾令奇,情侣博客网站,禾令取自我和她的名字,奇是给未来的她留的.我们用禾令奇来记录我俩相识,相恋过程中的点点滴滴.记录生活,留住爱和美好回忆.
 
 ## 偏向运维
 

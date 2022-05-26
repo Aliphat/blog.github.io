@@ -35,6 +35,22 @@
 
 [七牛云CDN](https://www.qiniu.com/)
 
+
+
+## 2.1，常见cdn网站
+
+- 国内
+
+  - [BootCDN（猫云）：https://www.bootcdn.cn/#about](https://links.jianshu.com/go?to=https%3A%2F%2Fwww.bootcdn.cn%2F%23about)
+  - [Staticfile CDN（七牛云）：http://staticfile.org](https://links.jianshu.com/go?to=http%3A%2F%2Fstaticfile.org)
+
+- 国外
+
+  - [UNPKG：https://unpkg.com](https://links.jianshu.com/go?to=https%3A%2F%2Funpkg.com)
+  - [jsDelivr ：https://www.jsdelivr.com](https://links.jianshu.com/go?to=https%3A%2F%2Fwww.jsdelivr.com)
+
+  
+
 ## 西部数码虚拟空间安装Thinkphp
 linux转win，之后，再转回去，就要付30元的服务费。联系技术专家免费更换。
 
