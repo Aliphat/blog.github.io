@@ -22,7 +22,7 @@
 
 [intellij idea注册码,idea激活码,idea破解,idea破解插件,idea注册码在线生成](http://idea.javatiku.cn/)：支持Java、Python、Goland、JavaScript等工具。
 
-
+[在线扒站小工具](https://bazhan.wang/)
 
  [Json在线解析下小工具](https://www.sojson.com/) ： Json在线工具箱
 
@@ -80,8 +80,6 @@ https://greasyfork.org/zh-CN/
 https://www.v2fy.com/p/readme-chromeappheroes/
 
 https://github.com/zhaoolee/OnlineToolsBook
-
-
 
 
 
