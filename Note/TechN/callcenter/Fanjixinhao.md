@@ -23,3 +23,7 @@
 ![image-20220524174156900](Fanjixinhao.assets/image-20220524174156900.png)
 
 ![image-20220524174138347](Fanjixinhao.assets/image-20220524174138347.png)
+
+### 移动GM-219-S开通反极信号
+
+![GM219s](Fanjixinhao.assets/GM219s.png)
