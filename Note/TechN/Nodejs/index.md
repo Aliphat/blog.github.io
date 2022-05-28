@@ -14,9 +14,9 @@ JavaScript教程，线上化.
 
 前端开发的时候，快速扒站：
 
- [在线爬站工具](https://bazhan.wang/history) ：下载html前段页面用的。
+ [在线扒站工具](https://bazhan.wang/history) ：下载html前段页面用的。
 
-
+[Font Awesome](https://fontawesome.dashgame.com/#top)：为您提供可缩放的矢量图标，您可以使用CSS所提供的所有特性对它们进行更改，包括：大小、颜色、阴影或者其它任何支持的效果。
 
 ## 1.NPM包管理器提速
 
