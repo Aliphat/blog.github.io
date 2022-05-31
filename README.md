@@ -22,7 +22,7 @@
 1. 验证商业模式优先选用：PHP、Nodejs、Python；
 2. 项目稳定后：用Java、Go等语言进行重构。
 
-> * [开发导航文档网站1](https://www.wenjiangs.com/doc)  [构全技术栈体系2](https://www.bookstack.cn/)
+> * 技术体系：[书栈网](https://www.bookstack.cn/)   [文江技术手册](https://www.wenjiangs.com/doc)   [编程之路](https://github.com/rd2coding/Road2Coding) [helloGithub官网](https://hellogithub.com/) [HelloGitHub站github](https://github.com/521xueweihan/HelloGitHub)  [免费的学习资源](https://github.com/aluismoya/EbookFoundation-free-programming-books)
 > * [云开发相关](Note/TechN/CloudCode/index.md)
 > * [腾讯全家桶：公众号、小程序、云开发、QQ接口](Note/TechN/Tencent.md)
 > * [Nodejs以及Uniapp大前端：快速开发，验证商业模式](Note/TechN/Nodejs/index.md)

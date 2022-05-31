@@ -10,6 +10,8 @@
 
 [CMD命令符如何使用](Note/other/cmd.md)
 
+[Windows计划任务每天定时执行程序](https://zhuanlan.zhihu.com/p/430602325)
+
 ## 各个桌面、服务器系统镜像下载地址
 
 http://isoredirect.centos.org/centos/7/isos/x86_64/

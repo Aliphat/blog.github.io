@@ -7,14 +7,22 @@
 > -  [极客导航，很多开发相关的网站](https://tool.zmki.cn/)
 > -  [编程导航，很多程序员的资源](https://www.code-nav.cn/resources)
 
+## 新闻类
+
+> -  [少数派](https://sspai.com/)：少数派致力于更好地运用数字产品或科学方法，帮助用户提升工作效率和生活品质
+> -  [小众软件](https://www.appinn.com/)：小众软件 - 分享免费、小巧、实用、有趣、绿色的软件
+> -  [mefcl'blog - 分享纯净好资源](https://www.mefcl.com/)
+> -  [网赚,创业,网络赚钱,网上赚钱,手机赚钱,网赚论坛](https://www.heishou.org/)：白手创业网致力于最新的创业网赚项目,分享创业商机与网络赚钱，提供众多在家上网赚钱的项目，让你学习在家上网怎么赚钱与手机赚钱，早日赚钱创业致富!
+
 ## 论坛博客类
 
 > -  [易语言精易论坛](https://bbs.125.la/)
 > -  [我爱破解论坛](https://www.52pojie.cn/)
+> -  [R5接单论坛](https://www.r5.cn/forum.php)
 
 ## 在线学习程序员技能的平台
 
->- 平台类：[蓝桥实验楼](https://www.lanqiao.cn/)    [腾讯云课程](https://cloud.tencent.com/edu/learning)    [头歌教育](https://www.educoder.net/)    [阿里实验室](https://developer.aliyun.com/adc/labs/?spm=a2c6h.13858375.0.0.468f3cf2DLkhsf)    [猿人部落](https://www.97yrbl.com/)    [云之梦￥](http://www.yzmedu.com/)    [小滴课堂￥](https://xdclass.net/)    [慕课技术网：收费](https://coding.imooc.com/)  
+>- 平台类：[蓝桥实验楼](https://www.lanqiao.cn/)    [腾讯云课程](https://cloud.tencent.com/edu/learning)    [头歌教育](https://www.educoder.net/)    [阿里实验室](https://developer.aliyun.com/adc/labs/?spm=a2c6h.13858375.0.0.468f3cf2DLkhsf)    [猿人部落](https://www.97yrbl.com/)    [云之梦￥](http://www.yzmedu.com/)    [小滴课堂￥](https://xdclass.net/)    [慕课技术网：收费](https://coding.imooc.com/)   [R5课堂](https://www.r5.cn/video.html)
 >- 文档类查询：[W3C](https://www.w3cschool.cn/)    [W3cO](http://w3c0.com/)    [菜鸟教程](https://www.runoob.com/)    [编程字典](https://codingdict.com/tutorials) 
 >- 开发类：[入学网](https://www.wldeer.com/)    [狂神Java](https://www.kuangstudy.com/)  
 >- 运维类：[腾讯实验课](https://cloud.tencent.com/lab/labslist)
