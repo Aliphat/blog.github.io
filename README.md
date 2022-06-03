@@ -6,6 +6,7 @@
 > * [小工具](Note/index/tools.md)：这是协助你解决问题的地方
 > * [大佬云集](Note/index/blogs.md)：这是大佬们的博客，看他们在分享什么
 > * [建站资源](Note/index/res.md)：推荐购买的域名、虚拟主机、服务器，CDN等
+> * [网站源码](Note/other/Yuanmares.md)
 > * [开放的APi接口及免费图床](Note/other/apis.md)：开发个小东西，说不定能用到
 
 ### 产品能力
