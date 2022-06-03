@@ -18,6 +18,10 @@ https://tob-less.netlify.app/：Uniapp样式库
 
 [Font Awesome](https://fontawesome.dashgame.com/#top)：为您提供可缩放的矢量图标，您可以使用CSS所提供的所有特性对它们进行更改，包括：大小、颜色、阴影或者其它任何支持的效果。
 
+
+
+8种皮肤的Bootstrap后台管理模板-PRISM：https://www.php.cn/xiazai/code/7347
+
 ## 1.NPM包管理器提速
 
 ### 通过命令配置
