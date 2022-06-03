@@ -3,7 +3,7 @@
 ## 导航类资源 
 
 > -  [DVA导航](http://www.dva520.com/)  [技术导航](https://www.daohangtx.com/)  
-> -  [678辅助网](https://www.678ccs.com/)   [小K资源网](https://www.xkwo.com/)
+> -  [678辅助网](https://www.6788g.com/)   [小K资源网](https://www.xkwo.com/)
 > -  [极客导航，很多开发相关的网站](https://tool.zmki.cn/)
 > -  [编程导航，很多程序员的资源](https://www.code-nav.cn/resources)
 
@@ -30,7 +30,7 @@
 >- 学习路线：[阿里路线](https://developer.aliyun.com/learning)   [腾讯路线](https://cloud.tencent.com/edu/learning)  [Sec-Wiki安全路线](https://www.sec-wiki.com/skill)   
 >- [瓢城Web俱乐部](https://www.ycku.com/)
 
-## 付费盗版资源下载
+## 付费D版资源下载
 
 >- [编程办公-资源屋免费视频教程](https://www.ziyuanwu.com/se/teaching/bcbg)
 >- [编程办公-资源屋](https://www.ziyuanwu.com/)

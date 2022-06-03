@@ -16,8 +16,14 @@
 
 作者：def_fun
 链接：https://www.jianshu.com/p/585f0ac00a19
-来源：简书
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+
+## 一键自动化部署空间服务商，在线vue代码托管 devops什么的
+
+https://www.netlify.com/：把它们放在一起，结合您最喜欢的工具和 API 以构建最快的 Web 站点、商店和应用程序的最快方式。
+
+
+
+
 
 ## 2.量子计算架构  https://www.dwavesys.com/
 
@@ -34,6 +40,10 @@
 [又拍云CDN](https://www.upyun.com/)
 
 [七牛云CDN](https://www.qiniu.com/)
+
+
+
+
 
 
 
