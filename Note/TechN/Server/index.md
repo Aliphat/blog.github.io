@@ -108,6 +108,8 @@ https://blog.csdn.net/weixin_39900286/article/details/110813299?spm=1001.2101.30
 
 http://dreamcast2.ysepan.com/
 
+[微软常用运行库合集 v2022.04.09 最新版](https://www.downg.com/soft/42101.html#down) 下载地址
+
 ## Windows与黑苹果双系统？
 
 > 引用语：待编辑

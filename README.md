@@ -39,6 +39,7 @@
 
 1. 一个公司的网络应该如何建设？软硬路由、集成方案
 
+> * [运维能力：修电脑 Windows、linux、mac黑苹果](Note/TechN/Server/index.md)
 > * [运维成品小方案](Note/TechN/ywshow/index.md)
 > * [呼叫中心能力：具备具有语音视频的能力](Note/TechN/callcenter/index.md)
 > * [运维能力：推送到手机的能力](Note/TechN/Push/index.md)
@@ -49,12 +50,11 @@
 > * [硬件能力：垃圾佬、物联网](Note/TechN/Hardware/index.md)
 > * [运维能力：云主机虚拟化pve/vmwareFusion](Note/TechN/VMware/index.md)
 >
->   
+> 
 >
 > * [开发运维：Git](Note/TechN/Git/index.md)
 > * [运维能力：docker](Note/TechN/Server/docker.md)
 > * [运维能力：k8s、devpos](Note/TechN/Cloudcomputing/index.md)
-> * [运维能力：Windows、linux、mac黑苹果](Note/TechN/Server/index.md)
 
 ### 测试能力
 

@@ -2,9 +2,15 @@
 
 参考文档  https://www.cnblogs.com/qianxiao996/p/13574573.html
 
+官方文档：https://ehang-io.github.io/nps/#/run
+
 ## 1.内网穿透工具--NPS
 
 https://www.cnblogs.com/qianxiao996/p/13574573.html
+
+https://blog.csdn.net/qq285744011/article/details/122629797
+
+http://www.manongjc.com/detail/28-aibmsuwxnycmfkv.html
 
 ## 开发人员使用方式
 

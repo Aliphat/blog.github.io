@@ -70,26 +70,22 @@ https://music.liuzhijin.cn/
 
 
 
-## 好用的油猴脚本
+## 好用的Google插件以及油猴脚本
 
 > 大家为什么来到这里，一定是有愿意的吧，然后给大家分享东西。
-
-收集的网站
 
 https://greasyfork.org/zh-CN/
 https://www.v2fy.com/p/readme-chromeappheroes/
 
-https://github.com/zhaoolee/OnlineToolsBook
+[极简插件](https://chrome.zzzmh.cn/info?token=mfnkflidjnladnkldfonnaicljppahpg)：极简插件,chrome插件,crx插件,chrome扩展,chrome浏览器,插件下载,chrome,扩展,**crx**
 
+[「在线工具秘籍」 OnlineToolsBook](https://github.com/zhaoolee/OnlineToolsBook)：从用户角度出发，**「理想的工具应该是无需安装, 打开浏览器即可使用」** 也就是所谓的在线工具。由于优质的在线工具并不容易被人发掘, 发掘到也不一定能快速上手, 所以我打造了这个[「在线工具秘籍」](https://github.com/zhaoolee/OnlineToolsBook) 项目，为在线工具写一本优质开源中文说明书,让在线工具造福人类~
 
+ [星号密码显示助手](https://www.baiduyun.wiki/tool/install-starpassword.html#) ：**当鼠标停留在密码框时显示星号密码**。再也不担心忘记密码和输错密码了，比[书签版](https://www.baiduyun.wiki/tool/bookmark.html)功能更加强大，支持包括百度，QQ，阿里等在内的更多网站。
 
- [星号密码显示助手](https://www.baiduyun.wiki/tool/install-starpassword.html#) 
+[网盘只能识别助手](https://www.baiduyun.wiki/tool/install-panai.html#📖-使用说明)：【网盘智能识别助手】可以**智能识别鼠标选中区域（背景为蓝色）里的🔗网盘链接和🔑提取码**，识别成功弹出提示，点击“打开”跳转网盘页面，若包含提取码则自动填写。
 
-**当鼠标停留在密码框时显示星号密码**。再也不担心忘记密码和输错密码了，比[书签版](https://www.baiduyun.wiki/tool/bookmark.html)功能更加强大，支持包括百度，QQ，阿里等在内的更多网站。
+ [AC-baidu-重定向优化百度搜狗谷歌必应搜索_favicon_双列](https://greasyfork.org/zh-CN/scripts/14178-ac-baidu-%E9%87%8D%E5%AE%9A%E5%90%91%E4%BC%98%E5%8C%96%E7%99%BE%E5%BA%A6%E6%90%9C%E7%8B%97%E8%B0%B7%E6%AD%8C%E5%BF%85%E5%BA%94%E6%90%9C%E7%B4%A2-favicon-%E5%8F%8C%E5%88%97) ：1.繞過百度、搜狗、谷歌、好搜搜索結果中的自己的跳轉鏈接，直接訪問原始網頁-反正都能看懂 2.新增自定义网站拦截功能 3添加Favicon显示 4.页面CSS 5.添加计数 6.开关选择以上功能 7.自动翻页功能
 
- [AC-baidu-重定向优化百度搜狗谷歌必应搜索_favicon_双列](https://greasyfork.org/zh-CN/scripts/14178-ac-baidu-%E9%87%8D%E5%AE%9A%E5%90%91%E4%BC%98%E5%8C%96%E7%99%BE%E5%BA%A6%E6%90%9C%E7%8B%97%E8%B0%B7%E6%AD%8C%E5%BF%85%E5%BA%94%E6%90%9C%E7%B4%A2-favicon-%E5%8F%8C%E5%88%97) 
-
-1.繞過百度、搜狗、谷歌、好搜搜索結果中的自己的跳轉鏈接，直接訪問原始網頁-反正都能看懂 2.新增自定义网站拦截功能 3添加Favicon显示 4.页面CSS 5.添加计数 6.开关选择以上功能 7.自动翻页功能
-
-
+[网盘直连下载助手](https://greasyfork.org/zh-CN/scripts/436446-%E7%BD%91%E7%9B%98%E7%9B%B4%E9%93%BE%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B)：可以获取网盘文件真实下载地址。现已支持 ✅百度网盘 ✅阿里云盘 ✅天翼云盘 ✅迅雷云盘 四大网盘，可使用 IDM，Xdown，Aria2，Curl，比特彗星等工具🚀🚀🚀下载，完美适配 Chrome，Edge，FireFox，360，QQ 等 18 种浏览器，可在无法安装客户端的环境下使用，助手免费开源。😎
 
