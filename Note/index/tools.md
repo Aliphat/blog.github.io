@@ -30,7 +30,9 @@
 
 ## 运维用的小工具
 
- [在线端口扫描工具、图片压缩，各种工具集合](https://www.qtool.net/port) ：
+ [在线端口扫描工具、图片压缩，各种工具集合](https://www.qtool.net/port) 
+
+https://www.beianx.cn/  在线备案查询网站：第三方爬取开发
 
 [鹏程万里视频加密软件](https://www.pcwlenv.com/)
 
