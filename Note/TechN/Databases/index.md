@@ -1,5 +1,11 @@
 # 数据库能力
 
+
+
+[Redis开源客户端](https://github.com/qishibo/AnotherRedisDesktopManager)
+
+
+
 python 操作数据库
 
 https://www.cnblogs.com/xiaomitu/p/15186003.html
