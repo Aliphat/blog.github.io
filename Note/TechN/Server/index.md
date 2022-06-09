@@ -126,11 +126,11 @@ http://dreamcast2.ysepan.com/
 
 
 #### 参考
-https://win2mac.top/eeb1bf86.html
+https://win2mac.top/eeb1bf86.html ：老吴快速安装黑苹果恢复版（收费）
 
+https://www.mfpud.com/topics/2111/ ：黑苹果系统安装通用教程图文版
 
-
-
+https://heipg.cn/tutorial/gpu-support-for-hackintosh.html：2022年黑苹果macOS Big Sur/Monterey显卡支持列表，持续更新中。
 
 
 
