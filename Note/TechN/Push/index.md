@@ -2,7 +2,24 @@
 
 ## 需要搭建的推送
 
-### 1. [WePush](https://gitee.com/zhoubochina/WePush)：专注批量推送的小而美的工具
+### 1. [WePush_Gitee](https://gitee.com/zhoubochina/WePush)：专注批量推送的小而美的工具
+
+[WePush_Github](https://github.com/rememberber/WePush)
+
+> 1. 支持自定义消息内容并批量推送
+> 2. 支持变量消息（可实现根据发送目标用户不同每条消息内容不一样）
+> 3. 支持消息编辑、预览、消息管理
+> 4. 支持通过文件导入用户（txt、csv、excel）
+> 5. 支持通过MySQL导入用户
+> 6. 支持微信公众号全员推送
+> 7. 支持微信全家桶消息（公众号、小程序、企业号）
+> 8. 支持各种粒度的定时推送
+> 9. 支持推送历史管理和失败重新推送
+> 10. 支持多账号管理和切换（微信）
+> 11. 支持各种搜索、导入、导出
+> 12. 小而美的可视化界面，支持亮暗多种外观风格
+> 13. 支持全局字体字号设置
+> 14. 支持推送结果邮件通知
 
 ### 2.[Wecom酱](https://github.com/easychen/wecomchan)
 

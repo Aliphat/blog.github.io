@@ -2,6 +2,8 @@
 
 ## 全栈大佬
 
+[破解全栈大佬：](http://xuedingmiao.com/)薛定喵君
+
 [方糖君](http://ftqq.com/)  ：代表作，方糖推送
 
 [Mintimate's Blog](https://mintimate.cn/)：Mintimate's Blog为你我贡献经验，主要分享Linux的使用教程，同时也分享分享代码设计；偶尔荒腔走板聊聊Android、服务器以及程序员生活～～～
