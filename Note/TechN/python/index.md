@@ -6,6 +6,8 @@ Python快速开发web
 
 [目前参考这篇文章](https://www.cnblogs.com/sunnydou/p/5801760.html)
 
+[这边文章主要是找国内源失效的url](https://blog.csdn.net/weixin_41633902/article/details/115754289)
+
 # 免费的分布式的自动化测试工具
 
 http://www.selenium.org.cn/
