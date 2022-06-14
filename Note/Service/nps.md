@@ -20,7 +20,21 @@ http://www.manongjc.com/detail/28-aibmsuwxnycmfkv.html
    1. PHPenv，在网站里面添加一个服务端的ip地址
    2. IIS，设置默认网站的路径  https://jingyan.baidu.com/article/5225f26ba505fde6fa09080c.html
 
-## 客户端配置
+## TCP映射方案：
 
-## 服务端配置
+直接映射然后，访问就可以了。
+
+
+
+## 文件管理sftp映射方案：
+
+###  npc端：
+
+注册客户端并且，linux通过sftp映射22端口
+
+### 访问端：
+
+手机使用Es文件管理器；电脑使用 [Raidrive](https://www.raidrive.com/)进行磁盘映射
+
+
 
