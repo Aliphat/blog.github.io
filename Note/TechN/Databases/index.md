@@ -18,6 +18,8 @@ https://blog.csdn.net/qq_49912622/article/details/122882008
 
 
 
+[详解MySQL的用户密码过期功能](https://www.jb51.net/article/79347.htm)
+
 
 
 ## MySQL允许root远程登录
