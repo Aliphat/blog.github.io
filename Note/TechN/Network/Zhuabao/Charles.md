@@ -11,3 +11,6 @@ https://tools.zzzmode.com/mytools/charles/配置HTTP的配置：
 >> HTTPS配置：
 >> 菜单项Proxy >> SSL Proxy Settings
 >> 选中 Enable SSL Proxying >> add >> Host设置 * ， Port设置 443 >> 点击 确定
+
+
+

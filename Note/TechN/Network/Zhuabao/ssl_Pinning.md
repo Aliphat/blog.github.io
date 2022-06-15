@@ -83,7 +83,7 @@
         ...
         </application>
       </manifest>
-    
+
 
 在`res`目录下新建一个`xml`文件夹，再新建文件：
 
@@ -102,7 +102,7 @@
           </trust-anchors>
       </domain-config>
     </network-security-config>
-    
+
 
 其中：
 
@@ -119,7 +119,7 @@
             </trust-anchors>
         </domain-config>
     </network-security-config>
-    
+
 
 然后再去：
 
@@ -137,7 +137,7 @@
 
     cd AddSecurityExceptionAndroid
     ./addSecurityExceptions.sh ../xxx.apk
-    
+
 
 即可给apk增加允许https抓包的配置了，然后就可以继续用Charles抓包https了。
 
@@ -185,5 +185,3 @@
 即可绕开ssl的验证，抓包到https被解密变成明文的数据。
 
 下面详细解释，如何在已root的安卓中，借助XPosed和JustTrustMe去实现，绕开https证书校验，实现抓包https得到明文数据。
-
-crifan.com，使用[署名4.0国际(CC BY 4.0)协议](https://creativecommons.org/licenses/by/4.0/deed.zh)发布 all right reserved，powered by Gitbook最后更新： 2019-05-25 14:22:23
