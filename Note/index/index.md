@@ -1,19 +1,5 @@
 # 首页
 
-## 导航类资源 
-
-> -  [DVA导航](http://www.dva520.com/)  [技术导航](https://www.daohangtx.com/)  
-> -  [678辅助网](https://www.6788g.com/)   [小K资源网](https://www.xkwo.com/)
-> -  [极客导航，很多开发相关的网站](https://tool.zmki.cn/)
-> -  [编程导航，很多程序员的资源](https://www.code-nav.cn/resources)
-
-## 新闻类
-
-> -  [少数派](https://sspai.com/)：少数派致力于更好地运用数字产品或科学方法，帮助用户提升工作效率和生活品质
-> -  [小众软件](https://www.appinn.com/)：小众软件 - 分享免费、小巧、实用、有趣、绿色的软件
-> -  [mefcl'blog - 分享纯净好资源](https://www.mefcl.com/)
-> -  [网赚,创业,网络赚钱,网上赚钱,手机赚钱,网赚论坛](https://www.heishou.org/)：白手创业网致力于最新的创业网赚项目,分享创业商机与网络赚钱，提供众多在家上网赚钱的项目，让你学习在家上网怎么赚钱与手机赚钱，早日赚钱创业致富!
-
 ## 论坛博客类
 
 > -  [易语言精易论坛](https://bbs.125.la/)
@@ -42,4 +28,18 @@
 >- [dmz社区](https://www.dmzshequ.com/)：盗版资源下载站
 >- [IT视频资源](https://www.97yrbl.com/)：盗版资源下载站
 >
+
+## 导航类资源 
+
+> -  [DVA导航](http://www.dva520.com/)  [技术导航](https://www.daohangtx.com/)  
+> -  [678辅助网](https://www.6788g.com/)   [小K资源网](https://www.xkwo.com/)
+> -  [极客导航，很多开发相关的网站](https://tool.zmki.cn/)
+> -  [编程导航，很多程序员的资源](https://www.code-nav.cn/resources)
+
+## 新闻类
+
+> -  [少数派](https://sspai.com/)：少数派致力于更好地运用数字产品或科学方法，帮助用户提升工作效率和生活品质
+> -  [小众软件](https://www.appinn.com/)：小众软件 - 分享免费、小巧、实用、有趣、绿色的软件
+> -  [mefcl'blog - 分享纯净好资源](https://www.mefcl.com/)
+> -  [网赚,创业,网络赚钱,网上赚钱,手机赚钱,网赚论坛](https://www.heishou.org/)：白手创业网致力于最新的创业网赚项目,分享创业商机与网络赚钱，提供众多在家上网赚钱的项目，让你学习在家上网怎么赚钱与手机赚钱，早日赚钱创业致富!
 
