@@ -39,7 +39,7 @@
 
 1. 一个公司的网络应该如何建设？软硬路由、集成方案
 
-> * [运维能力：修电脑 Windows、linux、mac黑苹果](Note/TechN/Server/index.md)
+> * [运维能力：电脑各自系统柜之间的维护 Windows、linux、mac黑苹果](Note/TechN/Server/index.md)
 > * [运维成品小方案](Note/TechN/ywshow/index.md)
 > * [呼叫中心能力：具备具有语音视频的能力](Note/TechN/callcenter/index.md)
 > * [运维能力：推送到手机的能力](Note/TechN/Push/index.md)
