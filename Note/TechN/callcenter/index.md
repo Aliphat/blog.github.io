@@ -1,6 +1,32 @@
 # 呼叫中心系统
 
-## 对接线路，部署呼叫中心
+
+
+## 厂家
+
+### 通讯设备厂家
+
+https://www.openvox.cn/   http://www.openvox.com.cn/   openVox厂家
+
+https://www.synway.cn/  三汇语音网关
+
+https://www.dinstar.cn/  鼎信通达
+
+http://www.newrocktech.com/  讯时通信网关
+
+http://www.grandstream.com/  国外的潮流的通信网关
+
+### 机器人开发中间件厂家
+
+http://www.ddrj.com/   （￥5000元每台服务器）顶顶通 - 呼叫中心二次开发接口,smartivr,mod_vad,FreeSWITCH,语音识别,呼叫中心中间件,电话机器人,空号检测。
+
+ https://www.ounistar.com/ （3w+）  朗深专业呼叫中心中间件：AI智能呼叫中心 & 呼叫中心中间件  
+
+
+
+## 技术解决方案
+
+### 对接线路，部署呼叫中心
 
 [WebRTC + JsSIP + freeSWITCH一对一语音聊天](https://www.cnblogs.com/gxp69/articles/12028002.html)
 
@@ -27,12 +53,6 @@
 FreeSwitch软电话服务
 
 磐石云以及二开接口。vue大屏
-
-
-
-
-
-
 
 ### VOS相关
 
