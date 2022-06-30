@@ -16,15 +16,37 @@
 
 ## Windows
 
+### 系统激活
+
+[爱纯净Windows激活工具大集合下载](http://www.aichunjing.com/jhgj1/)
+
+[系统激活下载网站](http://www.aichunjing.com/jhgj1/) ：批处理激活脚本 KMS_VL_ALL_AIO v46 中文版、 KMS激活工具 HEU KMS Activator v24.6.1、激活工具合集 KMS Tools Portable 20220201  等等。
+
+### Ghost、系统安装下载
+
+[爱纯净GHOST镜像下载站](http://www.aichunjing.com/)
+
+[Win7之家Ghost下载站](https://www.win7zhijia.cn/xitong/chunjingban/)
+
  [Windows我告诉你，系统激活镜像站](https://msdn.itellyou.cn/) 
 
- [系统激活下载网站](http://www.aichunjing.com/jhgj1/) ：批处理激活脚本 KMS_VL_ALL_AIO v46 中文版、 KMS激活工具 HEU KMS Activator v24.6.1、激活工具合集 KMS Tools Portable 20220201  等等。
 
-[Windows Server相关](WinServe.md)VC++微软全家桶
 
-http://dreamcast2.ysepan.com/
+### 系统级别的软件安装
+
+[VC++微软全家桶](http://dreamcast2.ysepan.com/)
 
 [微软常用运行库合集 v2022.04.09 最新版](https://www.downg.com/soft/42101.html#down) 
+
+https://otp.landian.vip/zh-cn/
+
+
+
+### WinServer相关
+
+[Windows Server相关](WinServe.md)
+
+
 
 ## Linux
 
