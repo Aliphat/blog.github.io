@@ -67,6 +67,7 @@
 > * [蓝奏云链接失效](Note/other/lanzou.md)
 > * [如何禁止搜索引擎收录抓取](Note/other/seo.md)
 > * [如何迁移typecho博客](Note/other/typecho.md)
+> * [建设一份typecho博客](Note/other/typechobuild.md)
 > * [短链系统的私有化部署与开发](Note/other/short-link.md)
 > * [人生的一些感悟](Note/index/Think.md)
 
