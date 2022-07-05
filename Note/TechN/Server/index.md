@@ -30,7 +30,7 @@
 
  [Windows我告诉你，系统激活镜像站](https://msdn.itellyou.cn/) 
 
-
+[吻妻出品win7系统镜像](https://www.newxitong.com/)
 
 ### 系统级别的软件安装
 
