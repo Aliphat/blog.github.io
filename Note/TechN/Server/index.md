@@ -59,15 +59,13 @@ http://isoredirect.centos.org/centos/7/isos/x86_64/
 
 [Centos的相关操作](Centos.md)
 
-
-
 ## MacOs
 
 [跳转进入详情页](MacOs.md)
 
 ## 通用应用
 
-[运维能力：web服务器（nginx、apache、Caddy2）](Note/TechN/ywshow/webserver.md)
+[运维能力：web服务器（nginx、apache、Caddy2）](webserver.md)
 
 ### 关于nginx的配置方式
 

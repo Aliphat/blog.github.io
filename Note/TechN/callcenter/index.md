@@ -22,7 +22,7 @@ http://www.ddrj.com/   （￥5000元每台服务器）顶顶通 - 呼叫中心�
 
  https://www.ounistar.com/ （3w+）  朗深专业呼叫中心中间件：AI智能呼叫中心 & 呼叫中心中间件  
 
-
+http://www.dotasterisk.cn/forum.php  点星PBX 外呼系统：
 
 ## 技术解决方案
 
