@@ -2,14 +2,14 @@
 
 ## Zero
 
-> * [获取信息](Note/index/index.md)：这是摄入信息的地方
+> * [站点导航](Note/index/index.md)：这是摄入信息的地方
 > * [工具](Note/index/tools.md)：这是协助你解决问题的地方
-> * [大佬云集](Note/index/blogs.md)：这是大佬们的博客，看他们在分享什么
-> * [建站资源](Note/index/res.md)：推荐购买的域名、虚拟主机、服务器，CDN等
+> * [大佬博客](Note/index/blogs.md)：这是大佬们的博客，看他们在分享什么
+> * [建站指南](Note/index/res.md)：推荐购买的域名、虚拟主机、服务器，CDN等
 > * [网站源码、PPT、AE素材](Note/other/Yuanmares.md)
 > * [开放的APi接口及免费图床](Note/other/apis.md)：开发个小东西，说不定能用到
 
-### 产品能力
+### 产品经理
 
 > * [产品经理](Note/tx_company/product.md)
 > * [设计师能力：ps](Note/TechN/design/ndex.md)
@@ -18,13 +18,12 @@
 > * [一图看懂企业权利结构 CEO、CFO、CTO、COO是什么职位](Note/tx_company/compay_jiagou.md)
 > * [QQ和微信机器人开发](Note/TechN/Reboot/index.md)
 
-### 开发能力：先学习基础，然后再开发项目进行实践。
+### 开发工程师
 
 1. 验证商业模式优先选用：PHP、Nodejs、Python；
 2. 项目稳定后：用Java、Go等语言进行重构。
 
 > * 技术体系：[书栈网](https://www.bookstack.cn/)   [文江技术手册](https://www.wenjiangs.com/doc)   [编程之路](https://github.com/rd2coding/Road2Coding) [helloGithub官网](https://hellogithub.com/) [HelloGitHub站github](https://github.com/521xueweihan/HelloGitHub)  [免费的学习资源](https://github.com/aluismoya/EbookFoundation-free-programming-books)
-> * [云开发相关](Note/TechN/CloudCode/index.md)
 > * [腾讯全家桶：公众号、小程序、云开发、QQ接口](Note/TechN/Tencent.md)
 > * [前段：Nodejs以及Uniapp大前端：快速开发，验证商业模式](Note/TechN/Nodejs/index.md)
 > * [数据库：结构设计，支撑](Note/TechN/Databases/index.md)
@@ -35,12 +34,12 @@
 > * [Golang：稳定运营，开发分布式网站](Note/TechN/Golang/index.md)
 > * [桌面端能力：易语言、C++、C#](Note/TechN/Epl.md)
 
-### 运维能力
+### 运维工程师
 
 1. 一个公司的网络应该如何建设？软硬路由、集成方案
 
 > * [运维能力：电脑各自系统柜之间的维护 Windows、linux、mac黑苹果](Note/TechN/Server/index.md)
-> * [呼叫中心能力：具备具有语音视频的能力](Note/TechN/callcenter/index.md)
+> * [呼叫中心：具备具有语音视频的能力](Note/TechN/callcenter/index.md)
 > * [运维能力：推送到手机的能力](Note/TechN/Push/index.md)
 > * [运维能力：Nps远程映射](Note/Service/nps.md)
 > * [运维能力：远程桌面工具](Note/Doc/yuan-cheng.md)
@@ -55,7 +54,7 @@
 > * [运维能力：docker](Note/TechN/Server/docker.md)
 > * [运维能力：k8s、devpos](Note/TechN/Cloudcomputing/index.md)
 
-### 测试能力
+### 测试工程师
 
 > * [测试能力：测试网站漏洞](Note/TechN/Test.md)
 

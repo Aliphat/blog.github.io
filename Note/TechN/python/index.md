@@ -8,6 +8,29 @@ Python快速开发web
 
 [这边文章主要是找国内源失效的url](https://blog.csdn.net/weixin_41633902/article/details/115754289)
 
+
+
+### 1. 基于python+openCV+flask的实时移动检测ALL
+
+最近手痒，就造了个轮子。名字随意一点，就叫**rtm2**吧, real-time motion moitior.
+ 算是一个实时移动侦测程序，主要使用python+flask+[socketIO](https://links.jianshu.com/go?to=https%3A%2F%2Fsocket.io%2F)+openCV开发。
+
+与类似程序的不同在于，rtm2只在检测到运动🏃的时候才推送视频帧给客户端。
+ 服务端为树莓派、笔记本等带有摄像头的设备，在上面运行openCV和flask。
+ openCV负责抓取视频帧和比较视频帧之间的区别。发现区别后通过websocket把结果实时发送给浏览器，这样可以避免不必要的数据传输。
+ 如果没有发现运动，就发送心跳包，告知浏览器等客户端通信正常。
+ 检测到移动或通信异常时通过弹框、声音、震动（如手机等移动设备）等方式提醒用户。
+ 移动侦测到的结果会存储在服务器上（可选），在网页上可以查看移动帧的历史情况。
+
+作者：def_fun
+链接：https://www.jianshu.com/p/585f0ac00a19
+
+
+
+
+
+
+
 # 免费的分布式的自动化测试工具
 
 http://www.selenium.org.cn/
