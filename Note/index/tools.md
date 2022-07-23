@@ -1,6 +1,4 @@
-# 首页
-
-
+# 工具库
 
  [W3c高强度密码生成器](https://www.w3cschool.cn/tools/index?name=CreateStrongPassword) ：高强度密码生成器
 

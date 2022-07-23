@@ -1,8 +1,8 @@
 # 建站资源：推荐购买的域名、虚拟主机、服务器，CDN等
 
+
+
 ## 主流云主机按量付费价格对比
-
-
 
 
 
@@ -29,6 +29,16 @@ https://www.netlify.com/：把它们放在一起，结合您最喜欢的工具�
 [又拍云CDN](https://www.upyun.com/)
 
 [七牛云CDN](https://www.qiniu.com/)
+
+
+
+## Content Delivery Network 稳定、快速的CDN加速服务
+
+CDN公共库是指将常用的JS库存放在CDN节点，以方便广大开发者直接调用。将JS库存放在服务器单机上相比，CDN公共库更加稳定、高速。
+
+jQuery插件库为您提供百度、微软等提供的CDN节点地址，这些CDN公共库为您的应用程序提供稳定、可靠、高速的服务，包含全球所有最流行的开源JavaScript库。
+
+https://www.jq22.com/cdn/
 
 
 
