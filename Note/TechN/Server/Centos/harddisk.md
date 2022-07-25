@@ -20,7 +20,7 @@ fdisk /dev/sdb
 
 三步操作：
 
-<img src="harddisk.assets/image-20220725092107011.png" alt="image-20220725092107011" style="zoom:80%;" />
+![image-20220725105916092](harddisk.assets/image-20220725105916092.png)
 
 1. 创建分区指令：n
 2. 创建一个主分区：p
