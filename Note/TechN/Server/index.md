@@ -57,7 +57,7 @@ http://isoredirect.centos.org/centos/7/isos/x86_64/
 
 [linux服务器](linux.md)
 
-[Centos的相关操作](Centos.md)
+[Centos的相关操作](Centos/index.md)
 
 ## MacOs
 
