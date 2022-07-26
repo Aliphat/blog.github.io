@@ -36,6 +36,10 @@ https://www.beianx.cn/  在线备案查询网站：第三方爬取开发
 
 [鹏程万里视频加密软件](https://www.pcwlenv.com/)
 
+[H5调用摄像头文件的插件](https://h5plugin.mumudev.top/#/pages/getQrcode/getQrcode)
+
+[JQuery的轮播插件](http://www.dowebok.com/demo/192/)
+
 ## 看电影以及下载音视频
 
 免费看斗罗大陆用在线解析网站： [解析站1iem](https://www.iembuy.com/)   [解析站2](https://v.ctrlqq.com/)   [解析站3](http://tv.hzwdd.cn/)  [解析站4](http://www.cjw123.com/jx/)

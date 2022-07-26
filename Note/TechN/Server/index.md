@@ -18,17 +18,13 @@
 
 ### 系统激活
 
-[爱纯净Windows激活工具大集合下载](http://www.aichunjing.com/jhgj1/)
+[爱纯净Windows激活工具大集合](http://www.aichunjing.com/jhgj1/)
 
 [系统激活下载网站](http://www.aichunjing.com/jhgj1/) ：批处理激活脚本 KMS_VL_ALL_AIO v46 中文版、 KMS激活工具 HEU KMS Activator v24.6.1、激活工具合集 KMS Tools Portable 20220201  等等。
 
 ### Ghost、系统安装下载
 
-[爱纯净GHOST镜像下载站](http://www.aichunjing.com/)
-
-[Win7之家Ghost下载站](https://www.win7zhijia.cn/xitong/chunjingban/)
-
- [Windows我告诉你，系统激活镜像站](https://msdn.itellyou.cn/) 
+[爱纯净GHOST镜像下载站 ](http://www.aichunjing.com/)             [Win7之家Ghost下载站](https://www.win7zhijia.cn/xitong/chunjingban/)               [Windows我告诉你，系统激活镜像站](https://msdn.itellyou.cn/) 
 
 [吻妻出品win7系统镜像](https://www.newxitong.com/)
 
@@ -55,7 +51,7 @@ http://isoredirect.centos.org/centos/7/isos/x86_64/
 [mirror.nsc.liu.se镜像源](http://mirror.nsc.liu.se/CentOS/)
 [阿里镜像源](http://mirrors.aliyun.com/centos/7.9.2009/isos/x86_64/)
 
-[linux服务器](linux.md)
+[linux服务器通用操作指南](linux.md)
 
 [Centos的相关操作](Centos/index.md)
 
