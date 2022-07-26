@@ -76,6 +76,14 @@
 
 ![img](index.assets/68747470733a2f2f696d616765732e67697465652e636f6d2f75706c6f6164732f696d616765732f323032322f303132362f3133333931365f63613936353435325f31363237332e706e67.png)
 
+### 7.[[Android\]](https://www.52pojie.cn/forum.php?mod=forumdisplay&fid=16&filter=typeid&typeid=232) **监听另一台手机的短信、微信、App的多种解决方案（通知转发、短信、微信消息转发）**
+
+来自吾爱pj，详情看下面连接。
+
+https://www.52pojie.cn/thread-1666208-8-1.html
+
+
+
 ## 其他
 
 [JavaServer酱简单实现什么值得买优惠信息推送到微信模版消息](https://www.52pojie.cn/thread-1327110-1-3.html)

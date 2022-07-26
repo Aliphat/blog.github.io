@@ -36,11 +36,9 @@
 
 ### 运维工程师
 
-1. 一个公司的网络应该如何建设？软硬路由、集成方案
-
 > * [运维能力：电脑各自系统柜之间的维护 Windows、linux、mac黑苹果](Note/TechN/Server/index.md)
 > * [呼叫中心：具备具有语音视频的能力](Note/TechN/callcenter/index.md)
-> * [运维能力：推送到手机的能力](Note/TechN/Push/index.md)
+> * [消息推送到手机](Note/TechN/Push/index.md)
 > * [运维能力：Nps远程映射](Note/Service/nps.md)
 > * [运维能力：远程桌面工具](Note/Doc/yuan-cheng.md)
 > * [运维能力：网络(目前主要是家庭光猫、家庭网络)](Note/TechN/Network/index.md)
