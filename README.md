@@ -5,7 +5,7 @@
 > * [站点导航](Note/index/index.md)：这是摄入信息的地方
 > * [工具](Note/index/tools.md)：这是协助你解决问题的地方
 > * [观光博客](Note/index/blogs.md)：这是大佬们的博客，看他们在分享什么
-> * [建站指南](Note/index/res.md)：推荐购买的域名、虚拟主机、服务器，CDN等
+> * [建站指南](Note/index/res.md)：推荐购买的域名、虚拟主机、服务器，CDN、建站资源等
 > * [网页、PPT、素材](Note/other/Yuanmares.md)
 > * [开放的APi接口及免费图床](Note/other/apis.md)：开发个小东西，说不定能用到
 

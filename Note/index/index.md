@@ -19,14 +19,13 @@
 ## 付费D版资源下载
 
 >- [编程办公-资源屋免费视频教程](https://www.ziyuanwu.com/se/teaching/bcbg)
->- [编程办公-资源屋](https://www.ziyuanwu.com/)
 >- [综合开发运维教程下载论坛](http://www.52download.cn/wpcourse/)   
 >- [天下无鱼](https://shikey.com/) - 专注于矿业工程技术、矿业开发学习、工程软件、编程干货分享的小博客
->- [IT营](https://www.itying.com/)：收费的体系化课程：大前端相关
 >- [666资源站](https://666java.com/)-优质互联网分享平台，资源每日更新
 >- [搜课网](https://www.soke.me/) - 最好的资源下载站
 >- [dmz社区](https://www.dmzshequ.com/)：盗版资源下载站
 >- [IT视频资源](https://www.97yrbl.com/)：盗版资源下载站
+>- [IT营](https://www.itying.com/)：无版权收集的教程去卖：大前端相关
 >
 
 ## 导航类资源 

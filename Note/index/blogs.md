@@ -70,8 +70,6 @@ https://www.kancloud.cn/lengyueguang/linux/561517
 
 ## 偏向工具类
 
-[随机笔记](http://blog.520.fi/category/software)：软件分享、强电、物联网
-
 [Sianx's ](https://www.sianx.com/page/2/#content-inner)：学生、前段、刷网课脚本
 
 ## 偏向爬虫
