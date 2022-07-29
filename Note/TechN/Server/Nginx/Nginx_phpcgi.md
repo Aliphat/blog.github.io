@@ -1,8 +1,6 @@
-# Nginx的配置和使用
-
-
-
 ### Windows 下手动配置 Nginx 及 PHP-CGI 多进程开机自启方法
+
+
 
 https://blog.csdn.net/maxsky/article/details/78820967
 

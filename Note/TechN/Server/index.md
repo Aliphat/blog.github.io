@@ -6,8 +6,6 @@
 
 [运维能力：web服务器（nginx、apache、Caddy2）](webserver.md)
 
-[Nginx配置文件](Nginx/index.md)
-
 [阿里云的云教程](https://developer.aliyun.com/adc/?spm=a2c6h.26020838.J_5404914170.24.10d12d294gNI8m)
 
 [阿里云的日志采集服务，优化智联招聘，服务器的性能](https://developer.aliyun.com/adc/scenario/5e1aca8e9cd14965a6e84ca5cf2fefd0)
@@ -21,6 +19,20 @@
  [rufus轻松创建启动盘](http://rufus.ie/zh/) ： Rufus此工具也是用于SD或U盘烧写，通常用于制作***\*windows、Ubuntu、Centos\****的U盘系统安装盘，以及制作PE启动的U盘等等，具体情况看你选择刷入的ISO（此软件为github开源软件）。
 
 [Win32DiskImager](https://win32diskimager.org/) ：此实用工具的主要功能是来写img文件到SD和U盘中，只要运行Win32DiskImager工具，填入自己的img，然后选择移动设备写入即可，通常用于烧写嵌入式linux U盘启动的bin或img（软件为绿色版已经被我打包为单文件版本）
+
+## 通用软件
+
+### Nginx
+
+[Nginx配置文件](Nginx/index.md)
+
+[Nginx配置phpcgi](Nginx\Nginx_phpcgi.md)
+
+### 宝塔控制面板
+
+[使用宝塔面板配置webhook，实现自动拉取git](https://blog.csdn.net/qq_40995752/article/details/89467931)
+
+
 
 ## Windows
 
@@ -47,8 +59,6 @@
 [CMD命令符如何使用](Windows/cmd.md)
 
 [Win使用cmd映射网络驱动器](Windows/cmd_ysqdq.md)
-
-
 
 ## WinServer
 
@@ -82,5 +92,7 @@ http://isoredirect.centos.org/centos/7/isos/x86_64/
 
 
 ## MacOs
+
+[2022年黑苹果macOS Big Sur/Monterey显卡支持列表，持续更新中。](https://heipg.cn/tutorial/gpu-support-for-hackintosh.html)
 
 [跳转进入详情页](MacOs.md)

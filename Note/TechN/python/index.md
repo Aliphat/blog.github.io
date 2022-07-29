@@ -1,14 +1,32 @@
 # Python
 
-Python快速开发web
+## 基本配置
 
-## 2.Python国内源
+### Python配置国内源加速下载
 
 [目前参考这篇文章](https://www.cnblogs.com/sunnydou/p/5801760.html)
 
 [这边文章主要是找国内源失效的url](https://blog.csdn.net/weixin_41633902/article/details/115754289)
 
+## 基本应用
 
+### 1、Python快速开发web
+
+## 优秀的库
+
+### [免费的分布式的自动化测试工具](http://www.selenium.org.cn/)
+
+
+
+### [MASR 中文语音识别](https://gitee.com/mindtracer/masr)
+
+**MASR**是一个基于**端到端的深度神经网络**的**开箱即用**的**中文普通话语音识别**工具。
+
+### [TrWebOCR-开源的离线OCR](https://github.com/alisen39/TrWebOCR)
+
+
+
+## 项目样例
 
 ### 1. 基于python+openCV+flask的实时移动检测ALL
 
@@ -31,18 +49,13 @@ Python快速开发web
 
 
 
-# 免费的分布式的自动化测试工具
-
-http://www.selenium.org.cn/
 
 
 
 
+## Python应用的领域
 
-# 什么是 Python？
-Python 很好用
-适合初学者
-而且在各个领域都很强大![在这里插入图片描述](index.assets/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5Y2a57yU,size_20,color_FFFFFF,t_70,g_se,x_16-16517224504666.png)
+![在这里插入图片描述](index.assets/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5Y2a57yU,size_20,color_FFFFFF,t_70,g_se,x_16-16517224504666.png)
 
 python3 早已有之
 最终逆风翻盘

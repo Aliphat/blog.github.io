@@ -2,21 +2,15 @@
 
 一个公司的网络应该如何建设？软硬路由、集成方案
 
-
-
-## 笔记
-
-[Nginx的配置和使用](Nginx.md)
-
-[CMD命令在网络下的应用](CMDtoNetwork.md)
-
-## 结果
-
 如何用闲置的带宽赚钱？https://www.1nth.com/post/pcdn/
 
 自己建设CDN的方案：https://shimo.im/docs/6CRrv8dcph6rYHJD/read
 
 ## 教程
+
+[Windows下使用DDNS进行公网IP解析到域名](http://zzyhome.cn/225/)
+
+
 
 [各种型号的光猫获取后台账户信息](Guangmao.md)
 
