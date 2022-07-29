@@ -48,7 +48,7 @@ https://www.beianx.cn/  在线备案查询网站：第三方爬取开发
 
 [小州音乐在线播放器（可搜索音乐）](http://y.webzcz.cn/)
 
-### 全网音乐免费下载工具
+## 全网音乐免费下载工具
 
 公告说明:提供多站合一 音乐试听 音乐下载 音乐搜索解决方案，接口基本全部修复，由于版权因素有些音乐不可下载，谢谢配合！
 
@@ -59,6 +59,8 @@ https://music.sonimei.cn/
 https://www.769sc.com/
 
 https://music.liuzhijin.cn/
+
+
 
 
 
@@ -73,6 +75,16 @@ https://music.liuzhijin.cn/
 
 
 ![image-20220415104918889](index.assets/image-20220415104918889.png)
+
+
+
+## 电脑上使用的小工具
+
+[PC软件监控小插件TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)：Traffic Monitor是一款用于Windows平台的网速监控悬浮窗软件，可以显示当前网速、CPU及内存利用率，支持嵌入到任务栏显示，支持更换皮肤、历史流量统计等功能。
+
+# 
+
+
 
 
 
