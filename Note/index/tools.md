@@ -4,13 +4,9 @@
 
  [🤣 Emoji表情大全，颜文字百科 💌 - EmojiXD](https://emojixd.com/) ： Json在线工具箱
 
-[阿里巴巴矢量图](https://www.iconfont.cn/)
-
  [officetools软件安装神器](https://otp.landian.vip/zh-cn/)
 
- [ico图标下载](https://sc.chinaz.com/tubiao/)
-
-[设计师设计logo](https://www.uugai.com/)
+ [ico图标下载](https://sc.chinaz.com/tubiao/)             [设计师设计logo](https://www.uugai.com/)          [阿里巴巴矢量图](https://www.iconfont.cn/)
 
 [抖音短视频解析](http://www.cainiaojiexi.com/)
 
@@ -80,11 +76,7 @@ https://music.liuzhijin.cn/
 
 ## 电脑上使用的小工具
 
-[PC软件监控小插件TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)：Traffic Monitor是一款用于Windows平台的网速监控悬浮窗软件，可以显示当前网速、CPU及内存利用率，支持嵌入到任务栏显示，支持更换皮肤、历史流量统计等功能。
-
-# 
-
-
+[githubPC软件监控小插件TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)   [知乎PC软件监控小插件TrafficMonitor](https://zhuanlan.zhihu.com/p/39542454)：Traffic Monitor是一款用于Windows平台的网速监控悬浮窗软件，可以显示当前网速、CPU及内存利用率，支持嵌入到任务栏显示，支持更换皮肤、历史流量统计等功能。
 
 
 

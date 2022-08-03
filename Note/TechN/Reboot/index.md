@@ -4,7 +4,7 @@
 
 [2022年可用QQ机器人框架 - 百度文库](https://wenku.baidu.com/view/7f3d06052c60ddccda38376baf1ffc4ffe47e2c2.html)
 
-
+[QQ机器人推送服务](https://qmsg.zendee.cn/)
 
 
 
