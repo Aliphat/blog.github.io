@@ -91,6 +91,10 @@ linux转win，之后，再转回去，就要付30元的服务费。联系技术�
 
 http://www.niutemplate.com/vip.html  下载网站会员分享站：分享其他源码下载网站的vip的站点
 
+https://www.jq22.com/   JQuery插件库，很多js插件
+
+
+
 ### 1、通用源码下载网站
 
 https://www.ymwu.com/  源码屋：源码非常之全的网站。
