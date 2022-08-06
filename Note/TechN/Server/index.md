@@ -66,9 +66,17 @@
 
  [Windows我告诉你，系统激活镜像站](https://msdn.itellyou.cn/) 
 
+
+
 ### 服务器配置
 
 [Windows Server基本配置](WinServe.md)
+
+[服务器如何修改远程登录3389端口](WinServerSafe/3389update.md)
+
+
+
+
 
 搭建Web-Server
 
