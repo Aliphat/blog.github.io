@@ -66,7 +66,7 @@
 
  [Windows我告诉你，系统激活镜像站](https://msdn.itellyou.cn/) 
 
-
+[Windows查看所有的端口号及其程序，待整理](https://blog.csdn.net/qq_37193537/article/details/87367648?spm=1001.2101.3001.6650.10&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-10-87367648-blog-114628571.pc_relevant_sortByStrongTime&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-10-87367648-blog-114628571.pc_relevant_sortByStrongTime&utm_relevant_index=14)
 
 ### 服务器配置
 

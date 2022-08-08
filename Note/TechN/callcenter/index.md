@@ -56,6 +56,8 @@ FreeSwitch软电话服务
 
 ### VOS相关
 
+[迷你PC安装](minipc.md)
+
 [安装VOS](vos_install.md)
 
 [使用VOS](vos_use.md)
@@ -65,6 +67,8 @@ FreeSwitch软电话服务
 [VOS6最新很详细的安装](vos6install.md)
 
 [Vos安全防护相关的内容](vosSafe.md)
+
+
 
 ## 本地电话呼叫转移
 
