@@ -60,6 +60,8 @@
 
 [Win使用cmd映射网络驱动器](Windows/cmd_ysqdq.md)
 
+[Win使用cmd管理防火墙](Windows/cmd_firewall.md)
+
 ## WinServer
 
 ### 系统安装

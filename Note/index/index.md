@@ -18,7 +18,6 @@
 
 ## 付费D版资源下载
 
->- [编程办公-资源屋免费视频教程](https://www.ziyuanwu.com/se/teaching/bcbg)
 >- [综合开发运维教程下载论坛](http://www.52download.cn/wpcourse/)   
 >- [天下无鱼](https://shikey.com/) - 专注于矿业工程技术、矿业开发学习、工程软件、编程干货分享的小博客
 >- [666资源站](https://666java.com/)-优质互联网分享平台，资源每日更新
