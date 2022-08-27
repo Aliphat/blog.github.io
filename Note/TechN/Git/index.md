@@ -2,6 +2,12 @@
 
 git国内下载[跳转链接](https://registry.npmmirror.com/binary.html?path=git-for-windows/)
 
+
+
+[git笔记教程](git笔记.md)
+
+
+
 ## Git删除本地任意提交记录的方法
 
 https://blog.csdn.net/weixin_46267445/article/details/122328025
