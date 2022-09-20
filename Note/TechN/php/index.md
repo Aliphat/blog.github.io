@@ -164,6 +164,14 @@ https://learnku.com/articles/65044
 
 [PHP实现保留两位小数](https://www.php.cn/php-weizijiaocheng-389366.html)
 
+[php TP5框架生成二维码](https://blog.csdn.net/weixin_43452467/article/details/107201706?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2~default~CTRLIST~Rate-1.pc_relevant_default&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2~default~CTRLIST~Rate-1.pc_relevant_default&utm_relevant_index=2)
+
+
+
+
+
+
+
 ### PHP日期时间的时间戳转换
 
 ```php

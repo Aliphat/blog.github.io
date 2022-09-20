@@ -74,6 +74,14 @@ docker-compose --version
 
 ## Ubuntu20.08的Docker安装
 
+其他备用方案：
+
+[1、Ubuntu安装docker/docker-compose(在全新系统状态下的安装)](https://www.cnblogs.com/whitedream-/p/14663858.html)
+
+[2、Linux(CentOS\Ubuntu)安装docker，国内源](https://blog.csdn.net/Sam_C/article/details/104525035)
+
+
+
 ### 1. 安装依赖
 
 ```shell
