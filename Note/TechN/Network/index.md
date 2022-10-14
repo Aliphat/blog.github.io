@@ -34,6 +34,12 @@ http://192.168.1.1:8080/bridge_route.gch
 
 
 
+
+
+# [Hyper-V 搭建独臂路由器（单网卡也可以） ](https://www.cnblogs.com/hoyu/p/dubiluyou.html)
+
+
+
 ### 路由器根据系统分类
 
 #### Padavan固件

@@ -58,14 +58,6 @@
 > * [2020年最新广告法淘宝违禁词敏感词在线查询检测工具](http://www.ju1.cn/)
 > * [网易云音乐API](https://binaryify.github.io/NeteaseCloudMusicApi/#/)
 
-## 图床API
-
-> * [图床导航大全](http://imgdh.com/)
-> * [遇见图床](https://www.hualigs.cn/)
-> * [站长啦图床](http://top.cnzzla.com/tuchuang/qq.html)：免费CDN图床，支持阿里、搜狐、侠聚、京东、头条、网易、腾讯等多家图床。
-> * [映画の图床-极速CDN](https://imgs.top/)：免费CDN图床，需要登录。支持百度、联想、携程、苏宁、易车。
-> * [图片一键上传到图床返回链接](https://gitee.com/xiebruce/PicUploader)
-
 ## 短信验证码接口API
 
 > - [腾讯云第三方短信验证码接口](https://market.cloud.tencent.com/products/15477)
