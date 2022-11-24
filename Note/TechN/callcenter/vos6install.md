@@ -138,3 +138,506 @@ Phone-port: 9091
 
 
 http://121.40.48.13:5101/protective.php
+
+
+
+
+
+> 本套方案采用ims端做一台服务器，然后映射到一台公网服务器，然后我们可以直接使用公网服务器。
+
+
+
+## 安装远程向日葵
+
+连接显示器，开机，使用WLAN上网，安装向日葵
+术语：
+	找台正在用的主机，然后将后面的VGA线拔下来，插到小主机上。
+[向日葵下载地址](https://sunlogin.oray.com/download/)
+
+
+
+
+![在这里插入图片描述](vos6install.assets/e2375530a282417082bd15a5aa946bc5-16517339522667.png)
+
+
+
+
+## 安装VOS
+
+[VOS使用的Centos6.1迷你版](http://mirror.nsc.liu.se/centos-store/6.1/isos/x86_64/CentOS-6.1-x86_64-minimal.iso)
+
+## 附件
+
+
+
+## 待解决的问题？
+
+1. 【已解决】只能拨打一分钟？==> 虚拟机未开通公网ip，无法将流量转发到阿里云。
+2. 【已解决】双方没有声音，okcc本地录音可以。  ==》 原因如同第一个问题。
+3. 【已解决】拨打电话经常会出现403的问题，有可能是拨打太频繁导致的。  ==》被ims运营商给限制了。关闭极护PPX就可以。目前还在寻找解决方案。一定要将部署上的ims线路进行落地。
+
+
+## 思路：
+
+在ims本地端安装一台vos，本地电脑需要开通公网ip地址。
+在阿里云服务器安装一台云端服务器
+将本地与云端服务器，进行对接。
+
+采用OpenWrt中转的方式。lede 中安装 dmz插件，转发到vos虚拟机中，然后对接到okcc，对接方式：采用对等模式。先创建落地网关对接落地，再对接网关对接来自呼叫中心的呼入。
+
+## 安装流程：
+
+准备好VOS3000 V2.1.6.0的安装包
+
+### 一、优先安装ims端vos：
+
+#### 1.重点硬件：双网卡
+
+配置路由！
+
+配置永久路由：
+
+```Shell
+#  在/etc/rc.local里添加
+route add -net 218.201.120.0 netmask 255.255.255.0 gw 172.17.145.129
+route add -net 172.17.145.128 netmask 255.255.255.224 gw 172.17.145.129
+
+```
+
+```Shell
+centos下双网卡双线双IP的配置方法(转)
+
+Linux双网卡双线双IP。
+【方法1】
+例如：
+固定电信和网通IP地址/掩码/网关到网卡:eth0和eth1
+eth0配置文件固定：60.29.231.160 255.255.255.192 60.29.231.1（网通IP）
+eth1配置文件固定：114.80.66.145 255.255.255.192 114.80.66.1（电信IP）
+#vi /etc/iproute2/rt_tables（增加电信和网通两个路由表）
+252  tel （电信）
+251  cnc （网通）
+ 
+复制代码 代码示例:
+#vi /etc/rc.d/rc.local（设置电信和网通路由表内容）
+ip route replace default via 114.80.66.1 dev eth1（默认路由线路）
+ip route flush table tel  （刷新tel路由表）
+ip route add default via 114.80.66.1 dev eth1 src 114.80.66.145 table tel（添加回环地址）
+ip rule add from 114.80.66.145 table tel（从114.80.66.145过来的，走tel路由）
+ip route flush table cnc
+ip route add default via 60.29.231.1 dev eth0 src 60.29.231.160 table cnc
+ip rule add from 60.29.231.160 table cnc 保存退出
+#reboot（重启）
+
+
+【方法2】 
+例如：
+固定电信和网通IP地址/掩码/网关到网卡:eth0和eth1
+eth0配置文件固定：60.29.231.160 255.255.255.192 60.29.231.1（网通IP）
+eth1配置文件固定：114.80.66.145 255.255.255.192 114.80.66.1（电信IP）
+
+eth1:（电信）
+114.80.66.145(IP地址)
+255.255.255.192(掩码)
+114.80.66.1(网关)
+
+eth0: （网通）
+60.29.231.160(IP地址)
+255.255.255.192(掩码)
+注意：此处不要再设置网通的gateway(网关)
+
+# vi /etc/iproute2/rt_tables
+251 cnc (251可以是1-254之间任意，但不能与路由表已有的一样)
+ 
+复制代码 代码示例:
+# vi /etc/rc.local
+ip route add default via 60.29.231.1 dev eth0 src 60.29.231.160  table cnc
+ip rule add from 60.29.231.160 lookup cnc
+ip rule add to 60.29.231.160 lookup cnc
+# reboot
+
+说明：
+因为就2个线路，此方法和上面的方法区别：
+电信做主路由，只需新建一个cnc的路由表即可。
+推荐使用方法2。
+```
+
+
+```Shell
+# 实现这个状态
+172.17.145.128/27 dev eth1  proto kernel  scope link  src 172.17.145.132 
+192.168.101.0/24 dev eth0  proto kernel  scope link  src 192.168.101.233 
+169.254.0.0/16 dev eth0  scope link  metric 1002 
+169.254.0.0/16 dev eth1  scope link  metric 1003 
+default via 192.168.101.1 dev eth0 
+```
+
+
+> ims内网网卡：联接ims，负责线路。直连移动ims终端
+
+```Shell
+DEVICE=eth1
+HWADDR=00:0C:29:0F:04:C6
+TYPE=Ethernet
+UUID=4129e275-24d6-4b50-811c-b7b0d2ed01b0
+ONBOOT=yes
+NM_CONTROLLED=yes
+BOOTPROTO=static
+IPADDR=172.17.145.132
+NETMASK=255.255.255.224
+NETWORK=172.17.145.128
+GATWAY=172.17.145.129
+```
+
+
+> 外网网卡：配置互联网，将ims分出sip线路，共享到阿里云。
+
+```Shell
+DEVICE=eth0
+HWADDR=00:0C:29:0F:04:BC
+TYPE=Ethernet
+UUID=b8630bca-313c-4159-9482-70e7f3e4bafe
+ONBOOT=yes
+NM_CONTROLLED=yes
+BOOTPROTO=static
+IPADDR=192.168.101.233
+NETMASK=255.255.255.0
+NETWORK=192.168.101.0
+GATEWAY=192.168.101.1
+DNS1=114.114.114.114
+DNS2=1.2.4.8
+
+```
+
+#### 2.虚拟机安装Centos6.5的操作系统
+
+1. 上传一件安装脚本到系统的/home路径下
+2. 配置系统的yum源，附件如下：
+
+```Shell
+[extras]
+gpgcheck=1
+gpgkey=http://113.125.102.158:8989/centos6/RPM-GPG-KEY-CentOS-6
+enabled=1
+baseurl=http://113.125.102.158:8989/centos6/extras/
+name=Qcloud centos extras - $basearch
+[os]
+gpgcheck=1
+gpgkey=http://113.125.102.158:8989/centos6/RPM-GPG-KEY-CentOS-6
+enabled=1
+baseurl=http://113.125.102.158:8989/centos6/os/
+name=Qcloud centos os - $basearch
+[updates]
+gpgcheck=1
+gpgkey=http://113.125.102.158:8989/centos6/RPM-GPG-KEY-CentOS-6
+enabled=1
+baseurl=http://113.125.102.158:8989/centos6/updates/
+name=Qcloud centos updates - $basearch
+```
+
+#### 3. 系统降核：
+
+#### 4. VOS系统激活
+
+购买正版激活码，然后对其进行激活。
+
+### 二、安装阿里云vos：
+
+
+关于探索历史：
+从github上找vos的源码
+
+
+
+
+
+> 本套方案采用ims端做一台服务器，然后映射到一台公网服务器，然后我们可以直接使用公网服务器。
+
+## 思路：
+
+在ims本地端安装一台vos，本地电脑需要开通公网ip地址。
+在阿里云服务器安装一台云端服务器
+将本地与云端服务器，进行对接。
+
+## 安装流程：
+
+准备好VOS3000 V2.1.6.0的安装包
+
+### 一、优先安装ims端vos：
+
+#### 1.重点硬件：双网卡
+
+配置路由！
+
+配置永久路由：
+
+```Shell
+#  在/etc/rc.local里添加
+route add -net 218.201.120.0 netmask 255.255.255.0 gw 172.17.145.129
+```
+
+```Shell
+# 实现这个状态
+172.17.145.128/27 dev eth1  proto kernel  scope link  src 172.17.145.132 
+192.168.101.0/24 dev eth0  proto kernel  scope link  src 192.168.101.233 
+169.254.0.0/16 dev eth0  scope link  metric 1002 
+169.254.0.0/16 dev eth1  scope link  metric 1003 
+default via 192.168.101.1 dev eth0 
+```
+
+
+> ims内网网卡：联接ims，负责线路。直连移动ims终端
+
+```Shell
+DEVICE=eth1
+HWADDR=00:0C:29:0F:04:C6
+TYPE=Ethernet
+UUID=4129e275-24d6-4b50-811c-b7b0d2ed01b0
+ONBOOT=yes
+NM_CONTROLLED=yes
+BOOTPROTO=static
+IPADDR=172.17.145.132
+NETMASK=255.255.255.224
+NETWORK=172.17.145.128
+GATWAY=172.17.145.129
+```
+
+
+> 外网网卡：配置互联网，将ims分出sip线路，共享到阿里云。
+
+```Shell
+DEVICE=eth0
+HWADDR=00:0C:29:0F:04:BC
+TYPE=Ethernet
+UUID=b8630bca-313c-4159-9482-70e7f3e4bafe
+ONBOOT=yes
+NM_CONTROLLED=yes
+BOOTPROTO=static
+IPADDR=192.168.101.233
+NETMASK=255.255.255.0
+NETWORK=192.168.101.0
+GATEWAY=192.168.101.1
+DNS1=114.114.114.114
+DNS2=1.2.4.8
+
+```
+
+#### 2.虚拟机安装Centos6.5的操作系统
+
+1. 上传一件安装脚本到系统的/home路径下
+2. 配置系统的yum源，附件如下：
+
+```Shell
+[extras]
+gpgcheck=1
+gpgkey=http://113.125.102.158:8989/centos6/RPM-GPG-KEY-CentOS-6
+enabled=1
+baseurl=http://113.125.102.158:8989/centos6/extras/
+name=Qcloud centos extras - $basearch
+[os]
+gpgcheck=1
+gpgkey=http://113.125.102.158:8989/centos6/RPM-GPG-KEY-CentOS-6
+enabled=1
+baseurl=http://113.125.102.158:8989/centos6/os/
+name=Qcloud centos os - $basearch
+[updates]
+gpgcheck=1
+gpgkey=http://113.125.102.158:8989/centos6/RPM-GPG-KEY-CentOS-6
+enabled=1
+baseurl=http://113.125.102.158:8989/centos6/updates/
+name=Qcloud centos updates - $basearch
+```
+
+#### 3. 系统降核：
+
+#### 4. VOS系统激活
+
+购买正版激活码，然后对其进行激活。
+
+### 二、安装阿里云vos：
+
+
+关于探索历史：
+从github上找vos的源码
+
+待解决的问题？
+
+1. 只能拨打一分钟？
+2. 双方没有声音，okcc本地录音可以。
+3. 拨打电话经常会出现403的问题，有可能是拨打太频繁导致的。
+
+
+
+
+
+### 1.VOS虚拟机系统使用
+
+
+- 配置ims线路账户
+- 将ims线路进行落地操作。
+- 配置阿里云ims线路，不需要进行落地
+- 配置话机用于测试。
+
+
+### 2.VOS阿里云系统使用
+
+- 阿里云在线对接ims端虚拟机
+- 配置话机线路，用以对接天天外呼
+
+
+### 3.天天外呼对接VOS系统
+
+- 配置天天外呼，外呼系统。
+- MicroSip电话的配置
+- 或者 eyeBeam 软电话的配置
+
+
+
+#### 1.新添加号码
+
+导入Excel账户，应用，修改落地通话限制，修改菜单里的，转发从自动改为确定。
+
+
+
+#### 2.新添加SIP账户
+
+出现问题，就直接添加新企业账户。
+
+
+### 4.vos数据操作
+
+```Shell
+# 虚拟机本地主机
+GRANT ALL PRIVILEGES ON *.* TO 'root'@'192.168.101.%' IDENTIFIED BY '' WITH GRANT OPTION;
+flush privileges;
+
+REVOKE ALL PRIVILEGES ON *.*  'root'@'192.168.101.%';
+flush privileges;
+
+
+# 远程本地远程
+GRANT ALL PRIVILEGES ON *.* TO 'root'@'112.240.14.183' IDENTIFIED BY '' WITH GRANT OPTION;
+flush privileges;
+
+REVOKE ALL ON *.*  'root'@'112.240.14.183';
+flush privileges;
+
+```
+
+
+
+
+
+## 问题解决方案？
+
+如果出现 服务器未注册的情况？
+
+
+解决电话封号问题，
+
+1. 现有外显本机号码，
+   2.专业回呼系统+直呼系统
+   3.接所有的行业
+   4.解决封卡封号问题，
+   5.线路稳定，欢迎咨询
+   6.不限数量
+   电话13849641417微信同步
+   欢迎咨询
+
+
+
+
+
+## 本地电话呼叫转移
+
+### 呼叫转移设置方法如下：
+
+1. 拨打*41*DN#设置无应答转移，拨打#41#取消无应答转移。
+2. 拨打*40*DN#设置遇忙转移，拨打#40#取消遇忙转移。
+3. 拨打*57*DN#设置无条件转移，拨打#57#取消无条件转移。
+
+### 温馨提醒：	
+
+1. DN表示需转移的号码。
+2. 呼叫转移产生的通话费按固话正常通话费缴纳，若办理的套餐有分钟数，呼叫转移所产生的分钟数按正常计费规则进行抵扣。
+
+## 本地线路上云方案
+
+### 方案一:运营商为模拟线路
+
+线路要求:运营商根据客户需求通过小交连选等方式实现多条模拟线对应同一个联通接入号，实现多人同时拨打该号码能依次给多条电话线振铃。
+设备要求:用户侧提供O口模拟网关与联通模拟线对接，且模拟网关接入任何能访问云主机的互联网网线。
+
+### 方案二:联通提供公网上的SIP线路，比如联通BPO业务
+
+线路要求:
+1 联通将用户指定固话号做到联通BPO平台
+2 联通BPO平台提供公网注册地址，用户名及密码。
+设备要求: 无需其他设备，云主机直接向联通sip注册。
+
+### 方案三:联通提供内网上的SIP线路，类似于移动IMS业务。
+
+设备要求:
+1 用户侧提供一台双网卡物理服务器或台式机，操作系统为windows7及以上或centos6.5及以上。
+2 物理服务器或台式机一个网卡接能放问云主机的互联网网线。
+3 物理服务器或云主机另一个网卡接联通内网(语音专线)网线。
+线路要求:
+1 联通提供可供号码注册的内网(或语音专线)，提供终端设备(服务器或台式机)使用的ip地址
+2 联通提供内网注册地址，用户名及密码。
+
+
+
+
+
+
+
+## 电话线无法通过O口网关连接到话务系统服务器？
+
+答：O口网关跟话务系统服务器要选择相同的加密方式。
+
+打不出电话去？
+
+答：用SIP软电话检查O口网关是否注册好，没有注册好的好，先配置好O口网关，如果注册好的话，检查S口网关能不能收到电话信号，收不到检查S口网关是否注册到话务系统服务器，确保S端口对应的sip注册成功，然后检查是否能通话。
+
+接电话62秒之后自动挂断？
+
+答：在一分钟的时候，语音网关话务系统服务器发来的挂断的语音包，修改话务系统服务器设置。
+
+接电话正常通话40秒、十分钟之后没有声音，但电话没有挂断？
+
+原因：一段时间之后 s口网关收不到服务器发来的rtp数据包；接受语音的网络端口号，会发生改变，目前还是不知道什么原因造成的。
+
+
+
+
+
+
+
+# vos3000 VOS3000端口介绍及安全防护
+
+如何把 web端口改为8080之外的端口 
+
+vos3000 ，如何修改web端口
+
+vi /home/kunshiweb/base/apache-tomcat-7.0.23/conf/server.xml
+
+![安装文件](vos6install.assets/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5Y2a57yU,size_20,color_FFFFFF,t_70,g_se,x_16-16517360463961.png)
+找到这里的8080，把它改为1024以上端口 （web端口由kunshiweb用户启动，故无法使用1024以下端口，若确需修改，可联系技术人员）
+
+/etc/init.d/vos3000webct restart （V2.1.4.0执行该命令）
+/etc/init.d/webserverd restart （V2.1.6.00执行该命令）
+
+
+
+tcp 端口：
+vos登录: 1202
+web： 8080 52088 61888 88
+ssh:22
+数据库：3306 3389
+H323： 443 1719 1720 3719 3720
+H245： 10000-49999
+UDP端口:
+数据库：3306 3389
+ssh:22
+SIP： 5060 5070 2028 2038(RC4)
+
+RTP: 10000-49999

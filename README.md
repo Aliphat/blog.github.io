@@ -56,7 +56,6 @@
 
 ## 一些简单未归纳教程
 
-> * [电脑问题解决方案](Note/Service/s1.md)
 > * [vscode 免密登陆服务器](vscode-ssh/vscode-ssh.md)
 > * [蓝奏云链接失效](Note/other/lanzou.md)
 > * [如何禁止搜索引擎收录抓取](Note/other/seo.md)
@@ -65,7 +64,7 @@
 > * [短链系统的私有化部署与开发](Note/other/short-link.md)
 > * [人生的一些感悟](Note/index/Think.md)
 
-## 如何建设一份本博客：
+## How to copy this：
 
 > * [搭建免费 Docsify + Pages 个人静态博客](new-blog/README.md)
 > * [利用免费 CDN 加速你的网页](speedup-web/speedup-web.md)
