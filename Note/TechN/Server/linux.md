@@ -231,8 +231,6 @@ systemctl reload firewalld
 
 
 
-
-
 ### Centos6和Centos7忘记密码
 
 ```shell
@@ -265,91 +263,6 @@ reboot重启即可
 ```
 
 
-
-### 同步系统时间：可用NTP服务器IP
-
-````shell
-> 使用命令linux
-```Shell
-ntpdate  182.92.12.11
-```
-
-> 更新时区
-
-```Shell
-cp /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
-```
-
-> 其他可用服务器
-
-182.92.12.11
-203.107.6.88
-202.118.1.81
-120.25.115.20
-103.11.143.248
-133.243.238.243
-85.199.214.100
-更新时间：2021年06月12日
-
-
-> 问题解决
-1. ESX Server的时间准确比较重要，因为其上的VM（虚拟主机）的时间与其同步。在ESX4上使用NTP服务器同步时间，却遇到了“the NTP socket is in use, exiting”的问题，操作过程命令如下：
-  
-```Shell
-# linux 设置开机自动校准时间
-
-# 1.设置开机自启动ntpd
-chkconfig ntpd on
-
-# 2.编辑 vi  /etc/ntp.conf  添加以下Server
-
-server 182.92.12.11
-server 182.92.12.11
-server 203.107.6.88
-server 202.118.1.81
-server 120.25.115.20
-
-```
-
-
-```Shell
-[root@esx4 ~]# ntpdate ntp.api.bz
-21 Sep 14:39:09 ntpdate[24744]: the NTP socket is in use, exiting
-
-[root@esx4 ~]# service ntpd stop
-Shutting down ntpd:                                        [  OK  ]
-
-[root@esx4 ~]# ntpdate ntp.api.bz
-21 Sep 15:22:43 ntpdate[25723]: step time server 114.80.81.1 offset 2312.159684 sec
-```
-
-# Debian安装ntpd
-详细教程在这里
-https://blog.csdn.net/qq_34885615/article/details/109536384?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1.pc_relevant_default&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1.pc_relevant_default&utm_relevant_index=2
-
-```Shell
-# 安装ntpd
-sudo apt install ntpdate -y
-# 同步
-ntpdate 182.92.12.11
-```
-
-## 遇到问题
-### 问题1：
-
-详情请见这里
-https://blog.csdn.net/qq_36154886/article/details/108728553
-
-```Shell
-[root@localhost ~]# ntpdate 182.92.12.11
-22 Sep 11:54:25 ntpdate[70350]: the NTP socket is in use, exiting
-```
-
-
-
-
-
-````
 
 
 
