@@ -3,17 +3,10 @@
 ## Zero
 
 > * [站点导航](Note/index/index.md)：这是摄入信息的地方
-> * [工具](Note/index/tools.md)：这是协助你解决问题的地方
-> * [开放的APi接口及免费图床](Note/other/apis.md)：开发个小东西，说不定能用到
-> * [观光博客](Note/index/blogs.md)：这是大佬们的博客，看他们在分享什么
-> * [建站指南](Note/index/res.md)：推荐购买的域名、虚拟主机、服务器，CDN、建站资源等
 
 ### 产品经理
 
 > * [产品经理](Note/tx_company/product.md)
-> * [设计师能力：ps](Note/TechN/design/index.md)
-> * [视频编辑能力](Note/TechN/Video.md)
-> * [数据分析能力：大数据及数据分析与人工智能](Note/TechN/BigData/index.md)
 > * [一图看懂企业权利结构 CEO、CFO、CTO、COO是什么职位](Note/tx_company/compay_jiagou.md)
 
 ### 开发工程师
@@ -56,7 +49,6 @@
 ## 一些简单未归纳教程
 
 > * [vscode 免密登陆服务器](vscode-ssh/vscode-ssh.md)
-> * [蓝奏云链接失效](Note/other/lanzou.md)
 > * [如何禁止搜索引擎收录抓取](Note/other/seo.md)
 > * [如何迁移typecho博客](Note/other/typecho.md)
 > * [建设一份typecho博客](Note/other/typechobuild.md)
