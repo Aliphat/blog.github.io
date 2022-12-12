@@ -15,7 +15,6 @@
 > * [视频编辑能力](Note/TechN/Video.md)
 > * [数据分析能力：大数据及数据分析与人工智能](Note/TechN/BigData/index.md)
 > * [一图看懂企业权利结构 CEO、CFO、CTO、COO是什么职位](Note/tx_company/compay_jiagou.md)
-> * [QQ和微信机器人开发](Note/TechN/Reboot/index.md)
 
 ### 开发工程师
 
