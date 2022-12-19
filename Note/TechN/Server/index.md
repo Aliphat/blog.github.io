@@ -100,9 +100,3 @@ http://isoredirect.centos.org/centos/7/isos/x86_64/
 [Centos的基本操作](Centos/index.md)
 
 
-
-## MacOs
-
-[2022年黑苹果macOS Big Sur/Monterey显卡支持列表，持续更新中。](https://heipg.cn/tutorial/gpu-support-for-hackintosh.html)
-
-[跳转进入详情页](MacOs.md)
