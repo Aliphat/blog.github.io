@@ -15,15 +15,11 @@
 2. 项目稳定后：用Java、Go等语言进行重构。
 
 > * 技术体系：[书栈网](https://www.bookstack.cn/)   [文江技术手册](https://www.wenjiangs.com/doc)   [编程之路](https://github.com/rd2coding/Road2Coding) [helloGithub官网](https://hellogithub.com/) [HelloGitHub站github](https://github.com/521xueweihan/HelloGitHub)  [免费的学习资源](https://github.com/aluismoya/EbookFoundation-free-programming-books)
-> * [腾讯全家桶：公众号、小程序、云开发、QQ接口](Note/TechN/Tencent.md)
 > * [前端开发：Nodejs以及Uniapp大前端：快速开发，验证商业模式](Note/TechN/Nodejs/index.md)
 > * [数据库：结构设计，支撑](Note/TechN/Databases/index.md)
 > * [PHP：快速开发，验证商业模式](Note/TechN/php/index.md)
 > * [Python：人工智能、爬虫](Note/TechN/python/index.md)
 > * [爬虫：网络抓包](Note/TechN/Network/Zhuabao/index.md)
-> * [Java：稳定运营，高并发、跨平台能力](Note/TechN/Java/index.md)
-> * [Golang：稳定运营，开发分布式网站](Note/TechN/Golang/index.md)
-> * [桌面端能力：易语言、C++、C#](Note/TechN/Epl.md)
 
 ### 运维工程师
 
@@ -31,20 +27,13 @@
 
 > * [运维能力：电脑各自系统柜之间的维护 Windows、linux、mac黑苹果](Note/TechN/Server/index.md)
 > * [呼叫中心：具备具有语音视频的能力](Note/TechN/callcenter/index.md)
-> * [消息推送到手机](Note/TechN/Push/index.md)
-> * [运维能力：Nps远程映射](Note/Service/nps.md)
 > * [运维能力：远程桌面工具](Note/Doc/yuan-cheng.md)
 > * [运维能力：网络(目前主要是家庭光猫、家庭网络)](Note/TechN/Network/index.md)
 > * [运维能力：安全](Note/TechN/Safe/index.md)
 > * [硬件能力：垃圾佬、物联网](Note/TechN/Hardware/index.md)
 > * [运维能力：云主机虚拟化pve/vmwareFusion](Note/TechN/VMware/index.md)
->* [开发运维：Git](Note/TechN/Git/index.md)
+> * [开发运维：Git](Note/TechN/Git/index.md)
 > * [运维能力：docker](Note/TechN/Server/docker.md)
->* [运维能力：k8s、devpos](Note/TechN/Cloudcomputing/index.md)
-
-### 测试工程师
-
-> * [测试能力：测试网站漏洞](Note/TechN/Test.md)
 
 ## 一些简单未归纳教程
 
