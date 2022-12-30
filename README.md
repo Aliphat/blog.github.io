@@ -1,13 +1,6 @@
 ### 👋杰克·斯坦森的blog👋
 
-## Zero
 
-> * [站点导航](Note/index/index.md)：这是摄入信息的地方
-
-### 产品经理
-
-> * [产品经理](Note/tx_company/product.md)
-> * [一图看懂企业权利结构 CEO、CFO、CTO、COO是什么职位](Note/tx_company/compay_jiagou.md)
 
 ### 开发工程师
 
@@ -23,15 +16,8 @@
 
 ### 运维工程师
 
-运维
-
 > * [运维能力：电脑各自系统柜之间的维护 Windows、linux、mac黑苹果](Note/TechN/Server/index.md)
 > * [呼叫中心：具备具有语音视频的能力](Note/TechN/callcenter/index.md)
-> * [运维能力：远程桌面工具](Note/Doc/yuan-cheng.md)
-> * [运维能力：网络(目前主要是家庭光猫、家庭网络)](Note/TechN/Network/index.md)
-> * [运维能力：安全](Note/TechN/Safe/index.md)
-> * [硬件能力：垃圾佬、物联网](Note/TechN/Hardware/index.md)
-> * [运维能力：云主机虚拟化pve/vmwareFusion](Note/TechN/VMware/index.md)
 > * [开发运维：Git](Note/TechN/Git/index.md)
 > * [运维能力：docker](Note/TechN/Server/docker.md)
 
