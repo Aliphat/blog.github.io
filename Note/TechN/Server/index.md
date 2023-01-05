@@ -1,12 +1,5 @@
 # Windows、linux、mac等系统维护
 
-## 通用工具
-
-
-[运维能力：web服务器（nginx、apache、Caddy2）](webserver.md)
-
-
-
 
 ## 通用软件
 
@@ -18,16 +11,9 @@
 
 
 
-## Windows
 
-
-### 系统配置
-
-[CMD命令符如何使用](Windows/cmd.md)
 
 [Win使用cmd映射网络驱动器](Windows/cmd_ysqdq.md)
-
-[Win使用cmd管理防火墙](Windows/cmd_firewall.md)
 
 ## WinServer
 
